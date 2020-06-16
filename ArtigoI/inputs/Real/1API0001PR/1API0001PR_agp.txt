@@ -1,0 +1,1124 @@
+ POCO           :   1API 0001  PR       
+                                                                                                                                     
+ IDENTIFICADOR  :   SG22A12NE67T35B                         BACIA          :   PARANA                                                
+ CAMPO          :                                           DATUM          :   SAD-69                                                
+ LATITUDE       :   -24.08332 (  -24   4 60.0)              LONGITUDE      :   -53.52610 (  -53  31 34.0)                            
+ MERID.CENTRAL  :   - 51                                    COORD.UTM FUNDO:    7334201.8S  243166.0W                                
+ DISTRITO       :   E&P-SUL                                 ESTADO         :   PR                                                    
+ MUNICIPIO      :   ALTO PIQUIRI                            CODIGO POCO    :   016028                                                
+ QUADRICULA     :   21733424                                MESA ROTATIVA  :    324.3                                                
+ B.A.P          :     315.3                                 P.F.SONDADOR   :   5909.0                                                
+ PROF.MX.PERF.  :   5911.0                                  METROS PERF.   :   5911.0                                                
+ MAIOR PROF.    :   5911.0                                  INICIO         :   07/05/91                                              
+ TERMINO        :   13/01/92                                DATA LIB.SONDA :   06/03/92                                              
+ ULT.RECLASSIF. :   10/03/92                                ULT.RECLASSIF. :   LOCACAO                                               
+ SITUACAO LOC.  :   CONCLUIDO                               DATA APROV.LOC :   22/11/90                                              
+ CADASTRO       :   07523                                   SEDOC          :   0449                                                  
+ SONDA          :   SC11                                    FORMACAO P.F.  :   F FURNAS                                              
+ TERRA / MAR    :   TERRA                                   ACS RISCO      :                                                         
+ CONTR. RISCO   :                                           DOC.APROV.LOC. :   DEPEX-T-333.086/1990                                  
+ NOME           :   ALTO PIQUIRI.1                          CLASSIFICACAO  :   PIONEIRO                                              
+ RECLASSIFICACAO:   SECO SEM INDICACAO DE H.C.                                                                                       
+ MC C.UTM BASE  :   - 51                                    COORD.UTM BASE :     7334201.8S    243166.0W                             
+ DADOS  LOCACAO :                                                                                                                    
+ MC LOCACAO     :   - 51                                    COORD.UTM LOC. :     7334201.8S   243166.0W                              
+ DATUM LOCACAO  :   SAD-69                                  EMPR. OPER.1/2 :    PETROBRAS                                            
+ DIRECIONAL?    :   VERTICAL                                                                                                         
+ HISTORICO DA RECLASSIFICACAO -      31/01/92   -  INDEFINIDO.                                           - SITUACAO ATUAL            
+                                     10/03/92   -  SECO SEM INDICACAO DE H.C.                            - RECLASSIFICACAO           
+-----------------                                                               
+ REVESTIMENTOS -         TIPO           PROFUNDIDADE        DIAMETRO       IND. DE RECUPERACAO                                       
+-----------------                                                               
+                    TUBO CONDUTOR        12.0  (  312.3)    30               NAO                                                     
+                    REV. SUPERFICIE      61.0  (  263.3)    18 5/8           DADO NAO REVISTO                                        
+                    REV. INTERMED.     1822.0  (-1497.7)    13 3/8           SIM                                                     
+                    REV. INTERMED.     3400.0  (-3075.7)     9 5/8           SIM                                                     
+------------------------------                                                  
+ INTERVALOS TAMPONEADOS -TOPO                BASE                     TIPO DE TAMPAO                                                 
+------------------------------                                                  
+                          20.0   (  304.3)   130.0   (  194.3)        ABANDONO                                                       
+                        1726.0   (-1401.7)  1872.0   (-1547.7)        ABANDONO                                                       
+                        2231.0   (-1906.7)  2332.0   (-2007.7)        ABANDONO                                                       
+                        2584.0   (-2259.7)  2685.0   (-2360.7)        ABANDONO                                                       
+                        3322.0   (-2997.7)  3403.0   (-3078.7)        ABANDONO                                                       
+                        3707.0   (-3382.7)  4000.0   (-3675.7)        ABANDONO                                                       
+                        4615.0   (-4290.7)  4750.0   (-4425.7)        ABANDONO                                                       
+                        5422.0   (-5097.7)  5650.0   (-5325.7)        ABANDONO                                                       
+-----------------------                                                         
+ UNID.VERTICALIZADAS -                                                                                                               
+-----------------------                                                         
+ TIP QL N O M E  CODIGO  TOPO / COTA     DESC. TOPO   BASE / COTA      DESC. BASE   MET TEMPO FONTE DE INTERPRETACAO       DATA      
+ L   B  G CAIUA  218043     9.0(  315.3) DISCORDANCIA   34.0 (  290.)                B        E&P SUL/GERET                03/01/1995
+ L   B  G SAOBEN 367043    34.0(  290.3) DISCORDANCIA 1563.0 (-1238.)                E        E&P SUL/GERET                03/01/1995
+ L   B  F SGERAL 416043    34.0(  290.3) DISCORDANCIA 1379.0 (-1054.)                E        E&P SUL/GERET                03/01/1995
+ L   B  F BOTUCA 660054  1379.0(-1054.7)              1563.0 (-1238.)                E        E&P SUL/GERET                03/01/1995
+ L   B  F PIRAMB 661050  1563.0(-1238.7) DISCORDANCIA 1755.0 (-1430.)                E        E&P SUL/GERET                03/01/1995
+ L   B  G PASDOI 707060  1755.0(-1430.7) DISCORDANCIA 3435.0 (-3110.)                E        E&P SUL/GERET                03/01/1995
+ L   B  F RRASTO 708060  1755.0(-1430.7) DISCORDANCIA 2140.0 (-1815.)                E        E&P SUL/GERET                03/01/1995
+ L   B    SOLEIR 928099  2140.0(-1815.7) DISCORDANCIA 2183.0 (-1858.)                E        E&P SUL/GERET                03/01/1995
+ L   B  F RRASTO 708060  2183.0(-1858.7)              2193.0 (-1868.)                E        E&P SUL/GERET                03/01/1995
+ L   B  F TERESI 728060  2193.0(-1868.7)              2356.0 (-2031.)                E        E&P SUL/GERET                03/01/1995
+ C   B  PERM.SUP 590000  2274.0(-1949.7)              3804.0 (-3479.)                D        A.G.P.  ANTIGO               01/01/1900
+ L   B    SOLEIR 928099  2356.0(-2031.7) DISCORDANCIA 2359.0 (-2034.)                E        E&P SUL/GERET                03/01/1995
+ L   B  F TERESI 728060  2359.0(-2034.7)              2533.0 (-2208.)                E        E&P SUL/GERET                03/01/1995
+ L   B    SOLEIR 928099  2533.0(-2208.7) DISCORDANCIA 2637.0 (-2312.)                E        E&P SUL/GERET                03/01/1995
+ L   B  F TERESI 728060  2637.0(-2312.7)              2774.0 (-2449.)                E        E&P SUL/GERET                03/01/1995
+ L   B    SOLEIR 928099  2774.0(-2449.7) DISCORDANCIA 2935.0 (-2610.)                E        E&P SUL/GERET                03/01/1995
+ L   B  F TERESI 728060  2935.0(-2610.7)              3021.0 (-2696.)                E        E&P SUL/GERET                03/01/1995
+ L   B    SOLEIR 928099  3021.0(-2696.7) DISCORDANCIA 3028.0 (-2703.)                E        E&P SUL/GERET                03/01/1995
+ L   B  F TERESI 728060  3028.0(-2703.7)              3171.0 (-2846.)                E        E&P SUL/GERET                03/01/1995
+ C      TATARIAN 595000  3030.0(-2705.7) MISTA        3045.0 (-2720.)  MISTA         D        A.G.P.  ANTIGO               01/01/1900
+ L   B  F SERALT 736060  3171.0(-2846.7)              3222.0 (-2897.)                E        E&P SUL/GERET                03/01/1995
+ L   B    SOLEIR 928099  3222.0(-2897.7) DISCORDANCIA 3321.0 (-2996.)                E        E&P SUL/GERET                03/01/1995
+ L   B  F IRATI  738060  3321.0(-2996.7)              3326.0 (-3001.)                E        E&P SUL/GERET                03/01/1995
+ L   B    SOLEIR 928099  3326.0(-3001.7) DISCORDANCIA 3329.0 (-3004.)                E        E&P SUL/GERET                03/01/1995
+ L   B  F IRATI  738060  3329.0(-3004.7)              3344.0 (-3019.)                E        E&P SUL/GERET                03/01/1995
+ L   B    SOLEIR 928099  3344.0(-3019.7) DISCORDANCIA 3411.0 (-3086.)                E        E&P SUL/GERET                03/01/1995
+ L   B  F IRATI  738060  3411.0(-3086.7)              3435.0 (-3110.)                E        E&P SUL/GERET                03/01/1995
+ L   B  G GUATA  740060  3435.0(-3110.7)              4085.0 (-3760.)                E        E&P SUL/GERET                03/01/1995
+ L   B  F PALERM 744060  3435.0(-3110.7)              3487.0 (-3162.)                E        E&P SUL/GERET                03/01/1995
+ L   B    SOLEIR 928099  3487.0(-3162.7) DISCORDANCIA 3602.0 (-3277.)                E        E&P SUL/GERET                03/01/1995
+ L   B  F PALERM 744060  3602.0(-3277.7)              3814.0 (-3489.)                E        E&P SUL/GERET                03/01/1995
+ C      KAZANIAN 600000  3732.0(-3407.7) MISTA        3786.0 (-3461.)  MISTA         D        A.G.P.  ANTIGO               01/01/1900
+ C   B  UFIMIANO 610000  3786.0(-3461.7)              3966.0 (-3641.)                D        A.G.P.  ANTIGO               01/01/1900
+ L   B  F RBONIT 750060  3814.0(-3489.7)              4018.0 (-3693.)                E        E&P SUL/GERET                03/01/1995
+ C   B  KUNGURIA 630000  3966.0(-3641.7)              4689.0 (-4364.)                D        A.G.P.  ANTIGO               01/01/1900
+ C      ARTINSKI 640000  3966.0(-3641.7) MISTA        4182.0 (-3857.)  MISTA         D        A.G.P.  ANTIGO               01/01/1900
+ L   B    SOLEIR 928099  4018.0(-3693.7) DISCORDANCIA 4028.0 (-3703.)                E        E&P SUL/GERET                03/01/1995
+ L   B  F RBONIT 750060  4028.0(-3703.7)              4085.0 (-3760.)                E        E&P SUL/GERET                03/01/1995
+ L   B  G ITARAR 756062  4085.0(-3760.7)              4649.0 (-4324.)                E        E&P SUL/GERET                03/01/1995
+ L   B  F TACIBA 758062  4085.0(-3760.7)              4201.0 (-3876.)                E        E&P SUL/GERET                03/01/1995
+ C      SAKMARIA 650000  4182.0(-3857.7) MISTA        4200.0 (-3875.)  MISTA         D        A.G.P.  ANTIGO               01/01/1900
+ L   B  F CAMMOU 771064  4201.0(-3876.7)              4229.0 (-3904.)                E        E&P SUL/GERET                03/01/1995
+ L   B    SOLEIR 928099  4229.0(-3904.7) DISCORDANCIA 4233.0 (-3908.)                E        E&P SUL/GERET                03/01/1995
+ L   B  F CAMMOU 771064  4233.0(-3908.7)              4649.0 (-4324.)                E        E&P SUL/GERET                03/01/1995
+ L   B  G PARANA 850050  4649.0(-4324.7) DISCORDANCIA                                E        E&P SUL/GERET                03/01/1995
+ L   B  F PONGRO 850080  4649.0(-4324.7) DISCORDANCIA 4830.0 (-4505.)                E        E&P SUL/GERET                03/01/1995
+ C   B  DEV. SUP 770000  4689.0(-4364.7)              4743.0 (-4418.)                D        A.G.P.  ANTIGO               01/01/1900
+ C   B  DEV. MED 810000  4743.0(-4418.7)              5571.0 (-5246.)                D        A.G.P.  ANTIGO               01/01/1900
+ C      GIVETIAN 820000  4743.0(-4418.7) MISTA        4761.0 (-4436.)  MISTA         D        A.G.P.  ANTIGO               01/01/1900
+ L   B    SOLEIR 928099  4830.0(-4505.7) DISCORDANCIA 4940.0 (-4615.)                E        E&P SUL/GERET                03/01/1995
+ L   B  F PONGRO 850080  4940.0(-4615.7)              4955.0 (-4630.)                E        E&P SUL/GERET                03/01/1995
+ L   B    SOLEIR 928099  4955.0(-4630.7) DISCORDANCIA 5054.0 (-4729.)                E        E&P SUL/GERET                03/01/1995
+ L   B  F PONGRO 850080  5054.0(-4729.7)              5168.0 (-4843.)                E        E&P SUL/GERET                03/01/1995
+ L   B    SOLEIR 928099  5168.0(-4843.7) DISCORDANCIA 5183.0 (-4858.)                E        E&P SUL/GERET                03/01/1995
+ L   B  F PONGRO 850080  5183.0(-4858.7)              5209.0 (-4884.)                E        E&P SUL/GERET                03/01/1995
+ L   B    SOLEIR 928099  5209.0(-4884.7) DISCORDANCIA 5314.0 (-4989.)                E        E&P SUL/GERET                03/01/1995
+ L   B  F PONGRO 850080  5314.0(-4989.7)              5396.0 (-5071.)                E        E&P SUL/GERET                03/01/1995
+ L   B    SOLEIR 928099  5396.0(-5071.7) DISCORDANCIA 5511.0 (-5186.)                E        E&P SUL/GERET                03/01/1995
+ L   B  F PONGRO 850080  5511.0(-5186.7)              5571.0 (-5246.)                E        E&P SUL/GERET                03/01/1995
+ L   B  F FURNAS 878083  5571.0(-5246.7)                                             E        E&P SUL/GERET                03/01/1995
+-------------------------------                                                 
+ INDICIOS DE HIDROCARBONETOS -                                                                                                       
+-------------------------------                                                 
+ TIPO ORIGEM AMOSTRA   T O P O           B A S E      MODO      R O C H A        %       TIPO/COR/TONALIDADE        V/M  UGT   UGP   
+  G     D      N    3608.0 (-3283.7) 3608.0 (-3283.7)  N   ARENITO              100                                  /    90    10   
+  G     D      N    3625.0 (-3300.7) 3627.0 (-3302.7)  N   SILTITO              100                                  /    50    10   
+  G     D      N    3869.0 (-3544.7) 3872.0 (-3547.7)  N   ARENITO              100                                  /  2400         
+  G     D      N    3877.0 (-3552.7) 3877.0 (-3552.7)  N   ARENITO              100                                  /  4500         
+  G     D      N    4646.0 (-4321.7) 4655.0 (-4330.7)  N   ARENITO              100                                  /   270    80   
+  O     L      C    4647.0 (-4322.7) 4653.0 (-4328.7)  N   ARENITO              100 PONTUAL/AMARELO  /CLARO         M/Z              
+  G     D      N    4674.0 (-4349.7) 4677.0 (-4352.7)  N   SILTITO              100                                  /   150    10   
+  G     D      N    4792.0 (-4467.7) 4794.0 (-4469.7)  N   ARENITO              100                                  /  1400    60   
+  G     D      N    4815.0 (-4490.7) 4816.0 (-4491.7)  N   SILTITO              100                                  /   300         
+  G     D      N    4846.0 (-4521.7) 4849.0 (-4524.7)  N   DIABASIO             100                                  /   300         
+  G     D      N    4959.0 (-4634.7) 4959.0 (-4634.7)  N   DIABASIO             100                                  /    30         
+  G     D      N    5129.0 (-4804.7) 5145.0 (-4820.7)  N   ARENITO              100                                  /   120    10   
+  G     D      N    5197.0 (-4872.7) 5202.0 (-4877.7)  N   ARENITO              100                                  /   170    10   
+  G     D      N    5315.0 (-4990.7) 5321.0 (-4996.7)  N   ARENITO              100                                  /   300    40   
+  G     D      N    5335.0 (-5010.7) 5337.0 (-5012.7)  N   SILTITO              100                                  /   900    90   
+  G     D      N    5363.0 (-5038.7) 5394.0 (-5069.7)  N   ARENITO              100                                  /   100         
+  G     D      N    5432.0 (-5107.7) 5433.0 (-5108.7)  N   DIABASIO             100                                  /   180         
+  G     D      N    5538.0 (-5213.7) 5562.0 (-5237.7)  N   ARENITO              100                                  /   180    20   
+  G     D      N    5566.0 (-5241.7) 5568.0 (-5243.7)  N   ARENITO              100                                  /   550    20   
+  G     D      N    5570.0 (-5245.7) 5572.0 (-5247.7)  N   ARENITO              100                                  /   360    20   
+---------------                                                                 
+ TESTEMUNHOS -                                                                                                                       
+---------------                                                                 
+     TIPO DO TESTEMUNHO           NUMERO       TOPO / COTA        BASE / COTA     RECUPERADO  FLAG.EXISTENCIA      LITOTECA          
+  CONVENCIONAL (BROCA DIAMANTE )   001      3877.0 (-3552.7)   3886.4 (-3562.1)      9.40           1             E&P-SUL            
+  CONVENCIONAL (BROCA DIAMANTE )   002      5354.0 (-5029.7)   5363.0 (-5038.7)      9.00           1             E&P-SUL            
+  CONVENCIONAL (BROCA DIAMANTE )   003      5641.0 (-5316.7)   5643.3 (-5319.0)      2.30           1             E&P-SUL            
+------------------------                                                        
+ OBJETIVOS E RESULTADOS - SEQ.   COD./NOME UNIDADE   STATUS INICIAL DO OBJETIVO           RESULTADO DO OBJETIVO                      
+------------------------                                                        
+                           01    771064 / F CAMMOU   PRINCIPAL                         FECHADO                                       
+                           02    750060 / F RBONIT   PRINCIPAL                         PORTADOR DE AGUA                              
+                           03    878083 / F FURNAS   SECUNDARIO                        FECHADO                                       
+                           04    744060 / F PALERM   SECUNDARIO                        PORTADOR DE AGUA                              
+                           05    850080 / F PONGRO   SECUNDARIO                        FECHADO                                       
+----------------------------------                                              
+  PERFIS: AQUISICAO/PROCESSAMENTO                                                                                                    
+----------------------------------                                              
+   COD  GR  TIPO           CIA   COR DESC    DATA           TOPO            BASE                                                     
+   ---  --  ----           ---   --- ----    ----           ----            ----                                                     
+   026  01  DIL/           HALL  01    A  02/07/1991    59.9(   264.4) 1825.0( -1500.7)                                              
+   105  01  BCS/                       A                59.9(   264.4) 1816.7( -1492.4)                                              
+   165  01  GR                         A                21.0(   303.3) 1810.6( -1486.3)                                              
+   005  02  IEL                        A                59.9(   264.4) 1825.7( -1501.4)                                              
+   282  03  HRCT/                      B              1038.0(  -713.7) 1321.0(  -996.7)  (  7 AMOSTRAS)                              
+   282  03  HRCT/                      C               631.0(  -306.7)  955.0(  -630.7)  (  4 AMOSTRAS)                              
+   282  03  HRCT                       D               140.0(   184.3)  562.0(  -237.7)  (  7 AMOSTRAS)                              
+   026  01  DIL/           HALL  02    A  11/08/1991  1822.4( -1498.1) 3414.7( -3090.4)                                              
+                                                                                                                                     
+----------------------------------                                              
+  PERFIS: AQUISICAO/PROCESSAMENTO                                                                                                    
+----------------------------------                                              
+   COD  GR  TIPO           CIA   COR DESC    DATA           TOPO            BASE                                                     
+   ---  --  ----           ---   --- ----    ----           ----            ----                                                     
+   105  01  BCS/           HALL  02    A  11/08/1991  1822.4( -1498.1) 3404.2( -3079.9)                                              
+   165  01  GR                         A              1822.4( -1498.1) 3397.5( -3073.2)                                              
+   282  02  HRCT/                      C              3243.0( -2918.7) 3243.0( -2918.7)  (  1 AMOSTRA)                               
+   282  02  HRCT/                      E              2904.0( -2579.7) 3224.0( -2899.7)  (  3 AMOSTRAS)                              
+   282  02  HRCT/                      F              2820.0( -2495.7) 2835.0( -2510.7)  (  2 AMOSTRAS)                              
+   282  02  HRCT/                      B              2785.5( -2461.2) 3297.0( -2972.7)  (  2 AMOSTRAS)                              
+   282  02  HRCT/                      G              2630.0( -2305.7) 2630.0( -2305.7)  (  1 AMOSTRA)                               
+   282  02  HRCT                       H              2150.0( -1825.7) 2547.0( -2222.7)  (  2 AMOSTRAS)                              
+   270  03  VSP(W)                     A              2654.0( -2329.7) 3414.0( -3089.7)  (  38 NIVEIS )                              
+   005  02  IEL/           HALL  03    B  18/09/1991  3399.0( -3074.7) 4038.7( -3714.4)                                              
+   140  02  CDL/                       B              3399.0( -3074.7) 4033.0( -3708.7)                                              
+   194  02  CNS/                       B              3399.0( -3074.7) 4030.1( -3705.8)                                              
+   165  02  GR                         B              3320.0( -2995.7) 4028.3( -3704.0)                                              
+   289  04  SFT                        A              3872.5( -3548.2) 4000.0( -3675.7)                                              
+   021  05  DLL                        C              3399.0( -3074.7) 4017.0( -3692.7)                                              
+   080  06  MSFL/                      C              3399.0( -3074.7) 4010.0( -3685.7)                                              
+   105  06  BCS                        B              3399.0( -3074.7) 4004.7( -3680.4)                                              
+   026  01  DIL/           HALL  04    A  08/01/1992  3920.0( -3595.7) 5909.0( -5584.7)                                              
+   080  01  MSFL/                      A              3920.0( -3595.7) 5899.0( -5574.7)                                              
+   105  01  BCS/                       A              3920.0( -3595.7) 5904.0( -5579.7)                                              
+   165  01  GR                         A              3920.0( -3595.7) 5902.0( -5577.7)                                              
+   140  02  CDL/                       A              3920.0( -3595.7) 5907.2( -5582.9)                                              
+   194  02  CNS                        A              3920.0( -3595.7) 5904.0( -5579.7)                                              
+   282  04  HRCT/                      B              3595.0( -3270.7) 4932.0( -4607.7)  (  5 AMOSTRAS)                              
+                                                                                                                                     
+----------------------------------                                              
+  PERFIS: AQUISICAO/PROCESSAMENTO                                                                                                    
+----------------------------------                                              
+   COD  GR  TIPO           CIA   COR DESC    DATA           TOPO            BASE                                                     
+   ---  --  ----           ---   --- ----    ----           ----            ----                                                     
+   282  04  HRCT/          HALL  04    C  08/01/1992  3490.0( -3165.7) 3540.0( -3215.7)  (  2 AMOSTRAS)                              
+   282  04  HRCT                       E              3458.0( -3133.7) 3458.0( -3133.7)                                              
+   289  05  SFT/                       C              3888.0( -3563.7) 4643.0( -4318.7)                                              
+   289  05  SFT                        B              3480.0( -3155.7) 3707.0( -3382.7)                                              
+   215  01  CAL/           HALL  05    A  04/03/1992  3399.0( -3074.7) 5909.8( -5585.5)                                              
+   165  01  GR                         A              3399.0( -3074.7) 5909.8( -5585.5)                                              
+   237  02  FED                        A              3600.0( -3275.7) 4300.0( -3975.7)                                              
+   410  04  SHIVA                      A              3600.0( -3275.7) 4300.0( -3975.7)                                              
+--------------------------------------                                          
+  PERFIS: DADOS DE REFERENCIA SISMICA                                                                                                
+--------------------------------------                                          
+ NUMERO DA     TIPO DE      DESCIDA DA       PROFUNDIDADE           TEMPO                                                            
+ CORRIDA       PERFIL       FERRAMENTA          MEDIDA              SISMICO                                                          
+   02           270             A            1559.0 ( -1234.7)       311.0                                                           
+                                             1774.0 ( -1449.7)       359.0                                                           
+                                             2137.0 ( -1812.7)       449.0                                                           
+                                             2272.0 ( -1947.7)       480.0                                                           
+                                             2634.0 ( -2309.7)       550.0                                                           
+                                             2654.0 ( -2329.7)       554.0                                                           
+                                             2674.0 ( -2349.7)       558.0                                                           
+                                             2694.0 ( -2369.7)       563.0                                                           
+                                             2714.0 ( -2389.7)       565.0                                                           
+                                             2734.0 ( -2409.7)       568.0                                                           
+                                             2754.0 ( -2429.7)       570.0                                                           
+                                             2774.0 ( -2449.7)       573.0                                                           
+                                                                                                                                     
+--------------------------------------                                          
+  PERFIS: DADOS DE REFERENCIA SISMICA                                                                                                
+--------------------------------------                                          
+ NUMERO DA     TIPO DE      DESCIDA DA       PROFUNDIDADE           TEMPO                                                            
+ CORRIDA       PERFIL       FERRAMENTA          MEDIDA              SISMICO                                                          
+   02              A                         2794.0 ( -2469.7)       577.0                                                           
+                                             2814.0 ( -2489.7)       581.0                                                           
+                                             2834.0 ( -2509.7)       585.0                                                           
+                                             2854.0 ( -2529.7)       592.0                                                           
+                                             2874.0 ( -2549.7)       597.0                                                           
+                                             2894.0 ( -2569.7)       601.0                                                           
+                                             2914.0 ( -2589.7)       605.0                                                           
+                                             2954.0 ( -2629.7)       610.0                                                           
+                                             2974.0 ( -2649.7)       613.0                                                           
+                                             2994.0 ( -2669.7)       618.0                                                           
+                                             3014.0 ( -2689.7)       622.0                                                           
+                                             3034.0 ( -2709.7)       625.0                                                           
+                                             3054.0 ( -2729.7)       627.0                                                           
+                                             3074.0 ( -2749.7)       630.0                                                           
+                                             3094.0 ( -2769.7)       632.0                                                           
+                                             3114.0 ( -2789.7)       635.0                                                           
+                                             3134.0 ( -2809.7)       639.0                                                           
+                                             3154.0 ( -2829.7)       644.0                                                           
+                                             3174.0 ( -2849.7)       648.0                                                           
+                                             3194.0 ( -2869.7)       653.0                                                           
+                                             3214.0 ( -2889.7)       658.0                                                           
+                                             3234.0 ( -2909.7)       661.0                                                           
+                                             3254.0 ( -2929.7)       665.0                                                           
+                                             3274.0 ( -2949.7)       669.0                                                           
+                                             3294.0 ( -2969.7)       672.0                                                           
+                                             3314.0 ( -2989.7)       675.0                                                           
+                                             3334.0 ( -3009.7)       680.0                                                           
+                                             3354.0 ( -3029.7)       683.0                                                           
+                                             3374.0 ( -3049.7)       686.0                                                           
+                                             3394.0 ( -3069.7)       691.0                                                           
+                                             3414.0 ( -3089.7)       697.0                                                           
+---------------------------------------                                         
+  PERFIS: DADOS GERAIS DE TESTE A CABO                                                                                               
+---------------------------------------                                         
+ TIPO DE PERFIL:      289               GRUPO DE PERF. COMBINADOS:           04             TIPO DE PACKER:                    DURO  
+ NUMERO DA CORRIDA:    03               TIPO DE PROBE:          INFO NAO EXISTE             RESTRICAO ABERTURA:     INFO NAO EXISTE  
+ DESCIDA DA FERRAMENTA: A               TIPO REGISTRADOR:                                   COLCHAO DE AGUA:                    NAO  
+ TIPO DE PERFIL:      289               GRUPO DE PERF. COMBINADOS:           04             TIPO DE PACKER:                    DURO  
+ NUMERO DA CORRIDA:    03               TIPO DE PROBE:          INFO NAO EXISTE             RESTRICAO ABERTURA:     INFO NAO EXISTE  
+                                                                                                                                     
+---------------------------------------                                         
+  PERFIS: DADOS GERAIS DE TESTE A CABO                                                                                               
+---------------------------------------                                         
+ DESCIDA DA FERRAMENTA: A               TIPO REGISTRADOR:                                   COLCHAO DE AGUA:                    NAO  
+ TIPO DE PERFIL:      289               GRUPO DE PERF. COMBINADOS:           04             TIPO DE PACKER:                    DURO  
+ NUMERO DA CORRIDA:    03               TIPO DE PROBE:          INFO NAO EXISTE             RESTRICAO ABERTURA:     INFO NAO EXISTE  
+ DESCIDA DA FERRAMENTA: A               TIPO REGISTRADOR:                                   COLCHAO DE AGUA:                    NAO  
+---------------------------------------------------                             
+  PERFIS: DADOS DE PRE-TESTES (TOMADAS DE PRESSAO)                                                                                   
+---------------------------------------------------                             
+ TIPO DE PERFIL:       289                PRESSAO HIDROST:   7028.               NUMERO DO PRE-TESTE:                        01      
+ NUMERO DA CORRIDA:     03                PRESSAO FLUXO-1:   5464.               PROFUNDIDADE MEDIDA:         3872.5 ( -3548.2)      
+ GRUPO PERF.COMBINADOS: 04                PRESSAO FLUXO-2:   5578.               QUAL. DA ESTATICA:    ESTABILIZADA                  
+ DESCIDA DA FERRAMENTA:  A                PRESSAO ESTATICA:  6737.                                                                   
+ TIPO DE PERFIL:       289                PRESSAO HIDROST:   6996.               NUMERO DO PRE-TESTE:                        02      
+ NUMERO DA CORRIDA:     03                PRESSAO FLUXO-1:   6730.               PROFUNDIDADE MEDIDA:         3878.9 ( -3554.6)      
+ GRUPO PERF.COMBINADOS: 04                PRESSAO FLUXO-2:   6731.               QUAL. DA ESTATICA:    ESTABILIZADA                  
+ DESCIDA DA FERRAMENTA:  A                PRESSAO ESTATICA:  6743.                                                                   
+ TIPO DE PERFIL:       289                PRESSAO HIDROST:   6997.               NUMERO DO PRE-TESTE:                        03      
+ NUMERO DA CORRIDA:     03                PRESSAO FLUXO-1:   6703.               PROFUNDIDADE MEDIDA:         3888.5 ( -3564.2)      
+ GRUPO PERF.COMBINADOS: 04                PRESSAO FLUXO-2:   6707.               QUAL. DA ESTATICA:    ESTABILIZADA                  
+ DESCIDA DA FERRAMENTA:  A                PRESSAO ESTATICA:  6753.                                                                   
+ TIPO DE PERFIL:       289                PRESSAO HIDROST:   7037.               NUMERO DO PRE-TESTE:                        04      
+ NUMERO DA CORRIDA:     03                PRESSAO FLUXO-1:   5514.               PROFUNDIDADE MEDIDA:         3910.5 ( -3586.2)      
+ GRUPO PERF.COMBINADOS: 04                PRESSAO FLUXO-2:   4809.               QUAL. DA ESTATICA:    ESTABILIZADA                  
+ DESCIDA DA FERRAMENTA:  A                PRESSAO ESTATICA:  6791.                                                                   
+ TIPO DE PERFIL:       289                PRESSAO HIDROST:   7061.               NUMERO DO PRE-TESTE:                        05      
+ NUMERO DA CORRIDA:     03                PRESSAO FLUXO-1:   5040.               PROFUNDIDADE MEDIDA:         3923.0 ( -3598.7)      
+ GRUPO PERF.COMBINADOS: 04                PRESSAO FLUXO-2:   1628.               QUAL. DA ESTATICA:    PROXIMO DA ESTABILIZACAO      
+ DESCIDA DA FERRAMENTA:  A                PRESSAO ESTATICA:  6824.                                                                   
+                                                                                                                                     
+---------------------------------------------------                             
+  PERFIS: DADOS DE PRE-TESTES (TOMADAS DE PRESSAO)                                                                                   
+---------------------------------------------------                             
+ TIPO DE PERFIL:       289                PRESSAO HIDROST:   7209.               NUMERO DO PRE-TESTE:                        06      
+ NUMERO DA CORRIDA:     03                PRESSAO FLUXO-1:   6501.               PROFUNDIDADE MEDIDA:         4000.0 ( -3675.7)      
+ GRUPO PERF.COMBINADOS: 04                PRESSAO FLUXO-2:   6360.               QUAL. DA ESTATICA:    ESTABILIZADA                  
+ DESCIDA DA FERRAMENTA:  A                PRESSAO ESTATICA:  6932.                                                                   
+ TIPO DE PERFIL:       289                PRESSAO HIDROST:   6549.               NUMERO DO PRE-TESTE:                        01      
+ NUMERO DA CORRIDA:     04                PRESSAO FLUXO-1:   2201.               PROFUNDIDADE MEDIDA:         3480.5 ( -3156.2)      
+ GRUPO PERF.COMBINADOS: 05                PRESSAO FLUXO-2:                       QUAL. DA ESTATICA:    ESTABILIZADA                  
+ DESCIDA DA FERRAMENTA:  B                PRESSAO ESTATICA:  5949.                                                                   
+ TIPO DE PERFIL:       289                PRESSAO HIDROST:   6809.               NUMERO DO PRE-TESTE:                        02      
+ NUMERO DA CORRIDA:     04                PRESSAO FLUXO-1:   2492.               PROFUNDIDADE MEDIDA:         3609.5 ( -3285.2)      
+ GRUPO PERF.COMBINADOS: 05                PRESSAO FLUXO-2:                       QUAL. DA ESTATICA:    ESTABILIZADA                  
+ DESCIDA DA FERRAMENTA:  B                PRESSAO ESTATICA:  6244.                                                                   
+ TIPO DE PERFIL:       289                PRESSAO HIDROST:   6997.               NUMERO DO PRE-TESTE:                        03      
+ NUMERO DA CORRIDA:     04                PRESSAO FLUXO-1:   1129.               PROFUNDIDADE MEDIDA:         3707.0 ( -3382.7)      
+ GRUPO PERF.COMBINADOS: 05                PRESSAO FLUXO-2:                       QUAL. DA ESTATICA:    LONGE DA ESTABILIZACAO        
+ DESCIDA DA FERRAMENTA:  B                PRESSAO ESTATICA:  2037.                                                                   
+ TIPO DE PERFIL:       289                PRESSAO HIDROST:   7259.               NUMERO DO PRE-TESTE:                        01      
+ NUMERO DA CORRIDA:     04                PRESSAO FLUXO-1:   6681.               PROFUNDIDADE MEDIDA:         3888.0 ( -3563.7)      
+ GRUPO PERF.COMBINADOS: 05                PRESSAO FLUXO-2:                       QUAL. DA ESTATICA:    ESTABILIZADA                  
+ DESCIDA DA FERRAMENTA:  C                PRESSAO ESTATICA:  6753.                                                                   
+ TIPO DE PERFIL:       289                PRESSAO HIDROST:   8112.               NUMERO DO PRE-TESTE:                        02      
+ NUMERO DA CORRIDA:     04                PRESSAO FLUXO-1:   5368.               PROFUNDIDADE MEDIDA:         4308.1 ( -3983.8)      
+ GRUPO PERF.COMBINADOS: 05                PRESSAO FLUXO-2:                       QUAL. DA ESTATICA:    ESTABILIZADA                  
+ DESCIDA DA FERRAMENTA:  C                PRESSAO ESTATICA:  7657.                                                                   
+ TIPO DE PERFIL:       289                PRESSAO HIDROST:   8719.               NUMERO DO PRE-TESTE:                        03      
+ NUMERO DA CORRIDA:     04                PRESSAO FLUXO-1:   8079.               PROFUNDIDADE MEDIDA:         4643.1 ( -4318.8)      
+ GRUPO PERF.COMBINADOS: 05                PRESSAO FLUXO-2:                       QUAL. DA ESTATICA:    ESTABILIZADA                  
+ DESCIDA DA FERRAMENTA:  C                PRESSAO ESTATICA:  8145.                                                                   
+                                                                                                                                     
+-----------------------------------------------------                           
+  PERFIS: REGISTRO DE OBSERVACOES DE TESTE/PRE-TESTE                                                                                 
+-----------------------------------------------------                           
+ TIPO DE       NUMERO      GRUPO DE       DESCIDA       PROFUNDIDADES DO           OBSERVACOES DE PERFILAGEM                         
+ PERFIL        CORRIDA     PERF. COMB     FERRAMENTA    TESTE/PRE-TESTE                                                              
+   289           03           04              A         3872.5 ( -3548.2)          APOS REAL. DOS PRE-TESTES, QUANDO DA A-           
+                                                                                   MOSTRAGEM DO FLUIDO, A 3872.5M, OCORREU           
+                                                                                   ENTUPIMENTO DO FILTRO (SAND SCREEN) IM-           
+                                                                                   POSSIBILITANDO A OPERACAO.                        
+                                                                                   NA SEGUNDA TENTATIVA DE AMOSTRAGEM  COM           
+                                                                                   OUTRA FERRAMENTA DE "SFT", TAMBEM OCOR-           
+                                                                                   REU PROBLEMA SEMELHANTE SENDO QUE   NAO           
+                                                                                   CONSEGUIU-SE OBTER AMOSTRAS DO   FLUIDO           
+                                                                                   DA FORMACAO. OPERACAO CANCELADA.                  
+   289           03           04              A         3878.9 ( -3554.6)          NAO FORAM REALIZADAS AMOSTRAGENS.                 
+   289           03           04              A         3888.5 ( -3564.2)          NAO FORAM REALIZADAS AMOSTRAGENS.                 
+   289           03           04              A         3910.5 ( -3586.2)          NAO FORAM REALIZADAS AMOSTRAGENS.                 
+   289           03           04              A         3923.0 ( -3598.7)          NAO FORAM REALIZADAS AMOSTRAGENS.                 
+   289           03           04              A         4000.0 ( -3675.7)          NAO FORAM REALIZADAS AMOSTRAGENS.                 
+   289           04           05              B         3480.5 ( -3156.2)          O "SFT-1" FOI SUSPENSO DEVIDO  ABERTURA           
+                                                                                   ESPONTANEA DA FERRAMENTA,TOPANDO A 500M           
+                                                                                   DE PROFUNDIDADE.                                  
+                                                                                   NAO FORAM REALIZADAS AMOSTRAGENS.                 
+   289           04           05              B         3609.5 ( -3285.2)          NAO FORAM REALIZADAS AMOSTRAGENS.                 
+   289           04           05              B         3707.0 ( -3382.7)          PONTOS 3888.5, 4644,5 E 4644,1M   APRE-           
+                                                                                   SENTAM PERDA DE SELO.                             
+                                                                                   NAO FORAM REALIZADAS AMOSTRAGENS.                 
+   289           04           05              C         3888.0 ( -3563.7)          "SFT-B" SUSPENSO APOS 3 PRE-TESTES, DE-           
+                                                                                   VIDO PRISAO DA FERRAMENTA (NAO RETORNO            
+                                                                                   DO "PACKER").                                     
+                                                                                   NAO FORAM REALIZADAS AMOSTRAGENS.                 
+   289           04           05              C         4308.1 ( -3983.8)          NAO FORAM REALIZADAS AMOSTRAGENS.                 
+   289           04           05              C         4643.1 ( -4318.8)          NAO FORMA REALIZADAS AMOSTRAGENS.                 
+--------------------------------------                                          
+  PERFIS: REGISTRO DE AMOSTRA LATERAL                                                                                                
+--------------------------------------                                          
+ PERFIL CORRIDA DESC.  PROF.AMOSTRA    TIPO AMOSTRA  NUM.AMOSTRA FINALIDADE DA AMOSTRA      RECUPERACAO DA AMOSTRA  LITOTECA         
+  282     01      B    1321.0( -996.7) ROTATIVA          001     IDENTIFICACAO LITOLOGICA   TOTAL                   E&P/RIO          
+  282     01      B    1238.0( -913.7) ROTATIVA          002     IDENTIFICACAO LITOLOGICA   PARCIAL                 E&P/RIO          
+  282     01      B    1140.0( -815.7) ROTATIVA          003     IDENTIFICACAO LITOLOGICA   PARCIAL                 E&P/RIO          
+  282     01      B    1084.5( -760.2) ROTATIVA          004     IDENTIFICACAO LITOLOGICA   PARCIAL                 E&P/RIO          
+  282     01      B    1056.0( -731.7) ROTATIVA          005     IDENTIFICACAO LITOLOGICA   PARCIAL                 E&P/RIO          
+  282     01      B    1055.5( -731.2) ROTATIVA          006     IDENTIFICACAO LITOLOGICA   PARCIAL                 E&P/RIO          
+  282     01      B    1038.0( -713.7) ROTATIVA          007     IDENTIFICACAO LITOLOGICA   PARCIAL                 E&P/RIO          
+  282     01      C     955.0( -630.7) ROTATIVA          008     IDENTIFICACAO LITOLOGICA   TOTAL                   E&P/RIO          
+                                                                                                                                     
+--------------------------------------                                          
+  PERFIS: REGISTRO DE AMOSTRA LATERAL                                                                                                
+--------------------------------------                                          
+ PERFIL CORRIDA DESC.  PROF.AMOSTRA    TIPO AMOSTRA  NUM.AMOSTRA FINALIDADE DA AMOSTRA      RECUPERACAO DA AMOSTRA  LITOTECA         
+  282     01      C     880.0( -555.7) ROTATIVA          009     IDENTIFICACAO LITOLOGICA   TOTAL                   E&P/RIO          
+  282     01      C     807.0( -482.7) ROTATIVA          010     IDENTIFICACAO LITOLOGICA   TOTAL                   E&P/RIO          
+  282     01      C     403.0(  -78.7) ROTATIVA          011     IDENTIFICACAO LITOLOGICA   TOTAL                   E&P/RIO          
+  282     01      C     631.0( -306.7) ROTATIVA          012     IDENTIFICACAO LITOLOGICA   TOTAL                   E&P/RIO          
+  282     01      D     562.0( -237.7) ROTATIVA          013     IDENTIFICACAO LITOLOGICA   TOTAL                   E&P/RIO          
+  282     01      D     532.0( -207.7) ROTATIVA          014     IDENTIFICACAO LITOLOGICA   PARCIAL                 E&P/RIO          
+  282     01      D     465.0( -140.7) ROTATIVA          015     IDENTIFICACAO LITOLOGICA   PARCIAL                 E&P/RIO          
+  282     01      D     380.0(  -55.7) ROTATIVA          016     IDENTIFICACAO LITOLOGICA   PARCIAL                 E&P/RIO          
+  282     01      D     370.0(  -45.7) ROTATIVA          017     IDENTIFICACAO LITOLOGICA   PARCIAL                 E&P/RIO          
+  282     01      D     250.0(   74.3) ROTATIVA          018     IDENTIFICACAO LITOLOGICA   PARCIAL                 E&P/RIO          
+  282     01      D     140.0(  184.3) ROTATIVA          019     IDENTIFICACAO LITOLOGICA   TOTAL                   E&P/RIO          
+  282     02      B    3297.0(-2972.7) ROTATIVA          020     IDENTIFICACAO LITOLOGICA   TOTAL                   E&P/RIO          
+  282     02      B    3369.0(-3044.7) ROTATIVA          021     IDENTIFICACAO LITOLOGICA   PARCIAL                 E&P/RIO          
+  282     02      B    2785.5(-2461.2) ROTATIVA          022     IDENTIFICACAO LITOLOGICA   PARCIAL                 E&P/RIO          
+  282     02      C    3243.0(-2918.7) ROTATIVA          023     IDENTIFICACAO LITOLOGICA   PARCIAL                 E&P/RIO          
+  282     02      E    3224.0(-2899.7) ROTATIVA          024     IDENTIFICACAO LITOLOGICA   TOTAL                   E&P/RIO          
+  282     02      E    2905.0(-2580.7) ROTATIVA          025     IDENTIFICACAO LITOLOGICA   TOTAL                   E&P/RIO          
+  282     02      E    2904.0(-2579.7) ROTATIVA          026     IDENTIFICACAO LITOLOGICA   PARCIAL                 E&P/RIO          
+  282     02      F    2835.0(-2510.7) ROTATIVA          027     IDENTIFICACAO LITOLOGICA   PARCIAL                 E&P/RIO          
+  282     02      F    2820.0(-2495.7) ROTATIVA          028     IDENTIFICACAO LITOLOGICA   TOTAL                   E&P/RIO          
+  282     02      G    2630.0(-2305.7) ROTATIVA          029     IDENTIFICACAO LITOLOGICA   TOTAL                   E&P/RIO          
+  282     02      H    2547.0(-2222.7) ROTATIVA          030     IDENTIFICACAO LITOLOGICA   PARCIAL                 E&P/RIO          
+  282     02      H    2150.0(-1825.7) ROTATIVA          031     IDENTIFICACAO LITOLOGICA   TOTAL                   E&P/RIO          
+  282     04      B    4932.0(-4607.7) ROTATIVA          032     IDENTIFICACAO LITOLOGICA   TOTAL                   E&P/RIO          
+  282     04      B    4850.0(-4525.7) ROTATIVA          033     IDENTIFICACAO LITOLOGICA   PARCIAL                 E&P/RIO          
+  282     04      B    4295.0(-3970.7) ROTATIVA          034     IDENTIFICACAO LITOLOGICA   TOTAL                   E&P/RIO          
+  282     04      B    3850.0(-3525.7) ROTATIVA          035     IDENTIFICACAO LITOLOGICA   TOTAL                   E&P/RIO          
+  282     04      B    3595.0(-3270.7) ROTATIVA          036     IDENTIFICACAO LITOLOGICA   TOTAL                   E&P/RIO          
+  282     04      C    3540.0(-3215.7) ROTATIVA          037     IDENTIFICACAO LITOLOGICA   PARCIAL                 E&P/RIO          
+  282     04      C    3490.0(-3165.7) ROTATIVA          038     IDENTIFICACAO LITOLOGICA   TOTAL                   E&P/RIO          
+  282     04      C    3458.0(-3133.7) ROTATIVA          039     IDENTIFICACAO LITOLOGICA   PARCIAL                 E&P/RIO          
+-------------------------------------------                                     
+  PERFIS: REGISTRO DE GRADIENTE DE PRESSAO                                                                                           
+-------------------------------------------                                     
+  3890.0( -3565.7)  3899.0( -3574.7)    1.74             AGUA                REGULAR               APARTIR DA PRESSAO ESTATICA       
+------------------------------------------------------                          
+ PERFIS: REGISTRO DE DADOS DE TEMPERATURA EXTRAPOLADA                                                                                
+------------------------------------------------------                          
+  CORRIDA               METODO                               TEMPERATURA               PROF. DEFINIDA             GRADIENTE          
+                        EXTRAPOLACAO                         EXTRAPOLADA                POR GRAFICO               GEOTERMICO         
+                                                                                                                  (GRAU F/M)         
+                                                                                                                                     
+------------------------------------------------------                          
+ PERFIS: REGISTRO DE DADOS DE TEMPERATURA EXTRAPOLADA                                                                                
+------------------------------------------------------                          
+  CORRIDA               METODO                               TEMPERATURA               PROF. DEFINIDA             GRADIENTE          
+                        EXTRAPOLACAO                         EXTRAPOLADA                POR GRAFICO               GEOTERMICO         
+                                                                                                                  (GRAU F/M)         
+    01                  LACHENBRUCH & BREWER                    149.0                  1810.0( -1485.7)              .082            
+    02                  LACHENBRUCH & BREWER                    187.0                  3415.0( -3090.7)              .055            
+    03                  LACHENBRUCH & BREWER                    222.0                  4020.0( -3695.7)              .055            
+    04                  LACHENBRUCH & BREWER                    292.0                  5911.0( -5586.7)              .049            
+-------------                                                                   
+ LITOLOGIA -                                                                                                                         
+-------------                                                                   
+  TOPO              BASE                ROCHA                 COR         TONALIDADE    GRANULOMETRIA   ARREDONDAMENTO               
+    8.0 (  316.3)    33.0 (  291.3)  49 ARENITO               CINZA       CLARO         MUITO GROSSEIRO SUBANGULAR                   
+                   1378.0 (-1053.7)  66 BASALTO               VARIEGADO                                                              
+                   1601.0 (-1276.7)  49 ARENITO                           ESBRANQUICADO MEDIO           SUBARREDONDADO               
+                   1603.0 (-1278.7)  57 FOLHELHO              VARIEGADO                                                              
+                   1634.0 (-1309.7)  49 ARENITO               CASTANHO    AVERMELHADO   MUITO FINO                                   
+                   1637.0 (-1312.7)  57 FOLHELHO              VARIEGADO                                                              
+                   1675.0 (-1350.7)  49 ARENITO               CASTANHO    AVERMELHADO   MUITO FINO                                   
+                   1680.0 (-1355.7)  54 SILTITO               CASTANHO    AVERMELHADO                                                
+                   1691.0 (-1366.7)  49 ARENITO               CASTANHO    AVERMELHADO   MUITO FINO                                   
+                   1694.0 (-1369.7)  54 SILTITO               CASTANHO    AVERMELHADO                                                
+                   1754.0 (-1429.7)  49 ARENITO               CASTANHO    AVERMELHADO   MUITO FINO                                   
+                   1762.0 (-1437.7)  54 SILTITO               CASTANHO    AVERMELHADO                                                
+                   1774.0 (-1449.7)  49 ARENITO               CASTANHO    AVERMELHADO   MUITO FINO                                   
+                   1779.0 (-1454.7)  54 SILTITO               CASTANHO    AVERMELHADO                                                
+                   1786.0 (-1461.7)  49 ARENITO               CASTANHO    AVERMELHADO   MUITO FINO                                   
+                   1788.0 (-1463.7)  54 SILTITO               CASTANHO    AVERMELHADO                                                
+                   1791.0 (-1466.7)  49 ARENITO               CINZA       ACASTANHADO                   SUBARREDONDADO               
+                   1794.0 (-1469.7)  54 SILTITO               CASTANHO    AVERMELHADO                                                
+                   1822.0 (-1497.7)  49 ARENITO               CASTANHO    AVERMELHADO   FINO            SUBARREDONDADO               
+                   1826.0 (-1501.7)  54 SILTITO               CINZA       ESVERDEADO                                                 
+                   1837.0 (-1512.7)  49 ARENITO               CASTANHO    AVERMELHADO   FINO            SUBARREDONDADO               
+                   1840.0 (-1515.7)  54 SILTITO               CASTANHO    AVERMELHADO                                                
+                   1866.0 (-1541.7)  49 ARENITO               CASTANHO    AVERMELHADO   FINO            SUBARREDONDADO               
+                   1869.0 (-1544.7)  54 SILTITO               CASTANHO    AVERMELHADO                                                
+                   1872.0 (-1547.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   1875.0 (-1550.7)  54 SILTITO               CASTANHO    AVERMELHADO                                                
+                   1914.0 (-1589.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   1924.0 (-1599.7)  54 SILTITO               CASTANHO    AVERMELHADO                                                
+                   1936.0 (-1611.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   1939.0 (-1614.7)  54 SILTITO               CASTANHO    AVERMELHADO                                                
+                   1949.0 (-1624.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   1952.0 (-1627.7)  54 SILTITO               CASTANHO    AVERMELHADO                                                
+                   1957.0 (-1632.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   1963.0 (-1638.7)  54 SILTITO               VERDE       CLARO                                                      
+                   1970.0 (-1645.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   1977.0 (-1652.7)  54 SILTITO               CASTANHO    AVERMELHADO                                                
+                   1995.0 (-1670.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2001.0 (-1676.7)  54 SILTITO               CASTANHO    AVERMELHADO                                                
+                   2004.0 (-1679.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2006.0 (-1681.7)  54 SILTITO               CASTANHO    AVERMELHADO                                                
+                   2010.0 (-1685.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2013.0 (-1688.7)  54 SILTITO               CASTANHO    AVERMELHADO                                                
+                   2017.0 (-1692.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2019.0 (-1694.7)  54 SILTITO               CASTANHO    AVERMELHADO                                                
+                   2023.0 (-1698.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2025.0 (-1700.7)  54 SILTITO               CASTANHO    AVERMELHADO                                                
+                   2036.0 (-1711.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2040.0 (-1715.7)  54 SILTITO               CASTANHO    AVERMELHADO                                                
+                   2044.0 (-1719.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2050.0 (-1725.7)  54 SILTITO               CASTANHO    AVERMELHADO                                                
+                   2053.0 (-1728.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2056.0 (-1731.7)  54 SILTITO               CASTANHO    AVERMELHADO                                                
+                   2058.0 (-1733.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2064.0 (-1739.7)  54 SILTITO               CASTANHO    AVERMELHADO                                                
+                   2068.0 (-1743.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2072.0 (-1747.7)  54 SILTITO               CASTANHO    AVERMELHADO                                                
+                   2074.0 (-1749.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2076.0 (-1751.7)  54 SILTITO               CASTANHO    AVERMELHADO                                                
+                   2079.0 (-1754.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2081.0 (-1756.7)  54 SILTITO               CASTANHO    AVERMELHADO                                                
+                   2084.0 (-1759.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2086.0 (-1761.7)  54 SILTITO               CASTANHO    AVERMELHADO                                                
+                   2090.0 (-1765.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2092.0 (-1767.7)  54 SILTITO               CASTANHO    AVERMELHADO                                                
+                   2094.0 (-1769.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2098.0 (-1773.7)  54 SILTITO               CASTANHO    AVERMELHADO                                                
+                   2105.0 (-1780.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2107.0 (-1782.7)  54 SILTITO               CASTANHO    AVERMELHADO                                                
+                   2110.0 (-1785.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2113.0 (-1788.7)  54 SILTITO               CASTANHO    AVERMELHADO                                                
+                   2120.0 (-1795.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2124.0 (-1799.7)  54 SILTITO               CASTANHO    AVERMELHADO                                                
+                   2129.0 (-1804.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2131.0 (-1806.7)  54 SILTITO               CASTANHO    AVERMELHADO                                                
+                   2136.0 (-1811.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2140.0 (-1815.7)  54 SILTITO               CASTANHO    AVERMELHADO                                                
+                   2183.0 (-1858.7)  65 DIABASIO              CINZA       ESVERDEADO                                                 
+                   2186.0 (-1861.7)  54 SILTITO               CASTANHO    AVERMELHADO                                                
+                   2193.0 (-1868.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2203.0 (-1878.7)  54 SILTITO               CASTANHO    AVERMELHADO                                                
+                   2212.0 (-1887.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2216.0 (-1891.7)  54 SILTITO               CASTANHO    ESCURO                                                     
+                   2220.0 (-1895.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2226.0 (-1901.7)  54 SILTITO               CASTANHO    ESCURO                                                     
+                   2228.0 (-1903.7)  49 ARENITO               CINZA       ESVERDEADO    FINO            SUBARREDONDADO               
+                   2231.0 (-1906.7)  54 SILTITO               CINZA       ESVERDEADO                                                 
+                   2235.0 (-1910.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   2241.0 (-1916.7)  54 SILTITO               CINZA       ESVERDEADO                                                 
+                   2247.0 (-1922.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   2250.0 (-1925.7)  54 SILTITO               CINZA       ESVERDEADO                                                 
+                   2260.0 (-1935.7)  49 ARENITO               CINZA       ESVERDEADO    FINO            SUBARREDONDADO               
+                   2266.0 (-1941.7)  54 SILTITO               CINZA       ESVERDEADO                                                 
+                   2268.0 (-1943.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   2272.0 (-1947.7)  54 SILTITO               CINZA       ESVERDEADO                                                 
+                   2274.0 (-1949.7)  49 ARENITO               CINZA       ESVERDEADO    FINO            SUBARREDONDADO               
+                   2278.0 (-1953.7)  54 SILTITO               CINZA       ESBRANQUICADO                                              
+                   2281.0 (-1956.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   2283.0 (-1958.7)  54 SILTITO               CINZA       ESBRANQUICADO                                              
+                   2287.0 (-1962.7)  49 ARENITO               CINZA       ESVERDEADO    FINO            SUBARREDONDADO               
+                   2289.0 (-1964.7)  54 SILTITO               CINZA       ESVERDEADO                                                 
+                   2291.0 (-1966.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   2293.0 (-1968.7)  54 SILTITO               CINZA       ESBRANQUICADO                                              
+                   2295.0 (-1970.7)  49 ARENITO               CINZA       ESVERDEADO    FINO            SUBARREDONDADO               
+                   2297.0 (-1972.7)  54 SILTITO               CINZA       ESVERDEADO                                                 
+                   2301.0 (-1976.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   2303.0 (-1978.7)  54 SILTITO               CINZA       ESBRANQUICADO                                              
+                   2306.0 (-1981.7)  49 ARENITO               CINZA       ESVERDEADO    FINO            SUBARREDONDADO               
+                   2308.0 (-1983.7)   6 CALCILUTITO           CINZA       ACASTANHADO                                                
+                   2312.0 (-1987.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   2315.0 (-1990.7)   8 CALCARENITO           CREME       ACASTANHADO   MUITO FINO                                   
+                   2317.0 (-1992.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   2319.0 (-1994.7)  54 SILTITO               CINZA       CLARO                                                      
+                   2321.0 (-1996.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   2323.0 (-1998.7)  54 SILTITO               CINZA       CLARO                                                      
+                   2327.0 (-2002.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   2332.0 (-2007.7)  54 SILTITO               CINZA       CLARO                                                      
+                   2334.0 (-2009.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   2336.0 (-2011.7)  54 SILTITO               CINZA       CLARO                                                      
+                   2338.0 (-2013.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   2340.0 (-2015.7)  54 SILTITO               CINZA       CLARO                                                      
+                   2342.0 (-2017.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   2344.0 (-2019.7)  54 SILTITO               CINZA       CLARO                                                      
+                   2347.0 (-2022.7)   8 CALCARENITO           CREME       ACASTANHADO   MUITO FINO                                   
+                   2349.0 (-2024.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   2351.0 (-2026.7)  54 SILTITO               CINZA       CLARO                                                      
+                   2354.0 (-2029.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   2356.0 (-2031.7)  54 SILTITO               CINZA       CLARO                                                      
+                   2359.0 (-2034.7)  65 DIABASIO              CINZA       ESVERDEADO                                                 
+                   2365.0 (-2040.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   2368.0 (-2043.7)  54 SILTITO               CINZA       CLARO                                                      
+                   2370.0 (-2045.7)   8 CALCARENITO           CREME       ACASTANHADO   MUITO FINO                                   
+                   2373.0 (-2048.7)  54 SILTITO               CINZA       CLARO                                                      
+                   2378.0 (-2053.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   2382.0 (-2057.7)  54 SILTITO               CINZA       CLARO                                                      
+                   2385.0 (-2060.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   2390.0 (-2065.7)  54 SILTITO               CINZA       CLARO                                                      
+                   2392.0 (-2067.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   2395.0 (-2070.7)   8 CALCARENITO           CREME       ACASTANHADO   MUITO FINO                                   
+                   2398.0 (-2073.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   2404.0 (-2079.7)  54 SILTITO               CINZA       CLARO                                                      
+                   2406.0 (-2081.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   2408.0 (-2083.7)   8 CALCARENITO           CREME       ACASTANHADO   MUITO FINO                                   
+                   2410.0 (-2085.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   2412.0 (-2087.7)   8 CALCARENITO           CREME       ACASTANHADO   MUITO FINO                                   
+                   2414.0 (-2089.7)  54 SILTITO               CINZA       CLARO                                                      
+                   2417.0 (-2092.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   2419.0 (-2094.7)  54 SILTITO               CINZA       CLARO                                                      
+                   2423.0 (-2098.7)   8 CALCARENITO           CREME       ACASTANHADO   MUITO FINO                                   
+                   2426.0 (-2101.7)  54 SILTITO               CINZA       CLARO                                                      
+                   2428.0 (-2103.7)   8 CALCARENITO           CREME       ACASTANHADO   MUITO FINO                                   
+                   2434.0 (-2109.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   2436.0 (-2111.7)  54 SILTITO               CINZA       CLARO                                                      
+                   2438.0 (-2113.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   2442.0 (-2117.7)  54 SILTITO               CINZA       CLARO                                                      
+                   2445.0 (-2120.7)   8 CALCARENITO           CREME       ACASTANHADO   MUITO FINO                                   
+                   2448.0 (-2123.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   2451.0 (-2126.7)  54 SILTITO               CINZA       CLARO                                                      
+                   2454.0 (-2129.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   2459.0 (-2134.7)   8 CALCARENITO           CREME       ACASTANHADO   MUITO FINO                                   
+                   2462.0 (-2137.7)  54 SILTITO               CINZA       CLARO                                                      
+                   2465.0 (-2140.7)   8 CALCARENITO           CREME       ACASTANHADO   MUITO FINO                                   
+                   2467.0 (-2142.7)  54 SILTITO               CINZA       ESCURO                                                     
+                   2471.0 (-2146.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   2475.0 (-2150.7)  54 SILTITO               CINZA       ESCURO                                                     
+                   2478.0 (-2153.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   2480.0 (-2155.7)  54 SILTITO               CINZA       ESCURO                                                     
+                   2482.0 (-2157.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   2492.0 (-2167.7)  54 SILTITO               CINZA       ESCURO                                                     
+                   2496.0 (-2171.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   2498.0 (-2173.7)   8 CALCARENITO           CREME       ACASTANHADO   MUITO FINO                                   
+                   2502.0 (-2177.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   2504.0 (-2179.7)  54 SILTITO               CINZA       ESCURO                                                     
+                   2507.0 (-2182.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   2510.0 (-2185.7)  54 SILTITO               CINZA       ESCURO                                                     
+                   2515.0 (-2190.7)   8 CALCARENITO           CREME       ACASTANHADO   MUITO FINO                                   
+                   2519.0 (-2194.7)  54 SILTITO               CINZA       ESCURO                                                     
+                   2522.0 (-2197.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   2525.0 (-2200.7)  54 SILTITO               CINZA       ESCURO                                                     
+                   2528.0 (-2203.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   2533.0 (-2208.7)  54 SILTITO               CINZA       ESCURO                                                     
+                   2637.0 (-2312.7)  65 DIABASIO              VARIEGADO                                                              
+                   2640.0 (-2315.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2642.0 (-2317.7)  54 SILTITO               CINZA       ACASTANHADO                                                
+                   2647.0 (-2322.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2649.0 (-2324.7)  54 SILTITO               CINZA       ACASTANHADO                                                
+                   2652.0 (-2327.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2656.0 (-2331.7)  54 SILTITO               CINZA       ACASTANHADO                                                
+                   2660.0 (-2335.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2662.0 (-2337.7)  54 SILTITO               CINZA       ACASTANHADO                                                
+                   2664.0 (-2339.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2666.0 (-2341.7)  54 SILTITO               CINZA       ACASTANHADO                                                
+                   2668.0 (-2343.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2670.0 (-2345.7)  54 SILTITO               CINZA       ACASTANHADO                                                
+                   2672.0 (-2347.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2674.0 (-2349.7)  54 SILTITO               CINZA       ACASTANHADO                                                
+                   2676.0 (-2351.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2678.0 (-2353.7)  54 SILTITO               CINZA       ACASTANHADO                                                
+                   2681.0 (-2356.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2684.0 (-2359.7)  54 SILTITO               CINZA       ACASTANHADO                                                
+                   2686.0 (-2361.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2688.0 (-2363.7)  54 SILTITO               CINZA       ACASTANHADO                                                
+                   2690.0 (-2365.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2692.0 (-2367.7)  54 SILTITO               CINZA       ACASTANHADO                                                
+                   2694.0 (-2369.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2696.0 (-2371.7)  54 SILTITO               CINZA       ACASTANHADO                                                
+                   2702.0 (-2377.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2704.0 (-2379.7)  54 SILTITO               CINZA       ACASTANHADO                                                
+                   2706.0 (-2381.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2708.0 (-2383.7)  54 SILTITO               CINZA       ACASTANHADO                                                
+                   2710.0 (-2385.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2716.0 (-2391.7)  54 SILTITO               CINZA       ACASTANHADO                                                
+                   2721.0 (-2396.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2730.0 (-2405.7)  54 SILTITO               CINZA       ACASTANHADO                                                
+                   2732.0 (-2407.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2734.0 (-2409.7)  54 SILTITO               CINZA       ACASTANHADO                                                
+                   2738.0 (-2413.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2743.0 (-2418.7)  54 SILTITO               CINZA       ACASTANHADO                                                
+                   2745.0 (-2420.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2758.0 (-2433.7)  54 SILTITO               CINZA       ACASTANHADO                                                
+                   2764.0 (-2439.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2774.0 (-2449.7)  54 SILTITO               CINZA       ACASTANHADO                                                
+                   2935.0 (-2610.7)  65 DIABASIO              VARIEGADO                                                              
+                   2938.0 (-2613.7)  54 SILTITO               CINZA       ESVERDEADO                                                 
+                   2943.0 (-2618.7)  49 ARENITO               CREME       ESBRANQUICADO MUITO FINO                                   
+                   2946.0 (-2621.7)  54 SILTITO               CINZA       ESVERDEADO                                                 
+                   2950.0 (-2625.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2953.0 (-2628.7)  54 SILTITO               CINZA       ESVERDEADO                                                 
+                   2955.0 (-2630.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2958.0 (-2633.7)  54 SILTITO               CINZA       CLARO                                                      
+                   2962.0 (-2637.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2964.0 (-2639.7)  54 SILTITO               CINZA       CLARO                                                      
+                   2966.0 (-2641.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2968.0 (-2643.7)  54 SILTITO               CINZA       ESVERDEADO                                                 
+                   2986.0 (-2661.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   2995.0 (-2670.7)  54 SILTITO               CINZA       ESVERDEADO                                                 
+                   3005.0 (-2680.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   3007.0 (-2682.7)  54 SILTITO               CINZA       CLARO                                                      
+                   3009.0 (-2684.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   3011.0 (-2686.7)  54 SILTITO               CINZA       ESVERDEADO                                                 
+                   3021.0 (-2696.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   3028.0 (-2703.7)  65 DIABASIO              CINZA       ESCURO                                                     
+                   3032.0 (-2707.7)  54 SILTITO               CINZA       ESCURO                                                     
+                   3037.0 (-2712.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   3042.0 (-2717.7)  54 SILTITO               CINZA       ESCURO                                                     
+                   3045.0 (-2720.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   3053.0 (-2728.7)  54 SILTITO               CINZA       ESCURO                                                     
+                   3057.0 (-2732.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   3060.0 (-2735.7)  54 SILTITO               CINZA       CLARO                                                      
+                   3062.0 (-2737.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   3067.0 (-2742.7)  54 SILTITO               CINZA       ESCURO                                                     
+                   3069.0 (-2744.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   3071.0 (-2746.7)  54 SILTITO               CINZA       ESCURO                                                     
+                   3073.0 (-2748.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   3077.0 (-2752.7)  54 SILTITO               CINZA       ESCURO                                                     
+                   3079.0 (-2754.7)  49 ARENITO               CINZA       CLARO         MUITO FINO                                   
+                   3083.0 (-2758.7)  54 SILTITO               CINZA       CLARO                                                      
+                   3085.0 (-2760.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   3087.0 (-2762.7)  54 SILTITO               CINZA       ESCURO                                                     
+                   3089.0 (-2764.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   3095.0 (-2770.7)  54 SILTITO               CINZA       ESCURO                                                     
+                   3103.0 (-2778.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   3113.0 (-2788.7)  54 SILTITO               CINZA       ESCURO                                                     
+                   3121.0 (-2796.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   3124.0 (-2799.7)  54 SILTITO               CINZA       ESCURO                                                     
+                   3131.0 (-2806.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   3133.0 (-2808.7)  54 SILTITO               CINZA       ESCURO                                                     
+                   3135.0 (-2810.7)  49 ARENITO               CINZA       CLARO         MUITO FINO                                   
+                   3137.0 (-2812.7)  54 SILTITO               CINZA       ESCURO                                                     
+                   3139.0 (-2814.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   3141.0 (-2816.7)  54 SILTITO               CINZA       ESCURO                                                     
+                   3145.0 (-2820.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   3150.0 (-2825.7)  54 SILTITO               CINZA       CLARO                                                      
+                   3159.0 (-2834.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   3167.0 (-2842.7)  54 SILTITO               CINZA       CLARO                                                      
+                   3171.0 (-2846.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   3222.0 (-2897.7)  54 SILTITO               CINZA       ESCURO                                                     
+                   3321.0 (-2996.7)  65 DIABASIO              VARIEGADO                                                              
+                   3326.0 (-3001.7)  49 ARENITO               CREME       ACASTANHADO   MUITO FINO                                   
+                   3329.0 (-3004.7)  65 DIABASIO              CINZA       ESVERDEADO                                                 
+                   3334.0 (-3009.7)  49 ARENITO               CREME       ACASTANHADO   MUITO FINO                                   
+                   3338.0 (-3013.7)  57 FOLHELHO              PRETO                                                                  
+                   3340.0 (-3015.7)  49 ARENITO               CREME       ACASTANHADO   MUITO FINO                                   
+                   3344.0 (-3019.7)  57 FOLHELHO              PRETO                                                                  
+                   3411.0 (-3086.7)  65 DIABASIO              CINZA       ESVERDEADO                                                 
+                   3413.0 (-3088.7)  49 ARENITO               CASTANHO    CLARO         MUITO FINO                                   
+                   3416.0 (-3091.7)  54 SILTITO               CINZA       ESCURO                                                     
+                   3421.0 (-3096.7)   6 CALCILUTITO           CREME       ESBRANQUICADO                                              
+                   3428.0 (-3103.7)  54 SILTITO               CASTANHO    CLARO                                                      
+                   3433.0 (-3108.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   3435.0 (-3110.7)  54 SILTITO               CASTANHO    CLARO                                                      
+                   3446.0 (-3121.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   3448.0 (-3123.7)  54 SILTITO               CASTANHO    CLARO                                                      
+                   3450.0 (-3125.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   3452.0 (-3127.7)  54 SILTITO               CASTANHO    CLARO                                                      
+                   3456.0 (-3131.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   3461.0 (-3136.7)  54 SILTITO               CASTANHO    CLARO                                                      
+                   3466.0 (-3141.7)  49 ARENITO               CINZA       ESVERDEADO    MUITO FINO                                   
+                   3468.0 (-3143.7)  54 SILTITO               CASTANHO    CLARO                                                      
+                   3485.0 (-3160.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   3487.0 (-3162.7)  54 SILTITO               CASTANHO    CLARO                                                      
+                   3602.0 (-3277.7)  65 DIABASIO              VARIEGADO                                                              
+                   3614.0 (-3289.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   3628.0 (-3303.7)  54 SILTITO               CINZA       ESCURO                                                     
+                   3630.0 (-3305.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   3633.0 (-3308.7)  54 SILTITO               CINZA       ESCURO                                                     
+                   3639.0 (-3314.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   3641.0 (-3316.7)  54 SILTITO               CINZA       ESCURO                                                     
+                   3644.0 (-3319.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   3646.0 (-3321.7)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   3659.0 (-3334.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   3664.0 (-3339.7)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   3673.0 (-3348.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   3676.0 (-3351.7)  54 SILTITO               CINZA       ESCURO                                                     
+                   3678.0 (-3353.7)  49 ARENITO               CINZA       ESVERDEADO    FINO            SUBARREDONDADO               
+                   3680.0 (-3355.7)  54 SILTITO               CINZA       ESCURO                                                     
+                   3683.0 (-3358.7)  49 ARENITO               CINZA                     FINO            SUBARREDONDADO               
+                   3685.0 (-3360.7)  54 SILTITO               CINZA       ESCURO                                                     
+                   3692.0 (-3367.7)  49 ARENITO               CINZA       ACASTANHADO   FINO            SUBARREDONDADO               
+                   3695.0 (-3370.7)  54 SILTITO               CINZA       ESBRANQUICADO                                              
+                   3700.0 (-3375.7)  49 ARENITO               CINZA                     MUITO FINO                                   
+                   3705.0 (-3380.7)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   3708.0 (-3383.7)  49 ARENITO               CINZA       ESCURO        FINO            SUBARREDONDADO               
+                   3711.0 (-3386.7)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   3713.0 (-3388.7)  49 ARENITO               CINZA       CLARO         FINO            SUBARREDONDADO               
+                   3715.0 (-3390.7)  54 SILTITO               CREME       ACASTANHADO                                                
+                   3720.0 (-3395.7)  49 ARENITO               CINZA       ESCURO        FINO            SUBARREDONDADO               
+                   3723.0 (-3398.7)  54 SILTITO               CINZA       CLARO                                                      
+                   3725.0 (-3400.7)  49 ARENITO               CINZA                     FINO            SUBARREDONDADO               
+                   3732.0 (-3407.7)  54 SILTITO               CINZA       ESCURO                                                     
+                   3734.0 (-3409.7)  49 ARENITO               CINZA                     FINO            SUBARREDONDADO               
+                   3737.0 (-3412.7)  54 SILTITO               CINZA       ESCURO                                                     
+                   3740.0 (-3415.7)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   3745.0 (-3420.7)  49 ARENITO               CINZA       CLARO         MUITO FINO                                   
+                   3751.0 (-3426.7)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   3753.0 (-3428.7)  49 ARENITO               CINZA       CLARO         MUITO FINO                                   
+                   3756.0 (-3431.7)  54 SILTITO               CINZA       ESCURO                                                     
+                   3758.0 (-3433.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   3761.0 (-3436.7)  54 SILTITO               CINZA       ESCURO                                                     
+                   3763.0 (-3438.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   3767.0 (-3442.7)  54 SILTITO               CINZA       ESCURO                                                     
+                   3770.0 (-3445.7)  57 FOLHELHO              PRETO                                                                  
+                   3772.0 (-3447.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   3777.0 (-3452.7)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   3782.0 (-3457.7)  49 ARENITO               CINZA       CLARO         MUITO FINO                                   
+                   3787.0 (-3462.7)  54 SILTITO               CINZA       ESCURO                                                     
+                   3789.0 (-3464.7)  49 ARENITO               CINZA       CLARO         MUITO FINO                                   
+                   3791.0 (-3466.7)  54 SILTITO               CINZA       ESCURO                                                     
+                   3793.0 (-3468.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   3797.0 (-3472.7)  54 SILTITO               CINZA       ESCURO                                                     
+                   3799.0 (-3474.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   3814.0 (-3489.7)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   3819.0 (-3494.7)  49 ARENITO               CINZA       ESVERDEADO    MUITO FINO                                   
+                   3830.0 (-3505.7)  54 SILTITO               CREME       ACASTANHADO                                                
+                   3836.0 (-3511.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   3838.0 (-3513.7)  54 SILTITO               CASTANHO    AVERMELHADO                                                
+                   3839.0 (-3514.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   3841.0 (-3516.7)  54 SILTITO               CASTANHO    AVERMELHADO                                                
+                   3843.0 (-3518.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   3845.0 (-3520.7)  54 SILTITO               CASTANHO    AVERMELHADO                                                
+                   3847.0 (-3522.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   3849.0 (-3524.7)  54 SILTITO               CASTANHO    AVERMELHADO                                                
+                   3853.0 (-3528.7)  49 ARENITO               CASTANHO    AVERMELHADO   MUITO FINO                                   
+                   3867.0 (-3542.7)  54 SILTITO               CASTANHO    AVERMELHADO                                                
+                   3869.0 (-3544.7)  49 ARENITO                           ESBRANQUICADO MEDIO           SUBARREDONDADO               
+                   3871.0 (-3546.7)  54 SILTITO               CASTANHO    AVERMELHADO                                                
+                   3905.0 (-3580.7)  49 ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBARREDONDADO               
+                   3910.0 (-3585.7)  54 SILTITO               CINZA       ACASTANHADO                                                
+                   3912.0 (-3587.7)   6 CALCILUTITO           CASTANHO    CLARO         MUITO FINO                                   
+                   3914.0 (-3589.7)  49 ARENITO                           ESBRANQUICADO MEDIO           SUBARREDONDADO               
+                   3916.0 (-3591.7)  54 SILTITO               CINZA       ACASTANHADO                                                
+                   3919.0 (-3594.7)   6 CALCILUTITO           CASTANHO    CLARO         MUITO FINO                                   
+                   3921.0 (-3596.7)  54 SILTITO               CINZA       ACASTANHADO                                                
+                   3929.0 (-3604.7)  49 ARENITO                           ESBRANQUICADO MEDIO           SUBARREDONDADO               
+                   3931.0 (-3606.7)  54 SILTITO               CINZA       ACASTANHADO                                                
+                   3933.0 (-3608.7)  49 ARENITO               CINZA       ESVERDEADO    MUITO FINO                                   
+                   3936.0 (-3611.7)  54 SILTITO               CASTANHO    AVERMELHADO                                                
+                   3938.0 (-3613.7)  49 ARENITO               CINZA       ESVERDEADO    MUITO FINO                                   
+                   3942.0 (-3617.7)  54 SILTITO               CASTANHO    CLARO                                                      
+                   3944.0 (-3619.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   3946.0 (-3621.7)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   3948.0 (-3623.7)  49 ARENITO               CREME       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   3950.0 (-3625.7)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   3954.0 (-3629.7)  49 ARENITO               CASTANHO    CLARO         FINO            SUBARREDONDADO               
+                   3956.0 (-3631.7)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   3966.0 (-3641.7)  49 ARENITO               CINZA       CLARO         MUITO FINO                                   
+                   3969.0 (-3644.7)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   3975.0 (-3650.7)  54 SILTITO               CINZA       ESCURO                                                     
+                   3977.0 (-3652.7)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   3983.0 (-3658.7)  49 ARENITO                           HIALINO       CONGLOMERATICO  SUBANGULAR                   
+                   3986.0 (-3661.7)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   3990.0 (-3665.7)  49 ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBARREDONDADO               
+                   3992.0 (-3667.7)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   4002.0 (-3677.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   4007.0 (-3682.7)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   4018.0 (-3693.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   4028.0 (-3703.7)  65 DIABASIO              CINZA       ESCURO                                                     
+                   4032.0 (-3707.7)  57 FOLHELHO              CINZA                                                                  
+                   4035.0 (-3710.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   4059.0 (-3734.7)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   4072.0 (-3747.7)  44 DIAMICTITO            CINZA       ESCURO                                                     
+                   4085.0 (-3760.7)  49 ARENITO                           ESBRANQUICADO GROSSEIRO       SUBARREDONDADO               
+                   4092.0 (-3767.7)  44 DIAMICTITO            CINZA       ESCURO                                                     
+                   4097.0 (-3772.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   4102.0 (-3777.7)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   4106.0 (-3781.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   4109.0 (-3784.7)  44 DIAMICTITO            CINZA       ESCURO                                                     
+                   4119.0 (-3794.7)  49 ARENITO               VARIEGADO                 CONGLOMERATICO  SUBANGULAR                   
+                   4126.0 (-3801.7)  44 DIAMICTITO            CINZA       ESCURO                                                     
+                   4132.0 (-3807.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   4139.0 (-3814.7)  44 DIAMICTITO            CINZA       ESCURO                                                     
+                   4151.0 (-3826.7)  49 ARENITO                           ESBRANQUICADO MEDIO           SUBARREDONDADO               
+                   4201.0 (-3876.7)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   4222.0 (-3897.7)  49 ARENITO                           ESBRANQUICADO MEDIO           SUBARREDONDADO               
+                   4229.0 (-3904.7)  44 DIAMICTITO            CINZA       ESCURO                                                     
+                   4233.0 (-3908.7)  65 DIABASIO              VARIEGADO                                                              
+                   4236.0 (-3911.7)  49 ARENITO                           ESBRANQUICADO MEDIO           SUBARREDONDADO               
+                   4238.0 (-3913.7)  44 DIAMICTITO            CINZA       ESCURO                                                     
+                   4249.0 (-3924.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   4257.0 (-3932.7)  44 DIAMICTITO            CINZA       ESCURO                                                     
+                   4264.0 (-3939.7)  49 ARENITO               CINZA       ESBRANQUICADO CONGLOMERATICO  SUBANGULAR                   
+                   4266.0 (-3941.7)  44 DIAMICTITO            CINZA       ESCURO                                                     
+                   4278.0 (-3953.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   4280.0 (-3955.7)  44 DIAMICTITO            CINZA       ESCURO                                                     
+                   4311.0 (-3986.7)  49 ARENITO               BRANCO      ACINZENTADO   MEDIO           SUBARREDONDADO               
+                   4313.0 (-3988.7)  54 SILTITO               CINZA       CLARO                                                      
+                   4337.0 (-4012.7)  49 ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBARREDONDADO               
+                   4347.0 (-4022.7)  54 SILTITO               CINZA       CLARO                                                      
+                   4351.0 (-4026.7)  49 ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBARREDONDADO               
+                   4353.0 (-4028.7)  54 SILTITO               CINZA       CLARO                                                      
+                   4365.0 (-4040.7)  49 ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBARREDONDADO               
+                   4367.0 (-4042.7)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   4388.0 (-4063.7)  49 ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBARREDONDADO               
+                   4393.0 (-4068.7)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   4418.0 (-4093.7)  49 ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBARREDONDADO               
+                   4421.0 (-4096.7)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   4493.0 (-4168.7)  49 ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBARREDONDADO               
+                   4496.0 (-4171.7)  54 SILTITO               CINZA       CLARO                                                      
+                   4500.0 (-4175.7)  44 DIAMICTITO            CINZA       ESCURO                                                     
+                   4502.0 (-4177.7)  49 ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBARREDONDADO               
+                   4508.0 (-4183.7)  44 DIAMICTITO            CINZA       ESCURO                                                     
+                   4518.0 (-4193.7)  49 ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBARREDONDADO               
+                   4520.0 (-4195.7)  44 DIAMICTITO            CINZA       ESCURO                                                     
+                   4536.0 (-4211.7)  49 ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBARREDONDADO               
+                   4544.0 (-4219.7)  54 SILTITO               CINZA       CLARO                                                      
+                   4552.0 (-4227.7)  44 DIAMICTITO            CINZA       ESCURO                                                     
+                   4558.0 (-4233.7)  54 SILTITO               CINZA       CLARO                                                      
+                   4565.0 (-4240.7)  49 ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBARREDONDADO               
+                   4568.0 (-4243.7)  44 DIAMICTITO            CINZA       ESCURO                                                     
+                   4574.0 (-4249.7)  49 ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBARREDONDADO               
+                   4577.0 (-4252.7)  44 DIAMICTITO            CINZA       ESCURO                                                     
+                   4608.0 (-4283.7)  49 ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBARREDONDADO               
+                   4620.0 (-4295.7)  54 SILTITO               CINZA       CLARO                                                      
+                   4629.0 (-4304.7)  49 ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBARREDONDADO               
+                   4634.0 (-4309.7)  54 SILTITO               CINZA       CLARO                                                      
+                   4648.0 (-4323.7)  49 ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBARREDONDADO               
+                   4651.0 (-4326.7)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   4653.0 (-4328.7)  49 ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBARREDONDADO               
+                   4655.0 (-4330.7)  54 SILTITO               CINZA       CLARO                                                      
+                   4658.0 (-4333.7)  49 ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBARREDONDADO               
+                   4661.0 (-4336.7)  54 SILTITO               CINZA       ESCURO                                                     
+                   4664.0 (-4339.7)  49 ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBARREDONDADO               
+                   4667.0 (-4342.7)  54 SILTITO               CINZA       ESCURO                                                     
+                   4673.0 (-4348.7)  49 ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBARREDONDADO               
+                   4685.0 (-4360.7)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   4687.0 (-4362.7)  49 ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBARREDONDADO               
+                   4696.0 (-4371.7)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   4727.0 (-4402.7)  54 SILTITO               CINZA       CLARO                                                      
+                   4747.0 (-4422.7)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   4771.0 (-4446.7)  54 SILTITO               CINZA       CLARO                                                      
+                   4791.0 (-4466.7)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   4795.0 (-4470.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   4797.0 (-4472.7)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   4799.0 (-4474.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   4803.0 (-4478.7)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   4805.0 (-4480.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   4812.0 (-4487.7)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   4814.0 (-4489.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   4817.0 (-4492.7)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   4819.0 (-4494.7)  49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+                   4830.0 (-4505.7)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   4940.0 (-4615.7)  65 DIABASIO              CINZA       ESBRANQUICADO                                              
+                   4955.0 (-4630.7)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   5054.0 (-4729.7)  65 DIABASIO              CINZA       ESBRANQUICADO                                              
+                   5079.0 (-4754.7)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   5081.0 (-4756.7)  49 ARENITO               CINZA       ESVERDEADO    FINO            SUBARREDONDADO               
+                   5083.0 (-4758.7)  54 SILTITO               CREME       ESBRANQUICADO                                              
+                   5085.0 (-4760.7)  49 ARENITO               CINZA       ESVERDEADO    FINO            SUBARREDONDADO               
+                   5087.0 (-4762.7)  54 SILTITO               CREME       ESBRANQUICADO                                              
+                   5091.0 (-4766.7)  49 ARENITO               CINZA       ESVERDEADO    FINO            SUBARREDONDADO               
+                   5093.0 (-4768.7)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   5096.0 (-4771.7)  49 ARENITO               CINZA       ESVERDEADO    FINO            SUBARREDONDADO               
+                   5099.0 (-4774.7)  54 SILTITO               CINZA       ESCURO                                                     
+                   5103.0 (-4778.7)  49 ARENITO               CINZA       ESVERDEADO    FINO            SUBARREDONDADO               
+                   5105.0 (-4780.7)  54 SILTITO               CINZA       ESCURO                                                     
+                   5113.0 (-4788.7)  49 ARENITO               CINZA       CLARO         FINO            SUBARREDONDADO               
+                   5117.0 (-4792.7)  54 SILTITO               CINZA       ESCURO                                                     
+                   5119.0 (-4794.7)  49 ARENITO               CINZA       CLARO         FINO            SUBARREDONDADO               
+                   5121.0 (-4796.7)  54 SILTITO               CINZA       ESCURO                                                     
+                   5124.0 (-4799.7)  49 ARENITO               CINZA       CLARO         FINO            SUBARREDONDADO               
+                   5130.0 (-4805.7)  54 SILTITO               CINZA       ESCURO                                                     
+                   5132.0 (-4807.7)  49 ARENITO               CINZA       CLARO         FINO            SUBARREDONDADO               
+                   5137.0 (-4812.7)  54 SILTITO               CINZA       ESCURO                                                     
+                   5142.0 (-4817.7)  49 ARENITO               CINZA       CLARO         FINO            SUBARREDONDADO               
+                   5144.0 (-4819.7)  54 SILTITO               CINZA       ESCURO                                                     
+                   5149.0 (-4824.7)  49 ARENITO               CINZA       CLARO         FINO            SUBARREDONDADO               
+                   5151.0 (-4826.7)  54 SILTITO               CINZA       ESCURO                                                     
+                   5155.0 (-4830.7)  49 ARENITO               CINZA       CLARO         FINO            SUBARREDONDADO               
+                   5157.0 (-4832.7)  54 SILTITO               CINZA       ESCURO                                                     
+                   5159.0 (-4834.7)  49 ARENITO               CINZA       CLARO         FINO            SUBARREDONDADO               
+                   5168.0 (-4843.7)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   5183.0 (-4858.7)  65 DIABASIO              CINZA       ESBRANQUICADO                                              
+                   5186.0 (-4861.7)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   5191.0 (-4866.7)  54 SILTITO               CINZA       ESCURO                                                     
+                   5193.0 (-4868.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   5196.0 (-4871.7)  54 SILTITO               CINZA       ESCURO                                                     
+                   5200.0 (-4875.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   5205.0 (-4880.7)  54 SILTITO               CINZA       ESCURO                                                     
+                   5209.0 (-4884.7)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   5314.0 (-4989.7)  65 DIABASIO              CINZA       ESBRANQUICADO                                              
+                   5341.0 (-5016.7)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   5349.0 (-5024.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   5351.0 (-5026.7)  54 SILTITO               CINZA       CLARO                                                      
+                   5354.0 (-5029.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   5356.0 (-5031.7)  54 SILTITO               CINZA       CLARO                                                      
+                   5358.0 (-5033.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   5362.0 (-5037.7)  54 SILTITO               CINZA       CLARO                                                      
+                   5364.0 (-5039.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   5371.0 (-5046.7)  54 SILTITO               CINZA       CLARO                                                      
+                   5373.0 (-5048.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   5375.0 (-5050.7)  54 SILTITO               CINZA       CLARO                                                      
+                   5378.0 (-5053.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   5381.0 (-5056.7)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   5384.0 (-5059.7)  54 SILTITO               CINZA       CLARO                                                      
+                   5396.0 (-5071.7)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   5511.0 (-5186.7)  65 DIABASIO              CINZA       ESBRANQUICADO                                              
+                   5539.0 (-5214.7)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   5541.0 (-5216.7)  49 ARENITO               CINZA       CLARO         MUITO FINO                                   
+                   5571.0 (-5246.7)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   5593.0 (-5268.7)  49 ARENITO               CINZA       CLARO         MUITO FINO                                   
+                   5596.0 (-5271.7)  54 SILTITO               CINZA       CLARO                                                      
+                   5621.0 (-5296.7)  49 ARENITO               CINZA       CLARO         MUITO FINO                                   
+                   5629.0 (-5304.7)  54 SILTITO               CINZA       CLARO                                                      
+                   5667.0 (-5342.7)  49 ARENITO               CINZA       CLARO         MUITO FINO                                   
+                   5670.0 (-5345.7)  54 SILTITO               CINZA       ESVERDEADO                                                 
+                   5676.0 (-5351.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   5679.0 (-5354.7)  54 SILTITO               CINZA       ESVERDEADO                                                 
+                   5681.0 (-5356.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   5686.0 (-5361.7)  54 SILTITO               CINZA       ESVERDEADO                                                 
+                   5737.0 (-5412.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   5739.0 (-5414.7)  54 SILTITO               CINZA       ESVERDEADO                                                 
+                   5745.0 (-5420.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   5750.0 (-5425.7)  54 SILTITO               CINZA       ESVERDEADO                                                 
+                   5760.0 (-5435.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   5763.0 (-5438.7)  54 SILTITO               CINZA       ESVERDEADO                                                 
+                   5773.0 (-5448.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   5776.0 (-5451.7)  54 SILTITO               CINZA       CLARO                                                      
+                   5789.0 (-5464.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   5791.0 (-5466.7)  54 SILTITO               CINZA       ESVERDEADO                                                 
+                   5801.0 (-5476.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   5803.0 (-5478.7)  54 SILTITO               CINZA       CLARO                                                      
+                   5807.0 (-5482.7)  49 ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBARREDONDADO               
+                   5809.0 (-5484.7)  54 SILTITO               CINZA       ESVERDEADO                                                 
+                   5811.0 (-5486.7)  49 ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBARREDONDADO               
+                   5813.0 (-5488.7)  54 SILTITO               CINZA       CLARO                                                      
+                   5825.0 (-5500.7)  49 ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBARREDONDADO               
+                   5829.0 (-5504.7)  54 SILTITO               CINZA       ESVERDEADO                                                 
+                   5856.0 (-5531.7)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   5858.0 (-5533.7)  54 SILTITO               CINZA       CLARO                                                      
+                   5911.0 (-5586.7)  49 ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBARREDONDADO               
+  RESUMO DAS ROCHAS ENCONTRADAS NO POCO -                                                                                            
+   6  CALCILUTITO      =    12.0 M       .20 %                                                                                       
+   8  CALCARENITO      =    39.0 M       .66 %                                                                                       
+  44  DIAMICTITO       =    84.0 M      1.42 %                                                                                       
+  49  ARENITO          =  2049.0 M     34.71 %                                                                                       
+  54  SILTITO          =   891.0 M     15.09 %                                                                                       
+  57  FOLHELHO         =   423.0 M      7.17 %                                                                                       
+  65  DIABASIO         =  1060.0 M     17.96 %                                                                                       
+  66  BASALTO          =  1345.0 M     22.79 %                                                                                       
+ ++++++++++++++++++++++++++++++++++                                                                                                  
+
+
+                                            ========================================
+                                                      DICIONARIO DE CODIGOS
+                                            ========================================
+
+
+
+
+                                       DICIONARIO DE UNIDADES ESTRATIGRAFICAS
+                                       ======================================
+
+ METODO DE INTERPRETACAO                                                  CODIGOS DE QUALIDADE
+
+ PERFIL                                A                                  BOM                      B
+ LITOLOGIA                             B                                  REGULAR                  R
+ SISMICA                               C                                  QUESTIONAVEL             Q
+ PALEONTOLOGIA                         D                                  INFERIDO                 I
+ PERFIL E LITOLOGIA                    E                                  DADO NAO REVISTO         X
+ PERFIL E SISMICA                      F
+ PERFIL E PALENTOLOGIA                 G
+ PALEONTOLOGIA E LITOLOGIA             H
+ PALENTOLOGIA E SISMICA                I
+ PERFIL, LITOLOGIA E PALEONTOLOGIA     J
+ PERFIL, LITOLOGIA E SISMICA           K
+ PERFIL, LITO. PALEO. E SISMICA        L
+ DADO NAO REVISTO                      X
+ INFORMACAO NAO EXISTENTE              Z
+
+
+ DICIONARIO DE TIPO DE UNIDADE
+
+ UNIDADE LITOESTRATIGRAFICA                 L
+ DISCORDANCIAS                              D
+ UNIDADE CRONOESTRATIGRAFICA                C
+ UNIDADE CRONOESTRATIGRAFICA ESPECIAL       E
+ UNIDADE CRONO-SISMICA                      S
+ MARKER (CAMADA CHAVE)                      M
+ NANOFOSSIL                                 N
+ PALINOLOGIA/CHITINOZOA/AGRITARCA           P
+ OSTRACODAS                                 O
+ FORAMINIFERO                               F
+ ZONA ESTERIL-NAO AVALIADA                  X
+ AMBIENTES DEPOSICIONAIS                    T
+ DINOFLAGELADOS                             G
+
+
+
+
+                                       DICIONARIO DE INDICIOS DE HIDROCARBONETOS
+                                       =========================================
+
+ TIPO DE INDICIO                                                ORIGEM
+
+ INDICIO DE OLEO,                      O                        LITOLOGIA                     L
+ INDICIO DE GAS                        G                        FLUIDO DE PERFURACAO          F
+ INDICIO DE CONDENSADO                 C                        DETECTOR                      D
+ IND. DE BETUME/ASFALTO/OLEO MORTO     B                        KICK                          K
+ DADO NAO REVISTO                      X                        DADO NAO REVISTO              X
+
+
+ TIPO DE AMOSTRA                                                COR
+
+ CALHA                  C                                       BRANCO              BRC       1
+ TESTEMUNHO             T                                       CREME               CRM       2
+ LATERAL                L                                       CINZA               CNZ       3
+ SUBCESTA               S                                       AMARELO             AMR       4
+ NAO SE APLICA          N                                       VERDE               VRD       5
+ DADO NAO REVISTO       X                                       VERMELHO            VRM       6
+                                                                ROXO                ROX       7
+                                                                CASTANHO            CTN       8
+                                                                PRETO               PRT       9
+                                                                VARIEGADO           VRG       0
+
+
+ MODO DE OCORRENCIA DO INDICIO de HC                            TIPO DE FLUORESCENCIA
+
+ SATURACAO              S                                       TOTAL                         T
+ SUBSATURACAO           B                                       ESPARSA                       E
+ MANCHA                 M                                       PONTUAL                       P
+ EXSUDACAO              E                                       SEM FLUORESCENCIA             S
+ ODOR                   O                                       NAO SE APLICA                 N
+ NAO SE APLICA          N                                       INF. NAO EXISTENTE            Z
+ DADO NAO REVISTO       X 
+ INF. NAO EXISTENTE     Z
+
+
+ TONALIDADE                                                     VELOCIDADE DE DISSEMINACAO CORTE
+
+ CLARO             CRL       1                                  IMEDIATO                      I
+ ESCURO            ESC       2                                  MODERADO                      M
+ ALARANJADO        ALJ       3                                  PROVOCADO                     P
+ ESBRANQUIÇADO     ESB       4                                  SEM CORTE                     S
+ ACASTANHADO       ACT       5                                  NAO SE APLICA                 N
+ ACINZENTADO       ACZ       6                                  INFORMACAO NAO EXISTENTE      Z
+ ESVERDEADO        EVD       7
+ AVERMELHADO       AVM       8
+ AMARELADO         AMR       9
+ HIALINO           HIA       0
+
+
+ MODO DE DISSEMINACAO DO CORTE
+
+ AUREOLAR                    A
+ RADIAL                      R
+ NAO SE APLICA               N
+ INFORMACAO NAO EXISTENTE    Z

@@ -1,0 +1,173 @@
+/3.2
+(ODB.1
+	FirstRootClassName:	"Legend"
+	Roots:	2
+	Version:	32
+)
+
+(Legend.2
+	SymType:	0x01
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	3
+	Class:	25
+	StdDevs:	1.00000000000000
+	NullSym:	26
+	NullValues:	28
+	StatValues:	29
+	Precision:	-3
+)
+
+(SymList.3
+	Child:	4
+)
+
+(CAiLnSym.4
+	Color:	5
+	ColorLock:	1
+	Size:	22.23000000000000
+	Symbols:	6
+)
+
+(TClr.5
+)
+
+(SymList.6
+	Child:	7
+	Child:	16
+)
+
+(VLnMark.7
+	Color:	8
+	Size:	22.23000000000000
+	Interval:	-3.13443000000000
+	Template:	"0182"
+	BasicMarker:	9
+)
+
+(TClr.8
+)
+
+(BMkSym.9
+	Color:	10
+	BgColor:	11
+	Font:	12
+	Size:	22.23000000000000
+	Pattern:	249
+	Angle:	48.81407483430542
+)
+
+(TClr.10
+)
+
+(TClr.11
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NFont.12
+	Family:	13
+	Name:	14
+	Style:	15
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.13
+	S:	"ESRI Geology"
+)
+
+(AVStr.14
+	S:	"ESRI Geology"
+)
+
+(AVStr.15
+	S:	"Normal"
+)
+
+(VLnMark.16
+	Color:	17
+	Size:	16.00000000000000
+	AltSize:	-6.72000000000000
+	Template:	"011311"
+	BasicMarker:	18
+)
+
+(TClr.17
+)
+
+(BMkSym.18
+	Color:	19
+	BgColor:	20
+	Font:	21
+	Size:	16.00000000000000
+	Pattern:	43
+	Angle:	48.81407483430542
+)
+
+(TClr.19
+)
+
+(TClr.20
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NFont.21
+	Family:	22
+	Name:	23
+	Style:	24
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.22
+	S:	"ESRI Geology"
+)
+
+(AVStr.23
+	S:	"ESRI Geology"
+)
+
+(AVStr.24
+	S:	"Normal"
+)
+
+(LClass.25
+	IsText:	1
+	Precision:	-3
+)
+
+(BLnSym.26
+	Color:	27
+	Width:	0.10000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.27
+	Name:	"Transparent"
+)
+
+(NameDict.28
+)
+
+(NameDict.29
+)
+

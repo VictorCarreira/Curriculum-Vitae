@@ -1,0 +1,262 @@
+ POCO           :   2CB  0001DASP       
+                                                                                                                                     
+ IDENTIFICADOR  :   SF22N24NE46J32BA                        BACIA          :   PARANA                                                
+ CAMPO          :                                           DATUM          :   SAD-69                                                
+ LATITUDE       :   -22.30330 (  -22  18 11.9)              LONGITUDE      :   -52.03934 (  -52   2 21.6)                            
+ MERID.CENTRAL  :   - 51                                    COORD.UTM FUNDO:    7533200.9S  392939.3W                                
+ DISTRITO       :   E&P-SUL                                 ESTADO         :   SP                                                    
+ MUNICIPIO      :   MIR PARANAPN                            CODIGO POCO    :   008400                                                
+ QUADRICULA     :   29753339                                MESA ROTATIVA  :    396.0                                                
+ B.A.P          :     387.0                                 P.F.SONDADOR   :   4805.1                                                
+ PROF.MX.PERF.  :   4805.1                                  METROS PERF.   :   1093.6                                                
+ MAIOR PROF.    :   4805.1                                  INICIO         :   11/11/82                                              
+ TERMINO        :   14/03/83                                DATA LIB.SONDA :   19/03/83                                              
+ ULT.RECLASSIF. :   05/04/83                                ULT.RECLASSIF. :   LOCACAO                                               
+ SITUACAO LOC.  :   CONCLUIDO                               DATA APROV.LOC :   29/04/80                                              
+ CADASTRO       :   00110                                   SEDOC          :   0635                                                  
+ SONDA          :   EG-2                                    FORMACAO P.F.  :   F LAGAZU                                              
+ TERRA / MAR    :   TERRA                                   ACS RISCO      :   04                                                    
+ CONTR. RISCO   :   IPT/CESP                                DOC.APROV.LOC. :   PAULIPETRO/1980                                       
+ NOME           :   CUIABA PAULIS.1DA                       CLASSIFICACAO  :   ESTRATIGRAFICO                                        
+ RECLASSIFICACAO:   SECO SEM INDICACAO DE H.C.                                                                                       
+ MC C.UTM BASE  :                                                                                                                    
+ DADOS  LOCACAO :                                                                                                                    
+ MC LOCACAO     :   - 51                                    COORD.UTM LOC. :     7533200.9S   392939.3W                              
+ DATUM LOCACAO  :   SAD-69                                  EMPR. OPER.1/2 :    ENTERPA                                              
+ DIRECIONAL?    :   DIRECIONAL                                                                                                       
+ HISTORICO DA RECLASSIFICACAO -      05/04/83   -  SECO SEM INDICACAO DE H.C.                            - RECLASSIFICACAO           
+------------------------------                                                  
+ INTERVALOS TAMPONEADOS -TOPO                BASE                     TIPO DE TAMPAO                                                 
+------------------------------                                                  
+                          26.0   (  370.0)    42.0   (  354.0)        ABANDONO                                                       
+                        2073.0   (-1676.9)  2140.0   (-1743.9)        ABANDONO                                                       
+                        3619.6   (-3223.5)  3800.6   (-3403.7)        ABANDONO                                                       
+                        4600.0   (-4190.2)  4700.0   (-4289.2)        ABANDONO                                                       
+-----------------------                                                         
+ UNID.VERTICALIZADAS -                                                                                                               
+-----------------------                                                         
+ TIP QL N O M E  CODIGO  TOPO / COTA     DESC. TOPO   BASE / COTA      DESC. BASE   MET TEMPO FONTE DE INTERPRETACAO       DATA      
+ L   B  G BAURU  258035     9.0(  387.0) DISCORDANCIA  216.0 (  180.)                B        E&P SUL/GERET                19/01/1995
+ L   B  G SAOBEN 367043   216.0(  180.0) DISCORDANCIA 2042.9 (-1646.)                E        E&P SUL/GERET                19/01/1995
+ L   B  F SGERAL 416043   216.0(  180.0) DISCORDANCIA 1939.9 (-1543.)                E        E&P SUL/GERET                19/01/1995
+ L   B  F BOTUCA 660054  1939.9(-1543.9)              2042.9 (-1646.)                E        E&P SUL/GERET                19/01/1995
+ L   B  F PIRAMB 661050  2042.9(-1646.9) DISCORDANCIA 2311.9 (-1915.)                E        E&P SUL/GERET                19/01/1995
+ L   B  G PASDOI 707060  2311.9(-1915.9) DISCORDANCIA 3356.9 (-2960.)                E        E&P SUL/GERET                19/01/1995
+ L   B  F TERESI 728060  2311.9(-1915.9) DISCORDANCIA 2699.9 (-2303.)                E        E&P SUL/GERET                19/01/1995
+ L   B    SOLEIR 928099  2699.9(-2303.9) DISCORDANCIA 2726.9 (-2330.)                E        E&P SUL/GERET                19/01/1995
+ L   B  F TERESI 728060  2726.9(-2330.9)              3021.9 (-2625.)                E        E&P SUL/GERET                19/01/1995
+ L   B    SOLEIR 928099  3021.9(-2625.9) DISCORDANCIA 3115.9 (-2719.)                E        E&P SUL/GERET                19/01/1995
+ L   B  F TERESI 728060  3115.9(-2719.9)              3139.9 (-2743.)                E        E&P SUL/GERET                19/01/1995
+ L   B  F SERALT 736060  3139.9(-2743.9)              3216.9 (-2820.)                E        E&P SUL/GERET                19/01/1995
+ L   B  F IRATI  738060  3216.9(-2820.9)              3244.9 (-2848.)                E        E&P SUL/GERET                19/01/1995
+ L   B    SOLEIR 928099  3244.9(-2848.9) DISCORDANCIA 3349.9 (-2953.)                E        E&P SUL/GERET                19/01/1995
+ L   B  F IRATI  738060  3349.9(-2953.9)              3356.9 (-2960.)                E        E&P SUL/GERET                19/01/1995
+ L   B  G GUATA  740060  3356.9(-2960.9)              3546.9 (-3150.)                E        E&P SUL/GERET                19/01/1995
+ L   B  F PALERM 744060  3356.9(-2960.9)              3480.9 (-3084.)                E        E&P SUL/GERET                19/01/1995
+ L   B  F RBONIT 750060  3480.9(-3084.9)              3546.9 (-3150.)                E        E&P SUL/GERET                19/01/1995
+ L   B  G ITARAR 756062  3546.9(-3150.9)                                             E        E&P SUL/GERET                19/01/1995
+ L   B  F TACIBA 758062  3546.9(-3150.9)              3691.9 (-3295.)                E        E&P SUL/GERET                19/01/1995
+ L   B  M CHASOL 759062  3546.9(-3150.9)              3691.9 (-3295.)                E        E&P SUL/GERET                19/01/1995
+ L   B  F CAMMOU 771064  3691.9(-3295.9)              4278.7 (-3882.)                E        E&P SUL/GERET                19/01/1995
+ L   B  F LAGAZU 772065  4278.7(-3882.7)              4468.0 (-4072.)                E        E&P SUL/GERET                19/01/1995
+ L   B  M TARABA 772565  4278.7(-3882.7)              4468.0 (-4072.)                E        E&P SUL/GERET                19/01/1995
+ L   B    SOLEIR 928099  4468.0(-4072.0) DISCORDANCIA 4498.5 (-4102.)                E        E&P SUL/GERET                19/01/1995
+ L   B    DIQUE  929099  4498.5(-4102.5) DISCORDANCIA 4514.3 (-4118.)                E        E&P SUL/GERET                19/01/1995
+ L   B    SOLEIR 928099  4514.3(-4118.3)              4623.7 (-4227.)                E        E&P SUL/GERET                19/01/1995
+ L   B  F LAGAZU 772065  4623.7(-4227.7)                                             E        E&P SUL/GERET                19/01/1995
+ L   B  M TARABA 772565  4623.7(-4227.7)              4657.4 (-4261.)                E        E&P SUL/GERET                19/01/1995
+ L   B  M CUIPAU 773065  4657.4(-4261.4)                                             E        E&P SUL/GERET                19/01/1995
+------------------                                                              
+ UNIDADES MEDIDAS    -                                                                                                  /2CB  0001D  
+------------------                                                              
+ TIP QL MET N O M E  CODIGO   TOPO    DESC. TOPO    BASE    DESC. BASE     E/W     N/S    FONTE DE INTERPRETACAO        DATA         
+ L   B   B  G BAURU  258035      9.0  DISCORDANCIA    216.0                               E&P SUL/GERET                 19/01/1995   
+ L   B   E  G SAOBEN 367043    216.0  DISCORDANCIA   2043.0                               E&P SUL/GERET                 19/01/1995   
+ L   B   E  F SGERAL 416043    216.0  DISCORDANCIA   1940.0                               E&P SUL/GERET                 19/01/1995   
+ L   B   E  F BOTUCA 660054   1940.0                 2043.0                       +   6   E&P SUL/GERET                 19/01/1995   
+ L   B   E  F PIRAMB 661050   2043.0  DISCORDANCIA   2312.0                       +   6   E&P SUL/GERET                 19/01/1995   
+ L   B   E  G PASDOI 707060   2312.0  DISCORDANCIA   3357.0                       +   8   E&P SUL/GERET                 19/01/1995   
+ L   B   E  F TERESI 728060   2312.0  DISCORDANCIA   2700.0                       +   8   E&P SUL/GERET                 19/01/1995   
+ L   B   E    SOLEIR 928099   2700.0  DISCORDANCIA   2727.0                       +  11   E&P SUL/GERET                 19/01/1995   
+ L   B   E  F TERESI 728060   2727.0                 3022.0                       +  11   E&P SUL/GERET                 19/01/1995   
+ L   B   E    SOLEIR 928099   3022.0  DISCORDANCIA   3116.0                       +  13   E&P SUL/GERET                 19/01/1995   
+ L   B   E  F TERESI 728060   3116.0                 3140.0                       +  14   E&P SUL/GERET                 19/01/1995   
+ L   B   E  F SERALT 736060   3140.0                 3217.0                       +  15   E&P SUL/GERET                 19/01/1995   
+ L   B   E  F IRATI  738060   3217.0                 3245.0                +   1  +  15   E&P SUL/GERET                 19/01/1995   
+ L   B   E    SOLEIR 928099   3245.0  DISCORDANCIA   3350.0                +   1  +  16   E&P SUL/GERET                 19/01/1995   
+ L   B   E  F IRATI  738060   3350.0                 3357.0                +   1  +  17   E&P SUL/GERET                 19/01/1995   
+ L   B   E  G GUATA  740060   3357.0                 3547.0                +   1  +  17   E&P SUL/GERET                 19/01/1995   
+ L   B   E  F PALERM 744060   3357.0                 3481.0                +   1  +  17   E&P SUL/GERET                 19/01/1995   
+ L   B   E  F RBONIT 750060   3481.0                 3547.0                +   1  +  18   E&P SUL/GERET                 19/01/1995   
+ L   B   E  G ITARAR 756062   3547.0                                       +   1  +  19   E&P SUL/GERET                 19/01/1995   
+ L   B   E  F TACIBA 758062   3547.0                 3692.0                +   1  +  19   E&P SUL/GERET                 19/01/1995   
+ L   B   E  M CHASOL 759062   3547.0                 3692.0                +   1  +  19   E&P SUL/GERET                 19/01/1995   
+ L   B   E  F CAMMOU 771064   3692.0                 4287.0                +   2  +  20   E&P SUL/GERET                 19/01/1995   
+ L   B   E  F LAGAZU 772065   4287.0                 4480.0                +  42  + 103   E&P SUL/GERET                 19/01/1995   
+ L   B   E  M TARABA 772565   4287.0                 4480.0                +  42  + 103   E&P SUL/GERET                 19/01/1995   
+ L   B   E    SOLEIR 928099   4480.0  DISCORDANCIA   4511.0                +  54  + 138   E&P SUL/GERET                 19/01/1995   
+ L   B   E    DIQUE  929099   4511.0  DISCORDANCIA   4527.0                +  56  + 144   E&P SUL/GERET                 19/01/1995   
+ L   B   E    SOLEIR 928099   4527.0                 4638.0                +  57  + 146   E&P SUL/GERET                 19/01/1995   
+ L   B   E  F LAGAZU 772065   4638.0                                       +  62  + 164   E&P SUL/GERET                 19/01/1995   
+ L   B   E  M TARABA 772565   4638.0                 4672.0                +  62  + 164   E&P SUL/GERET                 19/01/1995   
+ L   B   E  M CUIPAU 773065   4672.0                                       +  64  + 168   E&P SUL/GERET                 19/01/1995   
+-------------------------------                                                 
+ INDICIOS DE HIDROCARBONETOS -                                                                                                       
+-------------------------------                                                 
+ TIPO ORIGEM AMOSTRA   T O P O           B A S E      MODO      R O C H A        %       TIPO/COR/TONALIDADE        V/M  UGT   UGP   
+  G     D      N    4456.0 (-4060.0) 4473.0 (-4077.0)      ARENITO                                                   /   360    00   
+---------------                                                                 
+ TESTEMUNHOS -                                                                                                                       
+---------------                                                                 
+     TIPO DO TESTEMUNHO           NUMERO       TOPO / COTA        BASE / COTA     RECUPERADO  FLAG.EXISTENCIA      LITOTECA          
+  CONVENCIONAL (BROCA DIAMANTE )   001      4411.0 (-4004.2)   4414.3 (-4007.5)      3.30           1             E&P-SUL            
+  CONVENCIONAL (BROCA DIAMANTE )   002      4476.0 (-4068.1)   4485.0 (-4077.0)      9.00           1             E&P-SUL            
+  CONVENCIONAL (BROCA DIAMANTE )   003      4544.0 (-4135.0)   4548.0 (-4139.0)      3.40           1             E&P-SUL            
+  CONVENCIONAL (BROCA DIAMANTE )   004      4606.0 (-4196.1)   4611.8 (-4201.9)      5.80           1             E&P-SUL            
+  CONVENCIONAL (BROCA DIAMANTE )   005      4640.0 (-4229.7)   4643.4 (-4233.1)      1.90           1             E&P-SUL            
+  CONVENCIONAL (BROCA DIAMANTE )   006      4647.0 (-4236.6)   4656.0 (-4245.6)      6.40           1             E&P-SUL            
+------------------------                                                        
+ OBJETIVOS E RESULTADOS - SEQ.   COD./NOME UNIDADE   STATUS INICIAL DO OBJETIVO           RESULTADO DO OBJETIVO                      
+------------------------                                                        
+                           01    756062 / G ITARAR   PRINCIPAL                         PORTADOR DE AGUA                              
+----------------------------------                                              
+  PERFIS: AQUISICAO/PROCESSAMENTO                                                                                                    
+----------------------------------                                              
+   COD  GR  TIPO           CIA   COR DESC    DATA           TOPO            BASE                                                     
+   ---  --  ----           ---   --- ----    ----           ----            ----                                                     
+   501  01  VDL(R)/        SCHL  00    A  13/11/1982  3549.0( -3152.9) 3756.8( -3360.7)                                              
+   503  01  CBL/                       A              3549.0( -3152.9) 3756.8( -3360.7)                                              
+   636  01  CCL/                       A              3549.0( -3152.9) 3756.8( -3360.7)                                              
+   165  01  GR                         A              3570.6( -3174.5) 3756.8( -3360.7)                                              
+   635  02  PDC                        A              3543.0( -3146.9) 3696.8( -3300.7)                                              
+   010  03  ISF/                       A              3700.3( -3304.2) 3751.0( -3354.9)                                              
+   165  03  GR                         A              3700.3( -3304.2) 3751.0( -3354.9)                                              
+   216  01  BGT            SCHL  01    A  08/02/1983  4250.0( -3846.6) 4556.4( -4147.2)                                              
+   216  01  BGT/           SCHL  02    A  25/02/1983  4200.0( -3797.9) 4638.7( -4228.4)                                              
+   220  01  CDR/                       A              3669.6( -3273.5) 4638.7( -4228.4)                                              
+   165  01  GR                         A              3669.6( -3273.5) 4633.8( -4223.6)                                              
+   216  01  BGT/           SCHL  03    A  07/03/1983  4400.0( -3993.4) 4658.5( -4248.0)                                              
+   165  01  GR                         A              4400.0( -3993.4) 4653.5( -4243.1)                                              
+   010  01  ISF/           SCHL  04    A  14/03/1983  3700.0( -3303.9) 4803.0( -4391.2)                                              
+   105  01  BHC/                       A              3700.0( -3303.9) 4793.5( -4381.8)                                              
+   169  01  NGS                        A              3700.0( -3303.9) 4784.5( -4372.9)                                              
+   150  02  LDL/                       A              3700.0( -3303.9) 4803.6( -4391.8)                                              
+                                                                                                                                     
+----------------------------------                                              
+  PERFIS: AQUISICAO/PROCESSAMENTO                                                                                                    
+----------------------------------                                              
+   COD  GR  TIPO           CIA   COR DESC    DATA           TOPO            BASE                                                     
+   ---  --  ----           ---   --- ----    ----           ----            ----                                                     
+   194  02  CNL            SCHL  04    A  14/03/1983  3700.0( -3303.9) 4797.1( -4385.4)                                              
+   237  03  HDT                        A              3700.0( -3303.9) 4804.0( -4392.2)                                              
+-------------------------------------------                                     
+  PERFIS: REGISTRO DE GRADIENTE DE PRESSAO                                                                                           
+-------------------------------------------                                     
+  4643.6( -4247.6)  4658.6( -4262.6)    1.51             AGUA                BOM                   APARTIR DA PRESSAO ESTATICA       
+
+
+                                            ========================================
+                                                      DICIONARIO DE CODIGOS
+                                            ========================================
+
+
+
+
+                                       DICIONARIO DE UNIDADES ESTRATIGRAFICAS
+                                       ======================================
+
+ METODO DE INTERPRETACAO                                                  CODIGOS DE QUALIDADE
+
+ PERFIL                                A                                  BOM                      B
+ LITOLOGIA                             B                                  REGULAR                  R
+ SISMICA                               C                                  QUESTIONAVEL             Q
+ PALEONTOLOGIA                         D                                  INFERIDO                 I
+ PERFIL E LITOLOGIA                    E                                  DADO NAO REVISTO         X
+ PERFIL E SISMICA                      F
+ PERFIL E PALENTOLOGIA                 G
+ PALEONTOLOGIA E LITOLOGIA             H
+ PALENTOLOGIA E SISMICA                I
+ PERFIL, LITOLOGIA E PALEONTOLOGIA     J
+ PERFIL, LITOLOGIA E SISMICA           K
+ PERFIL, LITO. PALEO. E SISMICA        L
+ DADO NAO REVISTO                      X
+ INFORMACAO NAO EXISTENTE              Z
+
+
+ DICIONARIO DE TIPO DE UNIDADE
+
+ UNIDADE LITOESTRATIGRAFICA                 L
+ DISCORDANCIAS                              D
+ UNIDADE CRONOESTRATIGRAFICA                C
+ UNIDADE CRONOESTRATIGRAFICA ESPECIAL       E
+ UNIDADE CRONO-SISMICA                      S
+ MARKER (CAMADA CHAVE)                      M
+ NANOFOSSIL                                 N
+ PALINOLOGIA/CHITINOZOA/AGRITARCA           P
+ OSTRACODAS                                 O
+ FORAMINIFERO                               F
+ ZONA ESTERIL-NAO AVALIADA                  X
+ AMBIENTES DEPOSICIONAIS                    T
+ DINOFLAGELADOS                             G
+
+
+
+
+                                       DICIONARIO DE INDICIOS DE HIDROCARBONETOS
+                                       =========================================
+
+ TIPO DE INDICIO                                                ORIGEM
+
+ INDICIO DE OLEO,                      O                        LITOLOGIA                     L
+ INDICIO DE GAS                        G                        FLUIDO DE PERFURACAO          F
+ INDICIO DE CONDENSADO                 C                        DETECTOR                      D
+ IND. DE BETUME/ASFALTO/OLEO MORTO     B                        KICK                          K
+ DADO NAO REVISTO                      X                        DADO NAO REVISTO              X
+
+
+ TIPO DE AMOSTRA                                                COR
+
+ CALHA                  C                                       BRANCO              BRC       1
+ TESTEMUNHO             T                                       CREME               CRM       2
+ LATERAL                L                                       CINZA               CNZ       3
+ SUBCESTA               S                                       AMARELO             AMR       4
+ NAO SE APLICA          N                                       VERDE               VRD       5
+ DADO NAO REVISTO       X                                       VERMELHO            VRM       6
+                                                                ROXO                ROX       7
+                                                                CASTANHO            CTN       8
+                                                                PRETO               PRT       9
+                                                                VARIEGADO           VRG       0
+
+
+ MODO DE OCORRENCIA DO INDICIO de HC                            TIPO DE FLUORESCENCIA
+
+ SATURACAO              S                                       TOTAL                         T
+ SUBSATURACAO           B                                       ESPARSA                       E
+ MANCHA                 M                                       PONTUAL                       P
+ EXSUDACAO              E                                       SEM FLUORESCENCIA             S
+ ODOR                   O                                       NAO SE APLICA                 N
+ NAO SE APLICA          N                                       INF. NAO EXISTENTE            Z
+ DADO NAO REVISTO       X 
+ INF. NAO EXISTENTE     Z
+
+
+ TONALIDADE                                                     VELOCIDADE DE DISSEMINACAO CORTE
+
+ CLARO             CRL       1                                  IMEDIATO                      I
+ ESCURO            ESC       2                                  MODERADO                      M
+ ALARANJADO        ALJ       3                                  PROVOCADO                     P
+ ESBRANQUIÇADO     ESB       4                                  SEM CORTE                     S
+ ACASTANHADO       ACT       5                                  NAO SE APLICA                 N
+ ACINZENTADO       ACZ       6                                  INFORMACAO NAO EXISTENTE      Z
+ ESVERDEADO        EVD       7
+ AVERMELHADO       AVM       8
+ AMARELADO         AMR       9
+ HIALINO           HIA       0
+
+
+ MODO DE DISSEMINACAO DO CORTE
+
+ AUREOLAR                    A
+ RADIAL                      R
+ NAO SE APLICA               N
+ INFORMACAO NAO EXISTENTE    Z

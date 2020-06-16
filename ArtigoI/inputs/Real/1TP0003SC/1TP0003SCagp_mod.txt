@@ -1,0 +1,243 @@
+ BASE    LIXO   COD  ROCHA                 COR         TONALIDADE    GRANULOMETRIA   ARREDONDAMENTO                              
+1272.0     33.0    57 FOLHELHO              CASTANHO    AVERMELHADO                                                
+1276.0     29.0    49 ARENITO               CINZA       ESBRANQUICADO FINO            ARREDONDADO                  
+1278.0     27.0    57 FOLHELHO              CASTANHO    AVERMELHADO                                                
+1280.0     25.0    49 ARENITO               CINZA       ESBRANQUICADO FINO            ARREDONDADO                  
+1283.0     22.0    57 FOLHELHO              CASTANHO    AVERMELHADO                                                
+1286.0     19.0    49 ARENITO               CINZA       ESBRANQUICADO FINO            ARREDONDADO                  
+1290.0     15.0    57 FOLHELHO              CASTANHO    AVERMELHADO                                                
+1298.0      7.0    49 ARENITO               CINZA       ESBRANQUICADO FINO            ARREDONDADO                  
+1300.0      5.0    57 FOLHELHO              CASTANHO    AVERMELHADO                                                
+1302.0      3.0    49 ARENITO               CINZA       ESBRANQUICADO FINO            ARREDONDADO                  
+1308.0     -3.0    57 FOLHELHO              CASTANHO    AVERMELHADO                                                
+1313.0     -8.0    49 ARENITO               CINZA       ESBRANQUICADO FINO            ARREDONDADO                  
+1317.0    -12.0    57 FOLHELHO              CASTANHO    AVERMELHADO                                                
+1320.0    -15.0    49 ARENITO               CINZA       ESBRANQUICADO FINO            ARREDONDADO                  
+1326.0    -21.0    57 FOLHELHO              CASTANHO    AVERMELHADO                                                
+1328.0    -23.0    49 ARENITO               CINZA       ESBRANQUICADO FINO            ARREDONDADO                  
+1331.0    -26.0    57 FOLHELHO              CASTANHO    AVERMELHADO                                                
+1335.0    -30.0    49 ARENITO               CINZA       ESBRANQUICADO FINO            ARREDONDADO                  
+1338.0    -33.0    57 FOLHELHO              CASTANHO    AVERMELHADO                                                
+1340.0    -35.0    49 ARENITO               CINZA       ESBRANQUICADO FINO            ARREDONDADO                  
+1344.0    -39.0    57 FOLHELHO              CASTANHO    AVERMELHADO                                                
+1346.0    -41.0    49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBANGULAR                   
+1349.0    -44.0    57 FOLHELHO              CASTANHO    AVERMELHADO                                                
+1351.0    -46.0    49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBANGULAR                   
+1357.0    -52.0    57 FOLHELHO              CASTANHO    AVERMELHADO                                                
+1358.0    -53.0    49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBANGULAR                   
+1363.0    -58.0    54 SILTITO               CINZA                                                                  
+1367.0    -62.0    57 FOLHELHO              CASTANHO    AVERMELHADO                                                
+1368.0    -63.0    49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBANGULAR                   
+1371.0    -66.0    57 FOLHELHO              CASTANHO    AVERMELHADO                                                
+1373.0    -68.0    49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBANGULAR                   
+1375.0    -70.0    57 FOLHELHO              CASTANHO    AVERMELHADO                                                
+1377.0    -72.0    49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBANGULAR                   
+1379.0    -74.0    57 FOLHELHO              CASTANHO    AVERMELHADO                                                
+1381.0    -76.0    49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBANGULAR                   
+1385.0    -80.0    57 FOLHELHO              CASTANHO    AVERMELHADO                                                
+1387.0    -82.0    65 DIABASIO              VERDE       ESCURO                                                     
+1395.0    -90.0    57 FOLHELHO              CASTANHO    AVERMELHADO                                                
+1403.0    -98.0    65 DIABASIO              VERDE       ESCURO                                                     
+1406.0   -101.0    49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBANGULAR                   
+1410.0   -105.0    57 FOLHELHO              CASTANHO    AVERMELHADO                                                
+1412.0   -107.0    49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBANGULAR                   
+1418.0   -113.0    57 FOLHELHO              CASTANHO    AVERMELHADO                                                
+1419.0   -114.0    49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBANGULAR                   
+1425.0   -120.0    57 FOLHELHO              CASTANHO    AVERMELHADO                                                
+1430.0   -125.0    49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBANGULAR                   
+1434.0   -129.0    57 FOLHELHO              CASTANHO    AVERMELHADO                                                
+1436.0   -131.0    49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBANGULAR                   
+1438.0   -133.0    57 FOLHELHO              CASTANHO    AVERMELHADO                                                
+1440.0   -135.0    49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBANGULAR                   
+1444.0   -139.0    57 FOLHELHO              CASTANHO    AVERMELHADO                                                
+1446.0   -141.0    49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBANGULAR                   
+1451.0   -146.0    57 FOLHELHO              CASTANHO    AVERMELHADO                                                
+1453.0   -148.0    49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBANGULAR                   
+1458.0   -153.0    57 FOLHELHO              CASTANHO    AVERMELHADO                                                
+1459.0   -154.0    49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBANGULAR                   
+1466.0   -161.0    57 FOLHELHO              CASTANHO    AVERMELHADO                                                
+1468.0   -163.0    49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBANGULAR                   
+1471.0   -166.0    57 FOLHELHO              CASTANHO    AVERMELHADO                                                
+1474.0   -169.0    49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBANGULAR                   
+1481.0   -176.0    54 SILTITO               CINZA       ESCURO                                                     
+1484.0   -179.0    49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBANGULAR                   
+1488.0   -183.0    54 SILTITO               CINZA       ESCURO                                                     
+1490.0   -185.0    49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBANGULAR                   
+1495.0   -190.0    54 SILTITO               CINZA       ESCURO                                                     
+1500.0   -195.0    49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBANGULAR                   
+1503.0   -198.0    57 FOLHELHO              CASTANHO    AVERMELHADO                                                
+1507.0   -202.0    54 SILTITO               CINZA       ESCURO                                                     
+1512.0   -207.0    57 FOLHELHO              CASTANHO    AVERMELHADO                                                
+1517.0   -212.0    49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBANGULAR                   
+1519.0   -214.0    57 FOLHELHO              CASTANHO    AVERMELHADO                                                
+1521.0   -216.0    49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBANGULAR                   
+1526.0   -221.0    57 FOLHELHO              CASTANHO    AVERMELHADO                                                
+1531.0   -226.0    49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBANGULAR                   
+1533.0   -228.0    57 FOLHELHO              CASTANHO    AVERMELHADO                                                
+1548.0   -243.0    49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBANGULAR                   
+1560.0   -255.0    54 SILTITO               CINZA       CLARO                                                      
+1655.0   -350.0    65 DIABASIO              VARIEGADO                                                              
+1671.0   -366.0    54 SILTITO               CINZA       CLARO                                                      
+1673.0   -368.0    49 ARENITO               CINZA       CLARO         MUITO FINO                                   
+1688.0   -383.0    54 SILTITO               CINZA       CLARO                                                      
+1692.0   -387.0    57 FOLHELHO              CASTANHO    AVERMELHADO                                                
+1695.0   -390.0    54 SILTITO               CINZA       CLARO                                                      
+1698.0   -393.0    49 ARENITO               CINZA       CLARO         MUITO FINO                                   
+1702.0   -397.0    54 SILTITO               CINZA       CLARO                                                      
+1705.0   -400.0    49 ARENITO               CINZA       CLARO         MUITO FINO                                   
+1711.0   -406.0    54 SILTITO               CINZA       CLARO                                                      
+1717.0   -412.0    49 ARENITO               CINZA       CLARO         MUITO FINO                                   
+1722.0   -417.0    54 SILTITO               CINZA       CLARO                                                      
+1725.0   -420.0    49 ARENITO               CINZA       CLARO         MUITO FINO                                   
+1726.0   -421.0    54 SILTITO               CINZA       CLARO                                                      
+1729.0   -424.0    49 ARENITO               CINZA       CLARO         MUITO FINO                                   
+1743.0   -438.0    54 SILTITO               CINZA       CLARO                                                      
+1751.0   -446.0    57 FOLHELHO              CINZA       ESCURO                                                     
+1760.0   -455.0    54 SILTITO               CINZA       CLARO                                                      
+1763.0   -458.0     8 CALCARENITO           CASTANHO    ACINZENTADO   GROSSEIRO                                    
+1776.0   -471.0    54 SILTITO               CINZA       CLARO                                                      
+1777.0   -472.0     8 CALCARENITO           CASTANHO    ACINZENTADO   GROSSEIRO                                    
+1785.0   -480.0    54 SILTITO               CINZA       CLARO                                                      
+1787.0   -482.0    49 ARENITO               CINZA       CLARO         MUITO FINO                                   
+1796.0   -491.0    54 SILTITO               CINZA       CLARO                                                      
+1798.0   -493.0     8 CALCARENITO           CASTANHO    ACINZENTADO   GROSSEIRO                                    
+1805.0   -500.0    54 SILTITO               CINZA       CLARO                                                      
+1807.0   -502.0    49 ARENITO               CINZA       CLARO         MUITO FINO                                   
+1810.0   -505.0    54 SILTITO               CINZA       CLARO                                                      
+1816.0   -511.0    57 FOLHELHO              CINZA       ESCURO                                                     
+1821.0   -516.0    54 SILTITO               CINZA       CLARO                                                      
+1824.0   -519.0    49 ARENITO               CINZA       CLARO         MUITO FINO                                   
+1846.0   -541.0    54 SILTITO               CINZA       CLARO                                                      
+1848.0   -543.0    49 ARENITO               CINZA       CLARO         MUITO FINO                                   
+1870.0   -565.0    54 SILTITO               CINZA       CLARO                                                      
+1875.0   -570.0    49 ARENITO               CINZA       CLARO         MUITO FINO                                   
+1879.0   -574.0    54 SILTITO               CINZA       CLARO                                                      
+1887.0   -582.0    49 ARENITO               CINZA       CLARO         MUITO FINO                                   
+1903.0   -598.0    54 SILTITO               CINZA       CLARO                                                      
+1905.0   -600.0    49 ARENITO               CINZA       CLARO         MUITO FINO                                   
+1907.0   -602.0    54 SILTITO               CINZA       CLARO                                                      
+1915.0   -610.0    49 ARENITO               CINZA       CLARO         MUITO FINO                                   
+1923.0   -618.0    54 SILTITO               CINZA       CLARO                                                      
+1925.0   -620.0    49 ARENITO               CINZA       CLARO         MUITO FINO                                   
+1926.0   -621.0    54 SILTITO               CINZA       CLARO                                                      
+1928.0   -623.0    49 ARENITO               CINZA       CLARO         MUITO FINO                                   
+1930.0   -625.0    54 SILTITO               CINZA       CLARO                                                      
+1934.0   -629.0    49 ARENITO               CINZA       CLARO         MUITO FINO                                   
+1945.0   -640.0    54 SILTITO               CINZA       CLARO                                                      
+2055.0   -750.0    57 FOLHELHO              CINZA       ESCURO                                                     
+2062.0   -757.0    65 DIABASIO              VARIEGADO                                                              
+2065.0   -760.0    57 FOLHELHO              CINZA       ESCURO                                                     
+2070.0   -765.0    65 DIABASIO              VARIEGADO                                                              
+2083.0   -778.0    57 FOLHELHO              CINZA       ESCURO                                                     
+2085.0   -780.0    54 SILTITO               CINZA       CLARO                                                      
+2086.0   -781.0    65 DIABASIO              VARIEGADO                                                              
+2090.0   -785.0    54 SILTITO               CINZA       CLARO                                                      
+2097.0   -792.0    57 FOLHELHO              CINZA       ESCURO                                                     
+2100.0   -795.0    54 SILTITO               CINZA       CLARO                                                      
+2104.0   -799.0    65 DIABASIO              VARIEGADO                                                              
+2111.0   -806.0    54 SILTITO               CINZA       CLARO                                                      
+2180.0   -875.0    57 FOLHELHO              CINZA       ESCURO                                                     
+2189.0   -884.0    54 SILTITO               CINZA       CLARO                                                      
+2193.0   -888.0    57 FOLHELHO              CINZA       ESCURO                                                     
+2197.0   -892.0    54 SILTITO               CINZA       CLARO                                                      
+2200.0   -895.0    57 FOLHELHO              CINZA       ESCURO                                                     
+2202.0   -897.0    54 SILTITO               CINZA       CLARO                                                      
+2223.0   -918.0    57 FOLHELHO              CINZA       ESCURO                                                     
+2227.0   -922.0    49 ARENITO               CINZA       CLARO         MUITO FINO                                   
+2229.0   -924.0    54 SILTITO               CINZA       CLARO                                                      
+2238.0   -933.0    49 ARENITO               CINZA       CLARO         MUITO FINO                                   
+2242.0   -937.0    54 SILTITO               CINZA       CLARO                                                      
+2246.0   -941.0    49 ARENITO               CINZA       CLARO         MUITO FINO                                   
+2250.0   -945.0    57 FOLHELHO              CINZA       ESCURO                                                     
+2253.0   -948.0    54 SILTITO               CINZA       CLARO                                                      
+2255.0   -950.0    49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+2257.0   -952.0    57 FOLHELHO              CINZA       ESCURO                                                     
+2272.0   -967.0    54 SILTITO               CINZA       CLARO                                                      
+2275.0   -970.0    57 FOLHELHO              CINZA       ESCURO                                                     
+2277.0   -972.0    54 SILTITO               CINZA       CLARO                                                      
+2281.0   -976.0    49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+2286.0   -981.0    54 SILTITO               CINZA       CLARO                                                      
+2293.0   -988.0    49 ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+2302.0   -997.0    57 FOLHELHO              CINZA       ESCURO                                                     
+2305.0  -1000.0    49 ARENITO               CINZA       CLARO         MUITO FINO                                   
+2309.0  -1004.0    57 FOLHELHO              CINZA       ESCURO                                                     
+2311.0  -1006.0    49 ARENITO               CINZA       CLARO         MUITO FINO                                   
+2314.0  -1009.0    57 FOLHELHO              CINZA       ESCURO                                                     
+2318.0  -1013.0    49 ARENITO               CINZA       CLARO         MUITO FINO                                   
+2320.0  -1015.0    57 FOLHELHO              CINZA       ESCURO                                                     
+2322.0  -1017.0    49 ARENITO               CINZA       CLARO         MUITO FINO                                   
+2328.0  -1023.0    57 FOLHELHO              CINZA       ESCURO                                                     
+2338.0  -1033.0    49 ARENITO               CINZA       CLARO         MUITO FINO                                   
+2340.0  -1035.0    57 FOLHELHO              CINZA       ESCURO                                                     
+2343.0  -1038.0    49 ARENITO               CINZA       CLARO         MUITO FINO                                   
+2345.0  -1040.0    57 FOLHELHO              CINZA       ESCURO                                                     
+2356.0  -1051.0    49 ARENITO               CINZA       CLARO         MUITO FINO                                   
+2363.0  -1058.0    57 FOLHELHO              CINZA       ESCURO                                                     
+2371.0  -1066.0    44 DIAMICTITO            CASTANHO    AVERMELHADO                                                
+2375.0  -1070.0    57 FOLHELHO              CINZA       ESCURO                                                     
+2377.0  -1072.0    49 ARENITO               CINZA       CLARO         MUITO FINO                                   
+2379.0  -1074.0    57 FOLHELHO              CINZA       ESCURO                                                     
+2382.0  -1077.0    49 ARENITO               CINZA       CLARO         MUITO FINO                                   
+2387.0  -1082.0    57 FOLHELHO              CINZA       ESCURO                                                     
+2400.0  -1095.0    44 DIAMICTITO            CASTANHO    AVERMELHADO                                                
+2402.0  -1097.0    65 DIABASIO              VARIEGADO                                                              
+2412.0  -1107.0    57 FOLHELHO              CINZA       ESCURO                                                     
+2414.0  -1109.0    49 ARENITO               CINZA       CLARO         MUITO FINO      SUBANGULAR                   
+2416.0  -1111.0    57 FOLHELHO              CINZA       ESCURO                                                     
+2435.0  -1130.0    49 ARENITO               CINZA       CLARO         MUITO FINO      SUBANGULAR                   
+2482.0  -1177.0    65 DIABASIO              VARIEGADO                                                              
+2485.0  -1180.0    49 ARENITO               CINZA       CLARO         MUITO FINO      SUBANGULAR                   
+2490.0  -1185.0    57 FOLHELHO              CINZA       ESCURO                                                     
+2493.0  -1188.0    49 ARENITO               CINZA       CLARO         MUITO FINO      SUBANGULAR                   
+2572.0  -1267.0    44 DIAMICTITO            CASTANHO    AVERMELHADO                                                
+2574.0  -1269.0    49 ARENITO               CINZA       CLARO         MUITO FINO      SUBANGULAR                   
+2576.0  -1271.0    57 FOLHELHO              CINZA       ESCURO                                                     
+2577.0  -1272.0    49 ARENITO               CINZA       CLARO         MUITO FINO      SUBANGULAR                   
+2580.0  -1275.0    57 FOLHELHO              CINZA       ESCURO                                                     
+2600.0  -1295.0    44 DIAMICTITO            CASTANHO    AVERMELHADO                                                
+2610.0  -1305.0    65 DIABASIO              VARIEGADO                                                              
+2620.0  -1315.0    44 DIAMICTITO            CASTANHO    AVERMELHADO                                                
+2630.0  -1325.0    57 FOLHELHO              CINZA       ESCURO                                                     
+2646.0  -1341.0    44 DIAMICTITO            CASTANHO    AVERMELHADO                                                
+2650.0  -1345.0    57 FOLHELHO              CINZA       ESCURO                                                     
+2672.0  -1367.0    44 DIAMICTITO            CASTANHO    AVERMELHADO                                                
+2675.0  -1370.0    57 FOLHELHO              CINZA       ESCURO                                                     
+2680.0  -1375.0    44 DIAMICTITO            CASTANHO    AVERMELHADO                                                
+2687.0  -1382.0    57 FOLHELHO              CINZA       ESCURO                                                     
+2711.0  -1406.0    49 ARENITO               CINZA       CLARO         MUITO FINO      SUBANGULAR                   
+2716.0  -1411.0    54 SILTITO               CINZA       ESCURO                                                     
+2751.0  -1446.0    49 ARENITO               CINZA       CLARO         MUITO FINO      SUBANGULAR                   
+2755.0  -1450.0    54 SILTITO               CINZA       ESCURO                                                     
+2840.0  -1535.0    49 ARENITO               CINZA       CLARO         MUITO FINO      SUBANGULAR                   
+2878.0  -1573.0    44 DIAMICTITO            CASTANHO    AVERMELHADO                                                
+2881.0  -1576.0    57 FOLHELHO              CINZA       ESCURO                                                     
+2887.0  -1582.0    44 DIAMICTITO            CASTANHO    AVERMELHADO                                                
+2892.0  -1587.0    57 FOLHELHO              CINZA       ESCURO                                                     
+2901.0  -1596.0    44 DIAMICTITO            CASTANHO    AVERMELHADO                                                
+2903.0  -1598.0    57 FOLHELHO              CINZA       ESCURO                                                     
+2907.0  -1602.0    44 DIAMICTITO            CASTANHO    AVERMELHADO                                                
+2913.0  -1608.0    57 FOLHELHO              CINZA       ESCURO                                                     
+2947.0  -1642.0    49 ARENITO               CINZA       CLARO         MUITO FINO      SUBANGULAR                   
+2948.0  -1643.0    57 FOLHELHO              CINZA       ESCURO                                                     
+2950.0  -1645.0    49 ARENITO               CINZA       CLARO         MUITO FINO      SUBANGULAR                   
+2952.0  -1647.0    57 FOLHELHO              CINZA       ESCURO                                                     
+2955.0  -1650.0    49 ARENITO               CINZA       CLARO         MUITO FINO      SUBANGULAR                   
+2957.0  -1652.0    57 FOLHELHO              CINZA       ESCURO                                                     
+2977.0  -1672.0    49 ARENITO               CINZA       CLARO         MUITO FINO      SUBANGULAR                   
+2980.0  -1675.0    57 FOLHELHO              CINZA       ESCURO                                                     
+3040.0  -1735.0    49 ARENITO               CINZA       CLARO         MUITO FINO      SUBANGULAR                   
+3042.0  -1737.0    57 FOLHELHO              CINZA       ESCURO                                                     
+3045.0  -1740.0    49 ARENITO               CINZA       CLARO         MUITO FINO      SUBANGULAR                   
+3047.0  -1742.0    57 FOLHELHO              CINZA       ESCURO                                                     
+3058.0  -1753.0    49 ARENITO               CINZA       CLARO         MUITO FINO      SUBANGULAR                   
+3060.0  -1755.0    57 FOLHELHO              CINZA       ESCURO                                                     
+3078.0  -1773.0    49 ARENITO               CINZA       CLARO         MUITO FINO      SUBANGULAR                   
+3080.0  -1775.0    57 FOLHELHO              CINZA       ESCURO                                                     
+3082.0  -1777.0    49 ARENITO               CINZA       CLARO         MUITO FINO      SUBANGULAR                   
+3084.0  -1779.0    57 FOLHELHO              CINZA       ESCURO                                                     
+3170.0  -1865.0    49 ARENITO               CINZA       CLARO         MUITO FINO      SUBANGULAR                   
+3194.0  -1889.0    42 CONGLOMERADO                      ESBRANQUICADO                                              
+3197.0  -1892.0    57 FOLHELHO              CINZA       ESCURO                                                     
+3202.0  -1897.0    42 CONGLOMERADO                      ESBRANQUICADO                                              
+3209.0  -1904.0    49 ARENITO               CINZA       CLARO         MUITO FINO      SUBANGULAR                   
+3242.0  -1937.0    70 METAMOR.NAO IDE.                  AVERMELHADO                                                
