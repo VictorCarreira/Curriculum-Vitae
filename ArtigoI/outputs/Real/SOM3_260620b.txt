@@ -1,0 +1,5 @@
+         NaN           NaN   4.2969E-001           NaN   7.1041E-001
+         NaN   7.0361E-001           NaN   1.5677E+000           NaN
+-1.8640E+000           NaN   4.6797E-001           NaN           NaN
+         NaN           NaN           NaN           NaN   1.2580E+000
+         NaN   2.3061E+000           NaN  -1.1910E-001           NaN

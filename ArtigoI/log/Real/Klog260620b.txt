@@ -1,0 +1,12 @@
+    
+ SOM parametros:
+ n dados de treinamento=       14759
+ n dados de classificacao=        2623
+ Epocas=       10000
+ Tx. de aprendizado  0.79992000799933294     
+ Rede(n neuronios)=          25
+ Ociosidade(n neuronios)=   16.000000000000000     
+ Erros totais=        1080      41.174227983225315      %
+ tempo de máquina=   282.88380400000000      segundos
+ Banco de dados:1RHC0001SC
+ Dado de classificacao1TP0003SC - Non collapsed

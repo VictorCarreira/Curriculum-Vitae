@@ -1,0 +1,5 @@
+ 1TP0003SC
+ ACERTOS(MLE)=          22
+ ERROS(MLE)=        2601
+ ACERTOS(MLM)=         290
+ ERROS(MLM)=        2333

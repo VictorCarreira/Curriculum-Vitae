@@ -1,0 +1,12 @@
+"Well Site" Diameter(pol) Rate(+/-)
+1API0001PR 9 2
+    
+ SOM parameters:
+ n dados de treinamento=       11979
+ n dados de classificacao=        2682
+ Epocas=       10000
+ Tx. de aprendizado   2.2725000227253778E-008
+ Rede(n neuronios)=          25
+ Ociosidade(n neuronios)=   0.0000000000000000     
+ Erros totais=         827      30.835197613721103      %
+ tempo de máquina=   253.49238900000000      segundos

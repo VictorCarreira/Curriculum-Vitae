@@ -1,0 +1,570 @@
+BASE     COD  ROCHA                 COR         TONALIDADE    GRANULOMETRIA   ARREDONDAMENTO               
+33.0     49   ARENITO               CINZA       CLARO         MUITO GROSSEIRO SUBANGULAR                   
+1378.0   66   BASALTO               VARIEGADO                                                              
+1601.0   49   ARENITO                           ESBRANQUICADO MEDIO           SUBARREDONDADO               
+1603.0   57   FOLHELHO              VARIEGADO                                                              
+1634.0   49   ARENITO               CASTANHO    AVERMELHADO   MUITO FINO                                   
+1637.0   57   FOLHELHO              VARIEGADO                                                              
+1675.0   49   ARENITO               CASTANHO    AVERMELHADO   MUITO FINO                                   
+1680.0   54   SILTITO               CASTANHO    AVERMELHADO                                                
+1691.0   49   ARENITO               CASTANHO    AVERMELHADO   MUITO FINO                                   
+1694.0   54   SILTITO               CASTANHO    AVERMELHADO                                                
+1754.0   49   ARENITO               CASTANHO    AVERMELHADO   MUITO FINO                                   
+1762.0   54   SILTITO               CASTANHO    AVERMELHADO                                                
+1774.0   49   ARENITO               CASTANHO    AVERMELHADO   MUITO FINO                                   
+1779.0   54   SILTITO               CASTANHO    AVERMELHADO                                                
+1786.0   49   ARENITO               CASTANHO    AVERMELHADO   MUITO FINO                                   
+1788.0   54   SILTITO               CASTANHO    AVERMELHADO                                                
+1791.0   49   ARENITO               CINZA       ACASTANHADO                   SUBARREDONDADO               
+1794.0   54   SILTITO               CASTANHO    AVERMELHADO                                                
+1822.0   49   ARENITO               CASTANHO    AVERMELHADO   FINO            SUBARREDONDADO               
+1826.0   54   SILTITO               CINZA       ESVERDEADO                                                 
+1837.0   49   ARENITO               CASTANHO    AVERMELHADO   FINO            SUBARREDONDADO               
+1840.0   54   SILTITO               CASTANHO    AVERMELHADO                                                
+1866.0   49   ARENITO               CASTANHO    AVERMELHADO   FINO            SUBARREDONDADO               
+1869.0   54   SILTITO               CASTANHO    AVERMELHADO                                                
+1872.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+1875.0   54   SILTITO               CASTANHO    AVERMELHADO                                                
+1914.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+1924.0   54   SILTITO               CASTANHO    AVERMELHADO                                                
+1936.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+1939.0   54   SILTITO               CASTANHO    AVERMELHADO                                                
+1949.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+1952.0   54   SILTITO               CASTANHO    AVERMELHADO                                                
+1957.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+1963.0   54   SILTITO               VERDE       CLARO                                                      
+1970.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+1977.0   54   SILTITO               CASTANHO    AVERMELHADO                                                
+1995.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+2001.0   54   SILTITO               CASTANHO    AVERMELHADO                                                
+2004.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+2006.0   54   SILTITO               CASTANHO    AVERMELHADO                                                
+2010.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+2013.0   54   SILTITO               CASTANHO    AVERMELHADO                                                
+2017.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+2019.0   54   SILTITO               CASTANHO    AVERMELHADO                                                
+2023.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+2025.0   54   SILTITO               CASTANHO    AVERMELHADO                                                
+2036.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+2040.0   54   SILTITO               CASTANHO    AVERMELHADO                                                
+2044.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+2050.0   54   SILTITO               CASTANHO    AVERMELHADO                                                
+2053.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+2056.0   54   SILTITO               CASTANHO    AVERMELHADO                                                
+2058.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+2064.0   54   SILTITO               CASTANHO    AVERMELHADO                                                
+2068.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+2072.0   54   SILTITO               CASTANHO    AVERMELHADO                                                
+2074.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+2076.0   54   SILTITO               CASTANHO    AVERMELHADO                                                
+2079.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+2081.0   54   SILTITO               CASTANHO    AVERMELHADO                                                
+2084.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+2086.0   54   SILTITO               CASTANHO    AVERMELHADO                                                
+2090.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+2092.0   54   SILTITO               CASTANHO    AVERMELHADO                                                
+2094.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+2098.0   54   SILTITO               CASTANHO    AVERMELHADO                                                
+2105.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+2107.0   54   SILTITO               CASTANHO    AVERMELHADO                                                
+2110.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+2113.0   54   SILTITO               CASTANHO    AVERMELHADO                                                
+2120.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+2124.0   54   SILTITO               CASTANHO    AVERMELHADO                                                
+2129.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+2131.0   54   SILTITO               CASTANHO    AVERMELHADO                                                
+2136.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+2140.0   54   SILTITO               CASTANHO    AVERMELHADO                                                
+2183.0   65   DIABASIO              CINZA       ESVERDEADO                                                 
+2186.0   54   SILTITO               CASTANHO    AVERMELHADO                                                
+2193.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+2203.0   54   SILTITO               CASTANHO    AVERMELHADO                                                
+2212.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+2216.0   54   SILTITO               CASTANHO    ESCURO                                                     
+2220.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+2226.0   54   SILTITO               CASTANHO    ESCURO                                                     
+2228.0   49   ARENITO               CINZA       ESVERDEADO    FINO            SUBARREDONDADO               
+2231.0   54   SILTITO               CINZA       ESVERDEADO                                                 
+2235.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+2241.0   54   SILTITO               CINZA       ESVERDEADO                                                 
+2247.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+2250.0   54   SILTITO               CINZA       ESVERDEADO                                                 
+2260.0   49   ARENITO               CINZA       ESVERDEADO    FINO            SUBARREDONDADO               
+2266.0   54   SILTITO               CINZA       ESVERDEADO                                                 
+2268.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+2272.0   54   SILTITO               CINZA       ESVERDEADO                                                 
+2274.0   49   ARENITO               CINZA       ESVERDEADO    FINO            SUBARREDONDADO               
+2278.0   54   SILTITO               CINZA       ESBRANQUICADO                                              
+2281.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+2283.0   54   SILTITO               CINZA       ESBRANQUICADO                                              
+2287.0   49   ARENITO               CINZA       ESVERDEADO    FINO            SUBARREDONDADO               
+2289.0   54   SILTITO               CINZA       ESVERDEADO                                                 
+2291.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+2293.0   54   SILTITO               CINZA       ESBRANQUICADO                                              
+2295.0   49   ARENITO               CINZA       ESVERDEADO    FINO            SUBARREDONDADO               
+2297.0   54   SILTITO               CINZA       ESVERDEADO                                                 
+2301.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+2303.0   54   SILTITO               CINZA       ESBRANQUICADO                                              
+2306.0   49   ARENITO               CINZA       ESVERDEADO    FINO            SUBARREDONDADO               
+2308.0    6   CALCILUTITO           CINZA       ACASTANHADO                                                
+2312.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+2315.0    8   CALCARENITO           CREME       ACASTANHADO   MUITO FINO                                   
+2317.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+2319.0   54   SILTITO               CINZA       CLARO                                                      
+2321.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+2323.0   54   SILTITO               CINZA       CLARO                                                      
+2327.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+2332.0   54   SILTITO               CINZA       CLARO                                                      
+2334.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+2336.0   54   SILTITO               CINZA       CLARO                                                      
+2338.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+2340.0   54   SILTITO               CINZA       CLARO                                                      
+2342.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+2344.0   54   SILTITO               CINZA       CLARO                                                      
+2347.0    8   CALCARENITO           CREME       ACASTANHADO   MUITO FINO                                   
+2349.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+2351.0   54   SILTITO               CINZA       CLARO                                                      
+2354.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+2356.0   54   SILTITO               CINZA       CLARO                                                      
+2359.0   65   DIABASIO              CINZA       ESVERDEADO                                                 
+2365.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+2368.0   54   SILTITO               CINZA       CLARO                                                      
+2370.0    8   CALCARENITO           CREME       ACASTANHADO   MUITO FINO                                   
+2373.0   54   SILTITO               CINZA       CLARO                                                      
+2378.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+2382.0   54   SILTITO               CINZA       CLARO                                                      
+2385.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+2390.0   54   SILTITO               CINZA       CLARO                                                      
+2392.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+2395.0    8   CALCARENITO           CREME       ACASTANHADO   MUITO FINO                                   
+2398.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+2404.0   54   SILTITO               CINZA       CLARO                                                      
+2406.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+2408.0    8   CALCARENITO           CREME       ACASTANHADO   MUITO FINO                                   
+2410.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+2412.0    8   CALCARENITO           CREME       ACASTANHADO   MUITO FINO                                   
+2414.0   54   SILTITO               CINZA       CLARO                                                      
+2417.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+2419.0   54   SILTITO               CINZA       CLARO                                                      
+2423.0    8   CALCARENITO           CREME       ACASTANHADO   MUITO FINO                                   
+2426.0   54   SILTITO               CINZA       CLARO                                                      
+2428.0    8   CALCARENITO           CREME       ACASTANHADO   MUITO FINO                                   
+2434.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+2436.0   54   SILTITO               CINZA       CLARO                                                      
+2438.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+2442.0   54   SILTITO               CINZA       CLARO                                                      
+2445.0    8   CALCARENITO           CREME       ACASTANHADO   MUITO FINO                                   
+2448.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+2451.0   54   SILTITO               CINZA       CLARO                                                      
+2454.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+2459.0    8   CALCARENITO           CREME       ACASTANHADO   MUITO FINO                                   
+2462.0   54   SILTITO               CINZA       CLARO                                                      
+2465.0    8   CALCARENITO           CREME       ACASTANHADO   MUITO FINO                                   
+2467.0   54   SILTITO               CINZA       ESCURO                                                     
+2471.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+2475.0   54   SILTITO               CINZA       ESCURO                                                     
+2478.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+2480.0   54   SILTITO               CINZA       ESCURO                                                     
+2482.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+2492.0   54   SILTITO               CINZA       ESCURO                                                     
+2496.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+2498.0    8   CALCARENITO           CREME       ACASTANHADO   MUITO FINO                                   
+2502.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+2504.0   54   SILTITO               CINZA       ESCURO                                                     
+2507.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+2510.0   54   SILTITO               CINZA       ESCURO                                                     
+2515.0    8   CALCARENITO           CREME       ACASTANHADO   MUITO FINO                                   
+2519.0   54   SILTITO               CINZA       ESCURO                                                     
+2522.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+2525.0   54   SILTITO               CINZA       ESCURO                                                     
+2528.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+2533.0   54   SILTITO               CINZA       ESCURO                                                     
+2637.0   65   DIABASIO              VARIEGADO                                                              
+2640.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+2642.0   54   SILTITO               CINZA       ACASTANHADO                                                
+2647.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+2649.0   54   SILTITO               CINZA       ACASTANHADO                                                
+2652.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+2656.0   54   SILTITO               CINZA       ACASTANHADO                                                
+2660.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+2662.0   54   SILTITO               CINZA       ACASTANHADO                                                
+2664.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+2666.0   54   SILTITO               CINZA       ACASTANHADO                                                
+2668.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+2670.0   54   SILTITO               CINZA       ACASTANHADO                                                
+2672.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+2674.0   54   SILTITO               CINZA       ACASTANHADO                                                
+2676.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+2678.0   54   SILTITO               CINZA       ACASTANHADO                                                
+2681.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+2684.0   54   SILTITO               CINZA       ACASTANHADO                                                
+2686.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+2688.0   54   SILTITO               CINZA       ACASTANHADO                                                
+2690.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+2692.0   54   SILTITO               CINZA       ACASTANHADO                                                
+2694.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+2696.0   54   SILTITO               CINZA       ACASTANHADO                                                
+2702.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+2704.0   54   SILTITO               CINZA       ACASTANHADO                                                
+2706.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+2708.0   54   SILTITO               CINZA       ACASTANHADO                                                
+2710.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+2716.0   54   SILTITO               CINZA       ACASTANHADO                                                
+2721.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+2730.0   54   SILTITO               CINZA       ACASTANHADO                                                
+2732.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+2734.0   54   SILTITO               CINZA       ACASTANHADO                                                
+2738.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+2743.0   54   SILTITO               CINZA       ACASTANHADO                                                
+2745.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+2758.0   54   SILTITO               CINZA       ACASTANHADO                                                
+2764.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+2774.0   54   SILTITO               CINZA       ACASTANHADO                                                
+2935.0   65   DIABASIO              VARIEGADO                                                              
+2938.0   54   SILTITO               CINZA       ESVERDEADO                                                 
+2943.0   49   ARENITO               CREME       ESBRANQUICADO MUITO FINO                                   
+2946.0   54   SILTITO               CINZA       ESVERDEADO                                                 
+2950.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+2953.0   54   SILTITO               CINZA       ESVERDEADO                                                 
+2955.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+2958.0   54   SILTITO               CINZA       CLARO                                                      
+2962.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+2964.0   54   SILTITO               CINZA       CLARO                                                      
+2966.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+2968.0   54   SILTITO               CINZA       ESVERDEADO                                                 
+2986.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+2995.0   54   SILTITO               CINZA       ESVERDEADO                                                 
+3005.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+3007.0   54   SILTITO               CINZA       CLARO                                                      
+3009.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+3011.0   54   SILTITO               CINZA       ESVERDEADO                                                 
+3021.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+3028.0   65   DIABASIO              CINZA       ESCURO                                                     
+3032.0   54   SILTITO               CINZA       ESCURO                                                     
+3037.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+3042.0   54   SILTITO               CINZA       ESCURO                                                     
+3045.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+3053.0   54   SILTITO               CINZA       ESCURO                                                     
+3057.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+3060.0   54   SILTITO               CINZA       CLARO                                                      
+3062.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+3067.0   54   SILTITO               CINZA       ESCURO                                                     
+3069.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+3071.0   54   SILTITO               CINZA       ESCURO                                                     
+3073.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+3077.0   54   SILTITO               CINZA       ESCURO                                                     
+3079.0   49   ARENITO               CINZA       CLARO         MUITO FINO                                   
+3083.0   54   SILTITO               CINZA       CLARO                                                      
+3085.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+3087.0   54   SILTITO               CINZA       ESCURO                                                     
+3089.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+3095.0   54   SILTITO               CINZA       ESCURO                                                     
+3103.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+3113.0   54   SILTITO               CINZA       ESCURO                                                     
+3121.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+3124.0   54   SILTITO               CINZA       ESCURO                                                     
+3131.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+3133.0   54   SILTITO               CINZA       ESCURO                                                     
+3135.0   49   ARENITO               CINZA       CLARO         MUITO FINO                                   
+3137.0   54   SILTITO               CINZA       ESCURO                                                     
+3139.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+3141.0   54   SILTITO               CINZA       ESCURO                                                     
+3145.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+3150.0   54   SILTITO               CINZA       CLARO                                                      
+3159.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+3167.0   54   SILTITO               CINZA       CLARO                                                      
+3171.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+3222.0   54   SILTITO               CINZA       ESCURO                                                     
+3321.0   65   DIABASIO              VARIEGADO                                                              
+3326.0   49   ARENITO               CREME       ACASTANHADO   MUITO FINO                                   
+3329.0   65   DIABASIO              CINZA       ESVERDEADO                                                 
+3334.0   49   ARENITO               CREME       ACASTANHADO   MUITO FINO                                   
+3338.0   57   FOLHELHO              PRETO                                                                  
+3340.0   49   ARENITO               CREME       ACASTANHADO   MUITO FINO                                   
+3344.0   57   FOLHELHO              PRETO                                                                  
+3411.0   65   DIABASIO              CINZA       ESVERDEADO                                                 
+3413.0   49   ARENITO               CASTANHO    CLARO         MUITO FINO                                   
+3416.0   54   SILTITO               CINZA       ESCURO                                                     
+3421.0    6   CALCILUTITO           CREME       ESBRANQUICADO                                              
+3428.0   54   SILTITO               CASTANHO    CLARO                                                      
+3433.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+3435.0   54   SILTITO               CASTANHO    CLARO                                                      
+3446.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+3448.0   54   SILTITO               CASTANHO    CLARO                                                      
+3450.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+3452.0   54   SILTITO               CASTANHO    CLARO                                                      
+3456.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+3461.0   54   SILTITO               CASTANHO    CLARO                                                      
+3466.0   49   ARENITO               CINZA       ESVERDEADO    MUITO FINO                                   
+3468.0   54   SILTITO               CASTANHO    CLARO                                                      
+3485.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+3487.0   54   SILTITO               CASTANHO    CLARO                                                      
+3602.0   65   DIABASIO              VARIEGADO                                                              
+3614.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+3628.0   54   SILTITO               CINZA       ESCURO                                                     
+3630.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+3633.0   54   SILTITO               CINZA       ESCURO                                                     
+3639.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+3641.0   54   SILTITO               CINZA       ESCURO                                                     
+3644.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+3646.0   57   FOLHELHO              CINZA       ESCURO                                                     
+3659.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+3664.0   57   FOLHELHO              CINZA       ESCURO                                                     
+3673.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+3676.0   54   SILTITO               CINZA       ESCURO                                                     
+3678.0   49   ARENITO               CINZA       ESVERDEADO    FINO            SUBARREDONDADO               
+3680.0   54   SILTITO               CINZA       ESCURO                                                     
+3683.0   49   ARENITO               CINZA                     FINO            SUBARREDONDADO               
+3685.0   54   SILTITO               CINZA       ESCURO                                                     
+3692.0   49   ARENITO               CINZA       ACASTANHADO   FINO            SUBARREDONDADO               
+3695.0   54   SILTITO               CINZA       ESBRANQUICADO                                              
+3700.0   49   ARENITO               CINZA                     MUITO FINO                                   
+3705.0   57   FOLHELHO              CINZA       ESCURO                                                     
+3708.0   49   ARENITO               CINZA       ESCURO        FINO            SUBARREDONDADO               
+3711.0   57   FOLHELHO              CINZA       ESCURO                                                     
+3713.0   49   ARENITO               CINZA       CLARO         FINO            SUBARREDONDADO               
+3715.0   54   SILTITO               CREME       ACASTANHADO                                                
+3720.0   49   ARENITO               CINZA       ESCURO        FINO            SUBARREDONDADO               
+3723.0   54   SILTITO               CINZA       CLARO                                                      
+3725.0   49   ARENITO               CINZA                     FINO            SUBARREDONDADO               
+3732.0   54   SILTITO               CINZA       ESCURO                                                     
+3734.0   49   ARENITO               CINZA                     FINO            SUBARREDONDADO               
+3737.0   54   SILTITO               CINZA       ESCURO                                                     
+3740.0   57   FOLHELHO              CINZA       ESCURO                                                     
+3745.0   49   ARENITO               CINZA       CLARO         MUITO FINO                                   
+3751.0   57   FOLHELHO              CINZA       ESCURO                                                     
+3753.0   49   ARENITO               CINZA       CLARO         MUITO FINO                                   
+3756.0   54   SILTITO               CINZA       ESCURO                                                     
+3758.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+3761.0   54   SILTITO               CINZA       ESCURO                                                     
+3763.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+3767.0   54   SILTITO               CINZA       ESCURO                                                     
+3770.0   57   FOLHELHO              PRETO                                                                  
+3772.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+3777.0   57   FOLHELHO              CINZA       ESCURO                                                     
+3782.0   49   ARENITO               CINZA       CLARO         MUITO FINO                                   
+3787.0   54   SILTITO               CINZA       ESCURO                                                     
+3789.0   49   ARENITO               CINZA       CLARO         MUITO FINO                                   
+3791.0   54   SILTITO               CINZA       ESCURO                                                     
+3793.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+3797.0   54   SILTITO               CINZA       ESCURO                                                     
+3799.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+3814.0   57   FOLHELHO              CINZA       ESCURO                                                     
+3819.0   49   ARENITO               CINZA       ESVERDEADO    MUITO FINO                                   
+3830.0   54   SILTITO               CREME       ACASTANHADO                                                
+3836.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+3838.0   54   SILTITO               CASTANHO    AVERMELHADO                                                
+3839.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+3841.0   54   SILTITO               CASTANHO    AVERMELHADO                                                
+3843.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+3845.0   54   SILTITO               CASTANHO    AVERMELHADO                                                
+3847.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+3849.0   54   SILTITO               CASTANHO    AVERMELHADO                                                
+3853.0   49   ARENITO               CASTANHO    AVERMELHADO   MUITO FINO                                   
+3867.0   54   SILTITO               CASTANHO    AVERMELHADO                                                
+3869.0   49   ARENITO                           ESBRANQUICADO MEDIO           SUBARREDONDADO               
+3871.0   54   SILTITO               CASTANHO    AVERMELHADO                                                
+3905.0   49   ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBARREDONDADO               
+3910.0   54   SILTITO               CINZA       ACASTANHADO                                                
+3912.0    6   CALCILUTITO           CASTANHO    CLARO         MUITO FINO                                   
+3914.0   49   ARENITO                           ESBRANQUICADO MEDIO           SUBARREDONDADO               
+3916.0   54   SILTITO               CINZA       ACASTANHADO                                                
+3919.0    6   CALCILUTITO           CASTANHO    CLARO         MUITO FINO                                   
+3921.0   54   SILTITO               CINZA       ACASTANHADO                                                
+3929.0   49   ARENITO                           ESBRANQUICADO MEDIO           SUBARREDONDADO               
+3931.0   54   SILTITO               CINZA       ACASTANHADO                                                
+3933.0   49   ARENITO               CINZA       ESVERDEADO    MUITO FINO                                   
+3936.0   54   SILTITO               CASTANHO    AVERMELHADO                                                
+3938.0   49   ARENITO               CINZA       ESVERDEADO    MUITO FINO                                   
+3942.0   54   SILTITO               CASTANHO    CLARO                                                      
+3944.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+3946.0   57   FOLHELHO              CINZA       ESCURO                                                     
+3948.0   49   ARENITO               CREME       ESBRANQUICADO FINO            SUBARREDONDADO               
+3950.0   57   FOLHELHO              CINZA       ESCURO                                                     
+3954.0   49   ARENITO               CASTANHO    CLARO         FINO            SUBARREDONDADO               
+3956.0   57   FOLHELHO              CINZA       ESCURO                                                     
+3966.0   49   ARENITO               CINZA       CLARO         MUITO FINO                                   
+3969.0   57   FOLHELHO              CINZA       ESCURO                                                     
+3975.0   54   SILTITO               CINZA       ESCURO                                                     
+3977.0   57   FOLHELHO              CINZA       ESCURO                                                     
+3983.0   49   ARENITO                           HIALINO       CONGLOMERATICO  SUBANGULAR                   
+3986.0   57   FOLHELHO              CINZA       ESCURO                                                     
+3990.0   49   ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBARREDONDADO               
+3992.0   57   FOLHELHO              CINZA       ESCURO                                                     
+4002.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+4007.0   57   FOLHELHO              CINZA       ESCURO                                                     
+4018.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+4028.0   65   DIABASIO              CINZA       ESCURO                                                     
+4032.0   57   FOLHELHO              CINZA                                                                  
+4035.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+4059.0   57   FOLHELHO              CINZA       ESCURO                                                     
+4072.0   44   DIAMICTITO            CINZA       ESCURO                                                     
+4085.0   49   ARENITO                           ESBRANQUICADO GROSSEIRO       SUBARREDONDADO               
+4092.0   44   DIAMICTITO            CINZA       ESCURO                                                     
+4097.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+4102.0   57   FOLHELHO              CINZA       ESCURO                                                     
+4106.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+4109.0   44   DIAMICTITO            CINZA       ESCURO                                                     
+4119.0   49   ARENITO               VARIEGADO                 CONGLOMERATICO  SUBANGULAR                   
+4126.0   44   DIAMICTITO            CINZA       ESCURO                                                     
+4132.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+4139.0   44   DIAMICTITO            CINZA       ESCURO                                                     
+4151.0   49   ARENITO                           ESBRANQUICADO MEDIO           SUBARREDONDADO               
+4201.0   57   FOLHELHO              CINZA       ESCURO                                                     
+4222.0   49   ARENITO                           ESBRANQUICADO MEDIO           SUBARREDONDADO               
+4229.0   44   DIAMICTITO            CINZA       ESCURO                                                     
+4233.0   65   DIABASIO              VARIEGADO                                                              
+4236.0   49   ARENITO                           ESBRANQUICADO MEDIO           SUBARREDONDADO               
+4238.0   44   DIAMICTITO            CINZA       ESCURO                                                     
+4249.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+4257.0   44   DIAMICTITO            CINZA       ESCURO                                                     
+4264.0   49   ARENITO               CINZA       ESBRANQUICADO CONGLOMERATICO  SUBANGULAR                   
+4266.0   44   DIAMICTITO            CINZA       ESCURO                                                     
+4278.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+4280.0   44   DIAMICTITO            CINZA       ESCURO                                                     
+4311.0   49   ARENITO               BRANCO      ACINZENTADO   MEDIO           SUBARREDONDADO               
+4313.0   54   SILTITO               CINZA       CLARO                                                      
+4337.0   49   ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBARREDONDADO               
+4347.0   54   SILTITO               CINZA       CLARO                                                      
+4351.0   49   ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBARREDONDADO               
+4353.0   54   SILTITO               CINZA       CLARO                                                      
+4365.0   49   ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBARREDONDADO               
+4367.0   57   FOLHELHO              CINZA       ESCURO                                                     
+4388.0   49   ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBARREDONDADO               
+4393.0   57   FOLHELHO              CINZA       ESCURO                                                     
+4418.0   49   ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBARREDONDADO               
+4421.0   57   FOLHELHO              CINZA       ESCURO                                                     
+4493.0   49   ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBARREDONDADO               
+4496.0   54   SILTITO               CINZA       CLARO                                                      
+4500.0   44   DIAMICTITO            CINZA       ESCURO                                                     
+4502.0   49   ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBARREDONDADO               
+4508.0   44   DIAMICTITO            CINZA       ESCURO                                                     
+4518.0   49   ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBARREDONDADO               
+4520.0   44   DIAMICTITO            CINZA       ESCURO                                                     
+4536.0   49   ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBARREDONDADO               
+4544.0   54   SILTITO               CINZA       CLARO                                                      
+4552.0   44   DIAMICTITO            CINZA       ESCURO                                                     
+4558.0   54   SILTITO               CINZA       CLARO                                                      
+4565.0   49   ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBARREDONDADO               
+4568.0   44   DIAMICTITO            CINZA       ESCURO                                                     
+4574.0   49   ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBARREDONDADO               
+4577.0   44   DIAMICTITO            CINZA       ESCURO                                                     
+4608.0   49   ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBARREDONDADO               
+4620.0   54   SILTITO               CINZA       CLARO                                                      
+4629.0   49   ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBARREDONDADO               
+4634.0   54   SILTITO               CINZA       CLARO                                                      
+4648.0   49   ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBARREDONDADO               
+4651.0   57   FOLHELHO              CINZA       ESCURO                                                     
+4653.0   49   ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBARREDONDADO               
+4655.0   54   SILTITO               CINZA       CLARO                                                      
+4658.0   49   ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBARREDONDADO               
+4661.0   54   SILTITO               CINZA       ESCURO                                                     
+4664.0   49   ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBARREDONDADO               
+4667.0   54   SILTITO               CINZA       ESCURO                                                     
+4673.0   49   ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBARREDONDADO               
+4685.0   57   FOLHELHO              CINZA       ESCURO                                                     
+4687.0   49   ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBARREDONDADO               
+4696.0   57   FOLHELHO              CINZA       ESCURO                                                     
+4727.0   54   SILTITO               CINZA       CLARO                                                      
+4747.0   57   FOLHELHO              CINZA       ESCURO                                                     
+4771.0   54   SILTITO               CINZA       CLARO                                                      
+4791.0   57   FOLHELHO              CINZA       ESCURO                                                     
+4795.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+4797.0   57   FOLHELHO              CINZA       ESCURO                                                     
+4799.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+4803.0   57   FOLHELHO              CINZA       ESCURO                                                     
+4805.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+4812.0   57   FOLHELHO              CINZA       ESCURO                                                     
+4814.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+4817.0   57   FOLHELHO              CINZA       ESCURO                                                     
+4819.0   49   ARENITO               CINZA       ESBRANQUICADO MUITO FINO                                   
+4830.0   57   FOLHELHO              CINZA       ESCURO                                                     
+4940.0   65   DIABASIO              CINZA       ESBRANQUICADO                                              
+4955.0   57   FOLHELHO              CINZA       ESCURO                                                     
+5054.0   65   DIABASIO              CINZA       ESBRANQUICADO                                              
+5079.0   57   FOLHELHO              CINZA       ESCURO                                                     
+5081.0   49   ARENITO               CINZA       ESVERDEADO    FINO            SUBARREDONDADO               
+5083.0   54   SILTITO               CREME       ESBRANQUICADO                                              
+5085.0   49   ARENITO               CINZA       ESVERDEADO    FINO            SUBARREDONDADO               
+5087.0   54   SILTITO               CREME       ESBRANQUICADO                                              
+5091.0   49   ARENITO               CINZA       ESVERDEADO    FINO            SUBARREDONDADO               
+5093.0   57   FOLHELHO              CINZA       ESCURO                                                     
+5096.0   49   ARENITO               CINZA       ESVERDEADO    FINO            SUBARREDONDADO               
+5099.0   54   SILTITO               CINZA       ESCURO                                                     
+5103.0   49   ARENITO               CINZA       ESVERDEADO    FINO            SUBARREDONDADO               
+5105.0   54   SILTITO               CINZA       ESCURO                                                     
+5113.0   49   ARENITO               CINZA       CLARO         FINO            SUBARREDONDADO               
+5117.0   54   SILTITO               CINZA       ESCURO                                                     
+5119.0   49   ARENITO               CINZA       CLARO         FINO            SUBARREDONDADO               
+5121.0   54   SILTITO               CINZA       ESCURO                                                     
+5124.0   49   ARENITO               CINZA       CLARO         FINO            SUBARREDONDADO               
+5130.0   54   SILTITO               CINZA       ESCURO                                                     
+5132.0   49   ARENITO               CINZA       CLARO         FINO            SUBARREDONDADO               
+5137.0   54   SILTITO               CINZA       ESCURO                                                     
+5142.0   49   ARENITO               CINZA       CLARO         FINO            SUBARREDONDADO               
+5144.0   54   SILTITO               CINZA       ESCURO                                                     
+5149.0   49   ARENITO               CINZA       CLARO         FINO            SUBARREDONDADO               
+5151.0   54   SILTITO               CINZA       ESCURO                                                     
+5155.0   49   ARENITO               CINZA       CLARO         FINO            SUBARREDONDADO               
+5157.0   54   SILTITO               CINZA       ESCURO                                                     
+5159.0   49   ARENITO               CINZA       CLARO         FINO            SUBARREDONDADO               
+5168.0   57   FOLHELHO              CINZA       ESCURO                                                     
+5183.0   65   DIABASIO              CINZA       ESBRANQUICADO                                              
+5186.0   57   FOLHELHO              CINZA       ESCURO                                                     
+5191.0   54   SILTITO               CINZA       ESCURO                                                     
+5193.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+5196.0   54   SILTITO               CINZA       ESCURO                                                     
+5200.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+5205.0   54   SILTITO               CINZA       ESCURO                                                     
+5209.0   57   FOLHELHO              CINZA       ESCURO                                                     
+5314.0   65   DIABASIO              CINZA       ESBRANQUICADO                                              
+5341.0   57   FOLHELHO              CINZA       ESCURO                                                     
+5349.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+5351.0   54   SILTITO               CINZA       CLARO                                                      
+5354.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+5356.0   54   SILTITO               CINZA       CLARO                                                      
+5358.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+5362.0   54   SILTITO               CINZA       CLARO                                                      
+5364.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+5371.0   54   SILTITO               CINZA       CLARO                                                      
+5373.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+5375.0   54   SILTITO               CINZA       CLARO                                                      
+5378.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+5381.0   57   FOLHELHO              CINZA       ESCURO                                                     
+5384.0   54   SILTITO               CINZA       CLARO                                                      
+5396.0   57   FOLHELHO              CINZA       ESCURO                                                     
+5511.0   65   DIABASIO              CINZA       ESBRANQUICADO                                              
+5539.0   57   FOLHELHO              CINZA       ESCURO                                                     
+5541.0   49   ARENITO               CINZA       CLARO         MUITO FINO                                   
+5571.0   57   FOLHELHO              CINZA       ESCURO                                                     
+5593.0   49   ARENITO               CINZA       CLARO         MUITO FINO                                   
+5596.0   54   SILTITO               CINZA       CLARO                                                      
+5621.0   49   ARENITO               CINZA       CLARO         MUITO FINO                                   
+5629.0   54   SILTITO               CINZA       CLARO                                                      
+5667.0   49   ARENITO               CINZA       CLARO         MUITO FINO                                   
+5670.0   54   SILTITO               CINZA       ESVERDEADO                                                 
+5676.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+5679.0   54   SILTITO               CINZA       ESVERDEADO                                                 
+5681.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+5686.0   54   SILTITO               CINZA       ESVERDEADO                                                 
+5737.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+5739.0   54   SILTITO               CINZA       ESVERDEADO                                                 
+5745.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+5750.0   54   SILTITO               CINZA       ESVERDEADO                                                 
+5760.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+5763.0   54   SILTITO               CINZA       ESVERDEADO                                                 
+5773.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+5776.0   54   SILTITO               CINZA       CLARO                                                      
+5789.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+5791.0   54   SILTITO               CINZA       ESVERDEADO                                                 
+5801.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+5803.0   54   SILTITO               CINZA       CLARO                                                      
+5807.0   49   ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBARREDONDADO               
+5809.0   54   SILTITO               CINZA       ESVERDEADO                                                 
+5811.0   49   ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBARREDONDADO               
+5813.0   54   SILTITO               CINZA       CLARO                                                      
+5825.0   49   ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBARREDONDADO               
+5829.0   54   SILTITO               CINZA       ESVERDEADO                                                 
+5856.0   49   ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+5858.0   54   SILTITO               CINZA       CLARO                                                      
+5911.0   49   ARENITO               CINZA       ESBRANQUICADO MEDIO           SUBARREDONDADO               

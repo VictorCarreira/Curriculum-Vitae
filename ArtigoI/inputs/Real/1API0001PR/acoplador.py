@@ -18,23 +18,73 @@ from appynho_2 import plotagem as plm2
 
 
 
-#Adicionando o meu Debugger:
+#Adicionando o Debugger:
 def pause():
-    programPause = input("Press the <ENTER> key to continue...")
+    programPause = input("Aperte <ENTER> para continuar ...")
     return
   
-#----------------------------------------------------------#
-# Leitura do data frame que contém os canais da perfilagem #
-#----------------------------------------------------------#
-df = pd.read_csv("1TP0003SC.txt", sep='\s+', skiprows=36 , 
-                 names=('Depth1(m)','Depth2(m)' ,'DT', 'GR','CALI','RHOB','NPHI','DRHO','ILD','SP'))
+#----------------------------------------------------------------------#
+# Leitura do data frame que contém os canais da perfilagem RECALL 0005 #
+#----------------------------------------------------------------------#
+df5 = pd.read_csv("1API0001PR005.txt", sep='\s+', skiprows=8 , 
+                 names=('Depth1(m)','GR','CALI','MSFL','DT','TT1','TT2','TT3','TT4','TENS'))
 
 # Retira as colunas:
-df=df.drop('Depth2(m)',axis=1) #retira a coluna da profundidade duplicada
-#df=df.drop('CALI',axis=1) #retira a coluna caliper
-df=df.drop('NPHI',axis=1) #retira a coluna nphi
-df=df.drop('DRHO',axis=1) #retira a coluna drho
-df=df.drop('ILD',axis=1) #retira a coluna ild
+#df5=df5.drop('Depth(m)',axis=1)
+#df5=df5.drop('CALI',axis=1)
+df5=df5.drop('MSFL',axis=1)
+df5=df5.drop('TT1',axis=1)
+df5=df5.drop('TT2',axis=1)
+df5=df5.drop('TT3',axis=1)
+df5=df5.drop('TT4',axis=1)
+df5=df5.drop('TENS',axis=1)
+df5=df5.drop('GR',axis=1)
+
+
+
+#-------------------------------------------------------------------------#
+# Leitura do data frame que contém os canais da perfilagem no RECALL 0006 #
+#-------------------------------------------------------------------------#
+df6 = pd.read_csv("1API0001PR006.txt", sep='\s+', skiprows=8 , 
+                 names=('Depth1(m)','SP','GR','CALI','ILD','SN','TENS'))
+
+# Retira as colunas:
+#df6=df6.drop('Depth(m)',axis=1)
+df6=df6.drop('CALI',axis=1)
+df6=df6.drop('ILD',axis=1)
+df6=df6.drop('SN',axis=1)
+df6=df6.drop('TENS',axis=1)
+df6=df6.drop('GR',axis=1)
+
+
+
+#------------------------------------------------------------------------#
+# Leitura do data frame que contém os canais da perfilagem no RECALL 009 #
+#------------------------------------------------------------------------#
+df9 = pd.read_csv("1API0001PR009.txt", sep='\s+', skiprows=8 , 
+                 names=('Depth1(m)','GR', 'CALI','FFDC','NFDC','RHOB','DRHOB','NPHI','FCNL','NCNL','TENS'))
+
+# Retira as colunas:
+df9=df9.drop('CALI',axis=1)
+df9=df9.drop('FFDC',axis=1)
+df9=df9.drop('NFDC',axis=1)
+df9=df9.drop('DRHOB',axis=1)
+df9=df9.drop('NPHI',axis=1) 
+df9=df9.drop('FCNL',axis=1)
+df9=df9.drop('NCNL',axis=1)
+df9=df9.drop('TENS',axis=1) 
+
+
+
+
+
+#-------------------------------------------------------------------------------#
+#                          Cria um DataFrame Único                              #
+#-------------------------------------------------------------------------------#
+              
+
+
+df = df5.merge(df6,on='Depth1(m)').merge(df9,on='Depth1(m)')
 
 #Inverte as linhas do dataframe e reseta os índices:
 df=df[::-1].reset_index()
@@ -42,9 +92,12 @@ df=df[::-1].reset_index()
 #Filtra os expúrios ferramentais:
 df=df[(df['RHOB'] != -999.2500) & (df['RHOB'] != -999999.9999)] 
 df=df[(df['SP'] != -999.2500) &  (df['SP' ] != -999999.9999)]
-df=df[(df['DT'] != -999.2500) & (df['DT'] != -999999.9999)]
+df=df[(df['DT'] != -999.2500) & (df['DT'] != -999999.9999) & (df['DT'] != 0.0)]
 df=df[(df['GR'] != -999.2500) &  (df['GR'] != -999999.9999)]
 df=df[(df['CALI'] != -999.2500) &  (df['CALI'] != -999999.9999)]
+
+
+
 
 #----------------------------------------------------------#
 #            Filtra trechos desmoronados:                  #
@@ -62,16 +115,16 @@ li = dim - delta
 df=df[(df['CALI'] >= li) & (df['CALI'] <= ls)]#informação baseada diametro do poco
 
 # II - filtragem visual:
-df=df[(df['Depth1(m)'] >= 2800) & (df['Depth1(m)'] <= 3200)]#info baseada na prof
+#df=df[df['Depth1(m)'] >= 2800]#info baseada na prof
 
 
-#print('Classification data:',df.info())
+
 
 #---------------------------------------------------------#
 # Leitura do arquivo *.apg e criação do DataFrame:        #
 #---------------------------------------------------------#
 
-lito = pd.read_csv("1TP0003SCagp_mod.txt", sep='\s+', usecols=(0,2,3), 
+lito = pd.read_csv("1API0001PRagp_mod.txt", sep='\s+', usecols=(0,1,2), 
                    index_col=False, na_values= ' ', skiprows=1, names=('Depth(m)', 'Code', 'Rock') ) 
 
 
@@ -133,7 +186,7 @@ print(df)
 # ------------------------------------------------------#
 
 inputmodels= pd.DataFrame(df,columns = ['Rock', 'Code', 'Depth1(m)', 'RHOB', 'GR','SP','DT'])
-inputmodels.to_csv('perfis_1TP0003SC.txt', sep=' ', index=False) 
+inputmodels.to_csv('perfis_1API0001PR.txt', sep=' ', index=False) 
 
 
 
@@ -141,50 +194,48 @@ inputmodels.to_csv('perfis_1TP0003SC.txt', sep=' ', index=False)
 # Imgem caso seja um poco                               #
 #-------------------------------------------------------#
 
-#+++++++++++++++++++++++++++++++++++++++++++++++#
-# RESUMO DAS ROCHAS ENCONTRADAS NO POCO -       #
-#-----------------------------------------------#
-#   8  CALCARENITO      =     6.0 M       .19 % #
-#  42  CONGLOMERADO     =    29.0 M       .90 % #
-#  44  DIAMICTITO       =   230.0 M      7.10 % #
-#  49  ARENITO          =   838.0 M     25.88 % #
-#  54  SILTITO          =   318.0 M      9.82 % #
-#  57  FOLHELHO         =   648.0 M     20.01 % #
-#  65  DIABASIO         =   181.0 M      5.59 % #
-#  66  BASALTO          =   955.0 M     29.49 % #
-#  70  METAMOR.NAO IDE. =    33.0 M      1.02 % #
-#+++++++++++++++++++++++++++++++++++++++++++++++#
+#+++++++++++++++++++++++++++++++++++++++++#
+# RESUMO DAS ROCHAS ENCONTRADAS NO POCO   #
+#+++++++++++++++++++++++++++++++++++++++++#                                                                            
+#  6 | CALCILUTITO | 2.0 M    | .20 %     #                                                                            
+#  8 | CALCARENITO | 39.0 M   | .66 %     #                                                                             
+#  44|  DIAMICTITO | 84.0 M   | 1.42 %    #                                                                              
+#  49|  ARENITO    | 2049.0 M | 34.71 %   #                                                                             
+#  54|  SILTITO    | 891.0 M  | 15.09 %   #                                                                             
+#  57|  FOLHELHO   | 423.0 M  |  7.17 %   #                                                                                
+#  65|  DIABASIO   | 1060.0 M |  17.96 %  #                                                                               
+#  66|  BASALTO    | 1345.0 M |  22.79 %  #                                                                             
+#+++++++++++++++++++++++++++++++++++++++++#   
 
 #Dicionário de cores do poço:
 
 
-rockcolors={ 8:['#0080ef','Calciferous sandstone'],
-            42:['#ffbf20','Conglomerate'],
+rockcolors={ 6:['#50ffff','Calciferous mudstone'],
+             8:['#0080ef','Calciferous sandstone'],
             44:['#10ef60','Diamictite'],
             49:['#ffff40','Sandstone'],
             54:['#af2050','Siltstone'],
             57:['#40ff00' ,'Shale'],
             65:['#ff00ff' ,'Diabase'],
-            66:['#f900f9','Basalt'],
-            70:['#ff0000' ,'Metamorphic']}
+            66:['#f900f9','Basalt']}
 
 
 # Edita o tamanho do plot
 padrao={'comprimento':10,
             'altura':50,
-        'titulo_geral': '1TP0003SC'
+        'titulo_geral': '1API0001PR'
 }
 
 padrao2={'comprimento':6,
             'altura':100,
-        'titulo_geral': '1TP0003SC'
+        'titulo_geral': '1API0001PR'
 }
 #Análise de desmoronamento:
 figure1 = plm2(2,padrao2)
 figure1.plot_l2(0,code,prof, rockcolors,{'titulo':'Lithology', 'descricao_y':'Depth(m)','descricao_x':'(a)'})
 figure1.plot_s(1,cali,prof,{'titulo':'CALI \n $(In)$','cor':'k','alfabeto':'k','descricao_x':'(b)'})
 
-figure1.legenda({'ancoragem':(-0.1, 0.1, 2.3, -0.14),'colunas':2,'ordem':[0,1,2,3,4,5,6,7,8] })
+figure1.legenda({'ancoragem':(-0.1, 0.1, 2.3, -0.14),'colunas':2,'ordem':[0,1,2,3,4,5,6,7] })
 
 #Desenha os plots
 figure2 = plm2(6, padrao)
@@ -195,7 +246,7 @@ figure2.plot_s(3,gr,prof,{'titulo':'GR \n $(ci/g$)','cor':'r','descricao_x':'(c)
 figure2.plot_s(4,sp,prof,{'titulo':'SP\n $(mV)$', 'cor':'k','descricao_x':'(d)'})
 figure2.plot_s(5,dt,prof,{'titulo':'DT \n $(\mu s/m)$','cor':'g','descricao_x':'(e)'})
 
-figure2.legenda({'ancoragem':(-0.9, 0.09, 8.0, -0.14),'colunas':4,'ordem':[0,1,2,3,4,5,6,7,8] })
+figure2.legenda({'ancoragem':(-0.9, 0.09, 8.0, -0.14),'colunas':4,'ordem':[0,1,2,3,4,5,6,7] })
     
 plt.savefig('1TP0003SC.pdf', dpi=300, bbox_inches = 'tight', transparent = True)
 
@@ -207,9 +258,9 @@ plt.show()
 #           Salva o arquivo de log                       #
 #--------------------------------------------------------#
 #Parametros do teste
-wellname= ['1TP0003SC']
+wellname= ['1API0001PR']
 data = {'Well Site': wellname, 'Diameter(pol)':dim, 'Rate(+/-)':delta} 
 log = pd.DataFrame(data)
 print(log)
-log.to_csv('../../../log/Real/Alog260620a.txt',sep=' ', index=False)
+log.to_csv('../../../log/Real/log220620a.txt',sep=' ', index=False)
 

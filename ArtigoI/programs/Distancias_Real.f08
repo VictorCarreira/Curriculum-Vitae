@@ -27,20 +27,23 @@ PROGRAM Estatisticos
   INTEGER, PARAMETER::DP = SELECTED_REAL_KIND(12,100)
   INTEGER(KIND=SP):: i,j,i1,i2,i3,i4,i5,i6,i7,i8,i9, ie, ij, nt, ndclass, imelhor
   INTEGER(KIND=SP)::acertos, erro
+  INTEGER(KIND=SP), ALLOCATABLE, DIMENSION(:):: lito_maha
   REAL(KIND=DP)::maha1,maha2,maha3, eucli, a1, a2, a3, a4, a5, a6, inicio, fim, soma, grande, menor
-  REAL(KIND=SP), ALLOCATABLE, DIMENSION(:):: proftr, profcl, codtr, codcl,dist, lito_maha,xx
+  REAL(KIND=SP), ALLOCATABLE, DIMENSION(:):: proftr, profcl, codtr, codcl,dist, xx, rock
   REAL*8, DIMENSION(4):: xmin, xmax
-  REAL(KIND=DP), ALLOCATABLE, DIMENSION(:,:):: tr, cl, lito1,lito2,lito3,lito4, lito5, lito6, lito7, lito8, centroide, distMaha
+  REAL(KIND=DP), ALLOCATABLE, DIMENSION(:,:):: tr, cl, lito1,lito2,lito3,lito4, lito5, lito6, lito7, lito8, lito9, centroide &
+         , distMaha
   CHARACTER(LEN=80):: cab, litologia ,litologiatr, litologiacl
   
   CALL CPU_TIME(inicio)
 
   !Entradas
-   OPEN(1,FILE='../inputs/Real/BD_wells_Real2.txt')
-   OPEN(2,FILE='../inputs/Real/classificacao1API0001.txt')
+   OPEN(1,FILE='../inputs/Real/1RCH0001SC/perfis_1RCH0001SC.txt')
+   OPEN(2,FILE='../inputs/Real/1TP0003SC/perfis_1TP0003SC.txt')
   !Saídas 
-   OPEN(3,FILE='../outputs/Real/Eucli_1API0001.txt')
-   OPEN(4,FILE='../outputs/Real/Maha_1API0001.txt')
+   OPEN(3,FILE='../outputs/Real/ERclass020720.txt')
+   OPEN(4,FILE='../outputs/Real/MRclass020720.txt')
+   OPEN(5,FILE='../log/Real/MLlog020720.txt')
    
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!!$$$$$$$$$$$$$$$$$$$$$ LEITURA DOS ARQUIVOS DE ENTRADA $$$$$$$$$$$$$$$$$$$$$$!
@@ -86,12 +89,12 @@ WRITE(6,*)"N dados a serem classificadonsons",ndclass
 !Armazena vetores de profundidades e codigos rochosos
 ALLOCATE(codtr(1:nt),codcl(1:ndclass),proftr(1:nt),profcl(1:ndclass))
 !Armazena matrizes de propriedades físicas
-ALLOCATE(tr(1:nt,4),cl(1:ndclass,4))
+ALLOCATE(tr(1:nt,4),cl(1:ndclass,4),rock(8))
 
 
 !!!! ARMAZENA OS DADOS NAS MATRIZES E VETORES DIMENSIONADOS PARA OS DADOS !!!!!!!!!!!!!!! 
 
-OPEN(1,FILE='../inputs/Real/BD_wells_Real2.txt')
+OPEN(1,FILE='../inputs/Real/1RCH0001SC/perfis_1RCH0001SC.txt')
 
 READ(1,15) cab 
 READ(1,15) cab
@@ -102,7 +105,7 @@ DO i=1,nt
   READ(1,*) litologiatr, codtr(i), proftr(i),tr(i,1),tr(i,2),tr(i,3),tr(i,4)
 END DO 
 
-OPEN(2,FILE='../inputs/Real/classificacao1API0001.txt')
+OPEN(2,FILE='../inputs/Real/1TP0003SC/perfis_1TP0003SC.txt')
 READ(2,15) cab  
 READ(2,15) cab   
 
@@ -122,8 +125,33 @@ END DO
 !!!!!!!!!!!!!!!!!!!!!!!!!!!! ETAPA DE TREINAMENTO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!!!!!!!!!!!! VIZUALIZA DOS DADOS NA TELA PARA DETERMINAÇÃO DOS CLUSTERS !!!!!!!!!
 
+!!!!!!!!!!!!!!!!!!! 1RHC0001SC !!!!!!!!!!!!!!!!
+!   6  CALCILUTITO      =    16.0 M       .49 %
+!  44  DIAMICTITO       =   361.0 M     11.04 %
+!  49  ARENITO          =   689.0 M     21.08 %
+!  54  SILTITO          =   452.0 M     13.83 %
+!  56  ARGILITO         =    68.0 M      2.08 %
+!  57  FOLHELHO         =   523.0 M     16.00 %
+!  58  MARGA            =     3.0 M       .09 %
+!  65  DIABASIO         =   179.0 M      5.48 %
+!  66  BASALTO          =   978.0 M     29.92 %
+
+
+rock(1)=6
+rock(2)=44
+rock(3)=49
+rock(4)=54
+rock(5)=56
+rock(6)=57
+rock(7)=58
+rock(8)=65
+!rock(9)=66
+
+
 !!!!!!!!!!!! Divide o dado em subsets !!!!!!!!!!!!!
-i=0
+!Contador:
+i=0 
+!Rochas:
 i1=0
 i2=0
 i3=0
@@ -132,6 +160,8 @@ i5=0
 i6=0
 i7=0
 i8=0
+i9=0
+
 
 
 
@@ -154,11 +184,14 @@ DO i=1,nt
       i7=i7+1
    ELSE IF (codtr(i) == 56.0) THEN ! argilito
       i8=i8+1
+   ELSE IF (codtr(i) == 66.0) THEN ! basalto   
+      i9=i9+1
   END IF
 END DO
 
-ALLOCATE( lito1(i1,4),lito2(i2,4),lito3(i3,4),lito4(i4,4),lito5(i5,4) )
-ALLOCATE(lito6(i6,4),lito7(i7,4),lito8(i8,4))
+
+ALLOCATE(lito1(i1,4),lito2(i2,4),lito3(i3,4),lito4(i4,4),lito5(i5,4) )
+ALLOCATE(lito6(i6,4),lito7(i7,4),lito8(i8,4),lito9(i9,4))
 
 i=0
 i1=0
@@ -169,6 +202,7 @@ i5=0
 i6=0
 i7=0
 i8=0
+i9=0 
 
 !!!!!! Preenche as matrizes de subsets com o dado !!!!!!!
 
@@ -228,6 +262,13 @@ DO i=1, nt
       lito8(i8,2)= tr(i,2)
       lito8(i8,3)= tr(i,3)
       lito8(i8,4)= tr(i,4) 
+
+   ELSE IF (codtr(i) == 66.0 ) THEN
+      i9=i9+1   
+      lito9(i9,1)= tr(i,1)
+      lito9(i9,2)= tr(i,2)
+      lito9(i9,3)= tr(i,3)
+      lito9(i9,4)= tr(i,4) 
    END IF
 END DO
 
@@ -239,7 +280,7 @@ END DO
 !tipo rochoso em relação a cada linha do arquivo de classificação.
 
 
-!!!!!!!!!! DETERMINAÇÃO DA MATRIZ DOS CENTRÓIDES = centroide (13,4) !!!!!!!!!!!!
+!!!!!!!!!! DETERMINAÇÃO DA MATRIZ DOS CENTRÓIDES = centroide (9,4) !!!!!!!!!!!!
 
  ALLOCATE(centroide(8,4))
 
@@ -308,6 +349,18 @@ DO i=1,4
  centroide(8,i)= soma/DFLOAT(i8)
 END DO
 
+
+!DO i=1,4 
+!  soma=0d0
+!  DO j=1,i9
+!   soma=soma+lito9(j,i)
+!  END DO 
+! centroide(9,i)= soma/DFLOAT(i9)
+!END DO
+
+
+
+
 PRINT*,'************************ MATRIZ DE CENTROIDES *****************************'
 DO i=1,8
  WRITE(6,*)(centroide(i,j),j=1,4)
@@ -333,12 +386,16 @@ grande=0.0d0
  DO i=1,8
   grande=grande+abs(dist(i))
  END DO
-
+ 
  menor=grande  !1.d10   !grande					!deve ser um número grande
+! print*,menor,minval(dist,1)
+ 
+  
   DO i=1,8
    IF(dist(i).LT.menor) THEN
     menor=dist(i)
-    imelhor=i
+    imelhor=rock(i)
+   print*,imelhor
     END IF
    END DO
 
@@ -376,6 +433,10 @@ grande=0.0d0
       xx(j) = 56.0
   END IF
 
+  IF (imelhor == 66.0) THEN
+      xx(j) = 66.0
+  END IF
+
   WRITE(3,*) j, 'lito=', xx(j)
 
 END DO
@@ -411,6 +472,10 @@ PRINT*,'Erros da classificação euclideana=>',erro
 
 PRINT*,'+++++++++++++++++++++++++++++++++++++++++++++++++'
 
+WRITE(5,FMT=*)'1TP0003SC'
+WRITE(5,FMT=*)'ACERTOS(MLE)=',acertos
+WRITE(5,FMT=*)'ERROS(MLE)=',erro
+
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!!!!!!!!!!!!!!!!!!!!!! MAHALANOBEAN MACHINE LEARNING !!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -418,7 +483,7 @@ PRINT*,'+++++++++++++++++++++++++++++++++++++++++++++++++'
 
 ! Calculo entre 1 nuvem de treinamento e 1 ponto pertencente aos dados de classificacao:
 
-  ALLOCATE(distMaha(ndclass,9), lito_maha(ndclass)) ! numero de dados de classificacao x numero de litologias a serem comparadas
+  ALLOCATE(distMaha(ndclass,8), lito_maha(ndclass)) ! numero de dados de classificacao x numero de litologias a serem comparadas
 
   DO i=1,ndclass ! numero total de dados de classificacao
       CALL mahalanobeana(lito1, i1, cl(i,:),  1, 4, distMaha(i,1) ) ! distancia do i-esimo ponto dos dados de classificaco em relacao a lito1
@@ -429,6 +494,7 @@ PRINT*,'+++++++++++++++++++++++++++++++++++++++++++++++++'
       CALL mahalanobeana(lito6, i6, cl(i,:),  1, 4, distMaha(i,6) )
       CALL mahalanobeana(lito7, i7, cl(i,:),  1, 4, distMaha(i,7) )
       CALL mahalanobeana(lito8, i8, cl(i,:),  1, 4, distMaha(i,8) )
+      !CALL mahalanobeana(lito9, i9, cl(i,:),  1, 4, distMaha(i,9) )
    END DO
    
    ! Localizacao do indice dos menores valores de distmaha e guardando no vetor lito_maha: 
@@ -439,41 +505,46 @@ PRINT*,'+++++++++++++++++++++++++++++++++++++++++++++++++'
    xx=0
    DO j=1,ndclass
 
-     IF (lito_maha(j) == 49.0) THEN 
+     IF (rock(lito_maha(j)) == 49.0) THEN 
          xx(j) = 49.0
      END IF
 
-     IF (lito_maha(j) == 44.0) THEN
+     IF (rock(lito_maha(j)) == 44.0) THEN
          xx(j) = 44.0
      END IF
 
-     IF (lito_maha(j) == 57.0) THEN
+     IF (rock(lito_maha(j)) == 57.0) THEN
          xx(j) = 57.0
      END IF
 
-     IF (lito_maha(j) == 54.0) THEN
+     IF (rock(lito_maha(j)) == 54.0) THEN
          xx(j) = 54.0
      END IF
 
-     IF (lito_maha(j) == 6.0) THEN
+     IF (rock(lito_maha(j)) == 6.0) THEN
          xx(j) = 6.0
      END IF
 
-     IF (lito_maha(j) == 58.0) THEN
+     IF (rock(lito_maha(j)) == 58.0) THEN
          xx(j) = 58.0
      END IF
 
-     IF (lito_maha(j) == 65.0) THEN
+     IF (rock(lito_maha(j)) == 65.0) THEN
          xx(j) = 65.0
      END IF
 
-      IF (lito_maha(j) == 56.0) THEN
+      IF (rock(lito_maha(j)) == 56.0) THEN
        xx(j) = 56.0
       END IF
 
+      !IF (lito_maha(j) == 66.0) THEN
+      ! xx(j) = 66.0
+      !END IF
+
        WRITE(4,*) j, 'lito=', xx(j)
        PRINT*,xx(j)
-   END DO
+
+    END DO
 
 
 
@@ -507,6 +578,10 @@ PRINT*,'Erros da classificação mahalanobeana=>',erro
 
 PRINT*,'++++++++++++++++++++++++++++++++++++++++++++'
 
+WRITE(5,FMT=*)'ACERTOS(MLM)=',acertos
+WRITE(5,FMT=*)'ERROS(MLM)=',erro
+
+
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ FORMAT $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -520,6 +595,8 @@ PRINT*,'++++++++++++++++++++++++++++++++++++++++++++'
   CLOSE(1)
   CLOSE(2)
   CLOSE(3)
+  CLOSE(4)
+  CLOSE(5)
   
 
   CALL CPU_TIME(fim)

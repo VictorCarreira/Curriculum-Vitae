@@ -12,7 +12,7 @@
    REAL*8, DIMENSION(4):: xmin, xmax
    integer*4 v(120,120,8),cn
    character*11 L(4),tic
-   character*80 cab, branco
+   character*80 cab, branco, obs
 
 ! cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 ! c	ARQUIVOS 
@@ -23,13 +23,13 @@ open(1,file='../inputs/Real/1RCH0001SC/perfis_1RCH0001SC.txt')! Banco de Dados
 open(2,file='../inputs/Real/1TP0003SC/perfis_1TP0003SC.txt') !Dado a ser classificado.
 
 !Saidas: mapas
-open(3,file='../outputs/Real/SOM1_120620b.txt')
-open(4,file='../outputs/Real/SOM2_120620b.txt') ! mapas: neurônios visitados, props., e litos.
-open(5,file='../outputs/Real/SOM3_120620b.txt')
+open(3,file='../outputs/Real/SOM1_300620a.txt')
+open(4,file='../outputs/Real/SOM2_300620a.txt') ! mapas: neurônios visitados, props., e litos.
+open(5,file='../outputs/Real/SOM3_300620a.txt')
 !Saidas: convergência e modelo classificado
-open(7,file='../outputs/Real/CONV_120620b.txt')! convergência
-open(8,file='../outputs/Real/CLASS_120620b.txt')  ! classificacao
-open(9,file='../log/Real/log120620b.txt' )! arquivo de log 
+open(7,file='../outputs/Real/CONV_300620a.txt')! convergência
+open(8,file='../outputs/Real/CLASS_300620a.txt')  ! classificacao
+open(9,file='../log/Real/Klog300620a.txt' )! arquivo de log 
 !************************* INICIO *************************************************
 CALL CPU_TIME(init)
 
@@ -68,13 +68,17 @@ write(6,*) "n de dados a serem classificados",nclass
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! Leitura do arquivo de log
-read(9,15) cab ! cabeçalho
-read(9,19) logacopla !Le o dado do acoplamento
+!read(9,15) cab ! cabeçalho
+!read(9,19) logacopla !Le o dado do acoplamento
 
 ! ALOCACAO DINAMICA;
 allocate (tr(1:nt,4),cl(1:nt),tclass(1:nclass,4),cld(1:nclass))
 
-open(1,file='../inputs/Real/1RCH0001SC/perfis_1RCH0001SC.txt')
+
+
+
+!!!!!!!!!!!! LEITURA DOS DADOS DE TREINAMENTO:!!!!!!!!!!!!!!!!!!!!!
+open(1,file='../inputs/Real/1RCH0001SC/perfis_1RCH0001SC.txt')!
 
 read(1,15) cab    ! cabeçalho
 read(1,15) cab    ! linha em branco abaixo do cabeçalho
@@ -117,15 +121,15 @@ open(2,file='../inputs/Real/1TP0003SC/perfis_1TP0003SC.txt')
  c4min=res1(4)   !4.61d0
  c4max=res2(4)   !5.88d0
 
-!nta=80   !20 ! número de neurônios em cada lado do tabuleiro
+!nta=40   !20 ! número de neurônios em cada lado do tabuleiro
 
 ! Adicionando rotina que calcula o n ótimo de neuronios (Jian,2014)
 ! M = 5 [N]**(1/2)
 !M, n neuronios
 !N, n observações
 
-!nta = (5*((nt)**(1/2)))  ! Adaptado de Jian(2014). Torna a rede adaptativa. 
-nta = (nt)**(1/2)*11 !(Carreira,2020)
+nta = (5*((nt)**(1/2)))  ! Adaptado de Jian(2014). Torna a rede adaptativa. 
+!nta = (nt)**(1/2)*11 !(Carreira,2020)
 
 
  print*, 'numero de neuronios da rede=',nta**2
@@ -239,16 +243,16 @@ nta = (nt)**(1/2)*11 !(Carreira,2020)
 !foi definido na primeira etapa.
 
 n_rep= 10000 !3000 !10000  
-n_par= 1000
+n_par= 10000
 
 
  do ih=1,n_rep       !tempo    !!   Loopp 2
 
    ! taxa de aprendizado variando com o numero de iteracoes:
-   k1=2d0*(1d0-(dfloat(ih)/dfloat(n_par+1)))
-   k2=k1* 1000.21d0   !1.1d0
-
-   !print*, 'k1=',k1
+   k1=2*(1d0-(dfloat(ih)/dfloat(n_par+1)))!2.5d-5!2
+   k2=k1/2.5d-4   !1.1d2
+   !k2=1d10*DEXP(-dfloat(ih)+1.1d0)
+   print*, 'k2=',k2
 
    do ig=1,nt  !144  ! dados de treinamento   !!  Loop1
     ! busca pelo neuronio vitorioso
@@ -524,7 +528,7 @@ print*,'tempo de máquina=',fina-init,'segundos'
 
 !Escreve o arquivo de log:
 write(9,*)'   '
-write(9,*)"SOM parameters:"
+write(9,*)"SOM parametros:"
 write(9,*)'n dados de treinamento=',nt
 write(9,*)'n dados de classificacao=', nclass
 write(9,*)'Epocas=', n_rep
@@ -533,15 +537,9 @@ write(9,*)'Rede(n neuronios)=',nta**2
 write(9,*)'Ociosidade(n neuronios)=',soma
 write(9,*)'Erros totais=',ierro,'  ',100d0*ierro/nclass,'%'
 write(9,*)'tempo de máquina=',fina-init,'segundos'
+write(9,*)'Banco de dados:','','1RHC0001SC'
+write(9,*)'Dado de classificacao','','1TP0003SC - Non collapsed'
 
-!Analisa a convergência
-
-!CALL gp%title('Convergence test')
-!CALL gp%xlabel('Epoch')
-!CALL gp%ylabel('Error')
-!Call gp%options('set style data linespoints')
-!Call Plot to draw a vector against a vector of data
-!CALL gp%plot(ih, somacon)
 
 !FORMATS
 11 format(10(ES12.4E3,2x))
